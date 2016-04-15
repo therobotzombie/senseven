@@ -2,7 +2,6 @@ body {
 	font-family: 'Lato', sans-serif;
 	overflow-x: hidden;
 }
-
 h1 {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
@@ -95,7 +94,7 @@ p span {
 /*****************************/
 header {
 	position: relative;
-	z-index: 99999;
+	z-index: 999;
 }
 #nav, #navbg {
 	transition: all 0.7s ease-out; 
@@ -119,7 +118,6 @@ header {
 	background: -webkit-linear-gradient(top,  rgba(6,35,47,1) 0%,rgba(10,39,51,0.8) 45%,rgba(10,39,51,0) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to bottom,  rgba(6,35,47,1) 0%,rgba(10,39,51,0.8) 45%,rgba(10,39,51,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#06232f', endColorstr='#00ffffff',GradientType=0 ); /* IE6-9 */
-
 }
 #nav.affix {
     position: fixed;
@@ -386,6 +384,7 @@ header {
 .projekte-section {
 	padding-top: 200px;
 }
+/* IMAGE GRID */
 .cbp-rfgrid {
 	margin: 15px 0;
 	padding: 0;
@@ -559,44 +558,50 @@ header {
 	text-decoration: none !important;
 }
 .btn .btn-link {
-	fontö-weight: 700;
+	font-weight: 700;
 }
-
 
 /*=============================
 =            MODALS            =
 =============================*/
-
+.modal.fade .modal-dialog { top: 2em; -moz-transform: scale(1.9); -ms-transform: scale(1.9); -webkit-transform: scale(1.9); transform: scale(1.9); opacity: 0; -moz-transition-property: -moz-transform; -o-transition-property: -o-transform; -webkit-transition-property: -webkit-transform;  transition-property: transform; 
+-moz-transition-duration: 0.4s; -o-transition-duration: 0.4s; -webkit-transition-duration: 0.4s; transition-duration: 0.4s; }
+.modal.fade.in .modal-dialog { -moz-transform: scale(1); -ms-transform: scale(1); -webkit-transform: scale(1); transform: scale(1); opacity: 1; }
+.modal-content { padding: 2em 0 1em 0; }
+.modal .underline-white {
+	margin: 15px auto 5px auto; 
+	margin: 1vmin auto 0.5vmin auto;
+}
+.modal h3 {
+    font-size: 30px;
+	font-size: 3vmin;
+}
+.modal a { color: #8bb7c1; font-weight: 600; text-transform: none; font-size: 1.0em; }
+.modal a:hover { color: #fff; }
+.modal-body { color: #fff; max-height: 100% !important; height: 100%; font-weight: 300; font-size: 1.2em; line-height: 1.4em; } 
+.modal i { margin-right: 5px; color: #fff; }
+.modal-header button.close { font-size: 4em; font-weight: 100; opacity: 0.6; color: #8bb7c1; }
+.modal-header button.close:hover { opacity: 1; color: #fff; }
 /* .modal-fullscreen */
-.modal-fullscreen {
-  background: transparent;
-  z-index: 999999999999999 !important;
-}
-.modal-fullscreen .modal-content {
-  background: transparent;
-  border: 0;
-  -webkit-box-shadow: none;
-  box-shadow: none;
-}
-.modal-backdrop.modal-backdrop-fullscreen {
-  background: #ffffff;
-}
-.modal-backdrop.modal-backdrop-fullscreen.in {
-  opacity: .97;
-  filter: alpha(opacity=97);
-}
-
+.modal-fullscreen { position: fixed !important; background: transparent; }
+.modal-fullscreen .modal-content { background: transparent; border: 0; -webkit-box-shadow: none; box-shadow: none; }
+.modal-backdrop { min-height: 100% !important; position: fixed; }
+.modal-backdrop.modal-backdrop-fullscreen { background: #06232f; }
+.modal-backdrop.modal-backdrop-fullscreen.in { opacity: .96; filter: alpha(opacity=96);}
+.modal-header { border-bottom: 1px solid #8bb7c1; text-align: center; }
+.modal-footer { border-top: 1px solid #8bb7c1; }
+	
 /* .modal-fullscreen size: we use Bootstrap media query breakpoints */
+.modal-fullscreen .modal-dialog { margin: 0; margin-right: auto; margin-left: auto; width: 100%; }
 
-.modal-fullscreen .modal-dialog {
-  margin: 0;
-  margin-right: auto;
-  margin-left: auto;
-  width: 100%;
-}
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .modal-fullscreen .modal-dialog {
-    width: 750px;
+     width: 1170px;
+  }
+}
+@media (min-width: 1024px) {
+  .modal-fullscreen .modal-dialog {
+    width: 1170px;
   }
 }
 @media (min-width: 992px) {
@@ -604,8 +609,11 @@ header {
     width: 970px;
   }
 }
-@media (min-width: 1200px) {
-  .modal-fullscreen .modal-dialog {
-     width: 1170px;
-  }
+@media only screen and (max-width : 767px) {
+	.modal { font-size: .9em; }
+	.modal-content { padding: 1em 0 1em 0; }
+	.modal-body { padding-top: 0; }
+	.modal h1 { font-size: 2.25em; }
+	.modal h3 { font-size: 1.5em; }
 }
+
