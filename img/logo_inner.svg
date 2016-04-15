@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 656.8 702.1" style="enable-background:new 0 0 656.8 702.1;" xml:space="preserve">
+<g id="seven_bright">
+	<defs>
+		<path id="SVGID_1_" d="M212.1,602.3L421,204.1H192.8v-98.2H541v98.2L339.9,602.3C339.9,602.3,219.5,602.3,212.1,602.3z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#BBD6DC;" points="192.8,204.1 421,204.1 541,105.8 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#757B98;" points="219.7,602.3 339.9,602.3 371,304.6 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#34809B;" points="212.1,602.3 339.9,602.3 362.2,316 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#96C5CE;" points="362.2,316 339.9,602.3 516.7,252.1 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#5292A4;" points="420.4,204.1 362.2,316 516.7,252.1 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#BBD6DC;" points="540.9,204.1 420.4,204.1 516.7,252.1 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#34809B;" points="540.9,105.8 421.2,204.1 540.9,189 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#BBD6DC;" points="541,204.1 541,173.9 421,204.1 	"/>
+	<polygon style="clip-path:url(#SVGID_2_);fill:#5292A4;" points="192.8,105.8 192.8,204.1 541,105.8 	"/>
+</g>
+</svg>
