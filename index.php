@@ -21,7 +21,6 @@
                 	<li><a href="#" class="logo"><img src="img/logo_font_w.png"  class="img-responsive" alt="SENSEVEN" /></a></li>
                 </ul>
                 <ul class="nav pull-right list-inline navbar-nav">
-                	<!-- TODO aktuelle position anzeigen -->
                       <li><a href="#ueber-uns" class="page-scroll">über uns</a></li>
                       <li><a href="#projekte" class="page-scroll">projekte</a></li>
                       <li><a href="#ausstellung" class="page-scroll">ausstellung</a></li>
@@ -88,6 +87,8 @@
         
 
 </div> <!-- / wrapper-->
+
+
 
 <!-- modals -->
 <?php include("include/modals/project_mittelm.php"); ?>

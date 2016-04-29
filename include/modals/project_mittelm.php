@@ -19,10 +19,6 @@
                                 </p>
                                 <p>
                                 On your way into the depths of this site, you will discover illustrated scenes and quotes from selected books. 
-                                Just pick any book you like from the <a href="./index.php?page=home#bookshelf">bookshelf</a> or 
-                                start right <a href="./index.php?page=canyon">here</a> and then just 
-                                keep on <em>scrolling*</em> to see the magic happen! If you want to find out more about the books, check out this 
-                                <a href="#booklist" data-toggle="modal" data-target="#booklistModal" data-index="">list</a>.<br/>
                                 </p>
  
                             </div>
