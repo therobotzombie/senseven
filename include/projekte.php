@@ -12,18 +12,15 @@
             <ul class="cbp-rfgrid">
                 <li>
                     <a href="#" data-toggle="modal" data-target="#project-mittelm"><img src="img/project_mittelm.jpg" /><div><h3>Annika Mittelmeier</h3></div></a>
-                </li>
-                
+                </li>   
                 <li>
                     <a href="#" data-toggle="modal" data-target="#project-bardosi"><img src="img/project_bardosi.jpg" /><div><h3>Vivien Bardosi</h3></div></a>
                 </li>
                 <li>
                 	<a href="#" data-toggle="modal" data-target="#project-biersack"><img src="img/project_biersack.jpg" /><div><h3>Teresa Biersack</h3></div></a>
-                    <?php include("include/modals/project_biersack.php"); ?>
                 </li>
                 <li>
                 	<a href="#" data-toggle="modal" data-target="#project-aurbach"><img src="img/project_aurbach.jpg" /><div><h3>Alina Aurbach</h3></div></a>
-                    <?php include("include/modals/project_aurbach.php"); ?>
                 </li>
                 <li>
                 	<a href="#" data-toggle="modal" data-target="#project-modal"><img src="img/project_frohwein.jpg" /><div><h3>Daniel Frohwein</h3></div></a>
