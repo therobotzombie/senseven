@@ -293,6 +293,7 @@ header {
 	text-align: center;
 	height: 100%;
 }
+/* TODO vertikal mittig ausrichten */
 .canvas-content .seven {
 	position: relative;
 	z-index: 999999;
@@ -301,7 +302,7 @@ header {
 	cursor: pointer;
 	border: 10px solid #eee;
 	border: 1vmin solid #eee;
-	margin: 1% auto 0 auto;
+	margin: 0 auto 0 auto;
 	background: url(../img/logo_bg_blue.png) no-repeat center;
 	background-size: cover;
 	transition: background 0.5s ease-out; -webkit-transition: background 0.5s ease-out; -moz-transition: background 0.5s ease-out; 
@@ -404,6 +405,11 @@ header {
 .ueber-uns-section {
 	padding-top: 100px;
 }
+@media screen and (max-width: 768px) {
+	.ueber-uns-section {
+		padding-top: 0px;
+	}
+}
 
 /*****************************/
 /********* PROJEKTE  *********/
@@ -411,6 +417,14 @@ header {
 .projekte-section {
 	padding-top: 200px;
 }
+
+@media screen and (max-width: 768px) {
+	.projekte-section {
+		padding-top: 0px;
+	}
+}
+
+
 /* IMAGE GRID */
 .cbp-rfgrid {
 	margin: 15px 0;
@@ -554,6 +568,40 @@ header {
 	padding-top: 200px;
 }
 
+@media screen and (max-width: 768px) {
+	.ausstellung-section {
+		padding-top: 0px;
+	}
+}
+
+
+/*****************************/
+/*******    DANKE    *********/
+/*****************************/
+.danke-section {
+	padding-top: 200px;
+}
+
+@media screen and (max-width: 768px) {
+	.danke-section {
+		padding-top: 0px;
+	}
+}
+
+
+/*****************************/
+/*******   KONTAKT   *********/
+/*****************************/
+.kontakt-section {
+	padding-top: 200px;
+}
+
+@media screen and (max-width: 768px) {
+	.kontakt-section {
+		padding-top: 0px;
+	}
+}
+
 
 /*****************************/
 /***** FOOTER *****/
@@ -600,43 +648,37 @@ header {
 /*****************************/
 /***** BACK TO TOP BTN   *****/
 /*****************************/
-    #top-link-block { z-index: 999999999999999999; }
-	#top-link-block a.btn {
-		width: 8vmin;
-		line-height: 1 !important;
-		font-weight: 600;
-		background-color: #06232f;
-		opacity: 0.8;
-		border: 0;
-		padding: 10px 0 !important;
-		text-align: center;
-	}
-	#top-link-block a.btn .fa {
-		font-size: 4vmin;
-	}
-	#top-link-block a.btn:hover {
-		color: #06232f !important;
-		background-color: rgba(255,255,255,0.5);
-		opacity: 1;
-	}
-    #top-link-block.affix-top {
-        position: absolute; /* allows it to "slide" up into view */
-        bottom: -200px; /* negative of the offset - height of link element */
-        right: 10px; /* padding from the left side of the window */
-     }
-    #top-link-block.affix {
-        position: fixed; /* keeps it on the bottom once in view */
-        bottom: 0px; /* height of link element */
-        right: 10px; /* padding from the left side of the window */
-    }
-
-    
-	@media (max-width: $screen-xs-max) {  
-	.fa {
-		margin-left: 0;
-	}
+#top-link-block { z-index: 999999999999999999; }
+#top-link-block a.btn {
+	width: 8vmin;
+	line-height: 1 !important;
+	font-weight: 600;
+	background-color: #06232f;
+	opacity: 0.8;
+	border: 0;
+	padding: 10px 0 !important;
+	text-align: center;
 }
-	
+#top-link-block a.btn .fa {
+	font-size: 4vmin;
+}
+#top-link-block a.btn:hover {
+	color: #06232f !important;
+	background-color: rgba(255,255,255,0.5);
+	opacity: 1;
+}
+#top-link-block.affix-top {
+	position: absolute; /* allows it to "slide" up into view */
+	bottom: -200px; /* negative of the offset - height of link element */
+	right: 10px; /* padding from the left side of the window */
+ }
+#top-link-block.affix {
+	position: fixed; /* keeps it on the bottom once in view */
+	bottom: 0px; /* height of link element */
+	right: 10px; /* padding from the left side of the window */
+}
+
+
 	
 /*=============================
 =            MODALS            =
