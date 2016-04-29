@@ -96,18 +96,28 @@ header {
 	position: relative;
 	z-index: 999;
 }
+#nav {	
+	width: 100%;
+	margin: 0 auto;
+	top: 0;
+	position: fixed;
+}
+#nav .container-fluid {
+	max-width: 1664px;
+}
 #nav, #navbg {
 	transition: all 0.7s ease-out; 
 	-webkit-transition: all 0.7s ease-out; 
 	-moz-transition: all 0.7s ease-out; 
 	-o-transition: all 0.7s ease-out; 
+	width: 100%;
 }
 #navbg {
-	top: -140px;
+	top: -100px;
 	left: 0;
 	position: fixed;
 	width: 100%;
-	height: 120px;
+	height: 110px;
 	z-index: 9;
 	background: rgba(2,15,32,0);
 }
@@ -124,6 +134,7 @@ header {
     top: 0;
     width: 100%;
     z-index: 10;
+	max-width: 100%;
 }
 .navbar {
 	min-height: 20px; 
@@ -152,15 +163,26 @@ header {
 	background: transparent;
 }
 
-@media screen and (max-width: 1200px) {
+
+@media screen and (max-width: 1300px) {
 	.nav > li > a {
 		margin-left: 0;
+		margin-right: 0;
 	}
+	.nav > li > a.logo {
+		width: 100%;
+		text-align: center;
+	}	
 	.nav > li > a.logo > img {
 		max-width: 390px;
+		margin: 0px auto 0;
 	}	
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px) {
+	.nav > li > a {
+		margin-left: 0;
+		margin-right: 0; 
+	}
 	.navbar-toggle {
 		margin: 0;
 		padding: 10px 5px;
@@ -205,10 +227,12 @@ header {
 		text-align: center;
 	}	
 	.nav > li > a.logo > img {
-		max-width: 350px;
-		margin: 10px auto 0;
+		max-width: 320px;
+		margin: 0px auto -20px;
 	}	
-	
+	#navbg {
+		height: 140px;
+	}
 }
 @media screen and (max-width: 767px) {
 	.nav > li > a.logo > img {
@@ -242,6 +266,9 @@ header {
 	#nav.affix {
 		background: rgba(2,15,32,0.8);
 	}
+	#navbg {
+		height: 0;
+	}
 }
 
 
@@ -266,6 +293,7 @@ header {
 	text-align: center;
 	height: 100%;
 }
+/* TODO vertikal mittig ausrichten */
 .canvas-content .seven {
 	position: relative;
 	z-index: 999999;
@@ -274,13 +302,13 @@ header {
 	cursor: pointer;
 	border: 10px solid #eee;
 	border: 1vmin solid #eee;
-	margin: 1% auto 0 auto;
+	margin: 0 auto 0 auto;
 	background: url(../img/logo_bg_blue.png) no-repeat center;
 	background-size: cover;
 	transition: background 0.5s ease-out; -webkit-transition: background 0.5s ease-out; -moz-transition: background 0.5s ease-out; 
 	-o-transition: background 0.5s ease-out;
 }
-.canvas-content .seven:hover {
+.canvas-content .seven:hover, .canvas-content .seven:active {
 	background: url(../img/logo_bg.png) no-repeat center;
 	background-size: cover;
 	border: 10px solid #fff;
@@ -377,6 +405,11 @@ header {
 .ueber-uns-section {
 	padding-top: 100px;
 }
+@media screen and (max-width: 768px) {
+	.ueber-uns-section {
+		padding-top: 0px;
+	}
+}
 
 /*****************************/
 /********* PROJEKTE  *********/
@@ -384,6 +417,14 @@ header {
 .projekte-section {
 	padding-top: 200px;
 }
+
+@media screen and (max-width: 768px) {
+	.projekte-section {
+		padding-top: 0px;
+	}
+}
+
+
 /* IMAGE GRID */
 .cbp-rfgrid {
 	margin: 15px 0;
@@ -405,7 +446,11 @@ header {
 	display: block;
 	width: 100%;
 	cursor: pointer;
-	-webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+}
+
+.cbp-rfgrid li a.empty:hover, .cbp-rfgrid li a.empty {
+	/* TODO funktioniert nicht */
+	cursor: default !important;
 }
 
 .cbp-rfgrid li a img {
@@ -413,7 +458,9 @@ header {
 	 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
-    -webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
+    -webkit-transition: all .9s ease; /* Fade to color for Chrome and Safari */
+	-moz-transition: all .9s;
+    transition: all .9s;
     -webkit-backface-visibility: hidden; /* Fix for transition flickering */
 }
 .cbp-rfgrid li a:hover img {
@@ -424,12 +471,14 @@ header {
 /* Flexbox is used for centering the heading */
 .cbp-rfgrid li a div {
 	position: absolute;
-	left: 10px;
-	top: 10px;
-	right: 10px;
-	bottom: 10px;
-	-webkit-transition: all .6s ease; /* Fade to color for Chrome and Safari */
-	background: rgba(0, 0, 0,0.6);
+	left: 5%;
+	top: 30%;
+	right: 5%;
+	bottom: 30%;
+	-webkit-transition: all .9s ease; /* Fade to color for Chrome and Safari */
+    -moz-transition: all .9s;
+    transition: all .9s;
+	background: rgba(0, 0, 0, 0.8);
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -449,7 +498,7 @@ header {
 	float: none;
 	color: #fff;
 	text-transform: uppercase;
-	font-size: 1.3em;
+	font-size: 2.3vmin;
 	letter-spacing: 1px;
 	padding: 0 10px;
 }
@@ -460,7 +509,7 @@ header {
 .cbp-rfgrid li a div h4 {
 	width: 100%;
 	color: #fff;
-	font-size: 1.0em;
+	font-size: 1.0vmin;
 	padding: 0px;
 }
 /* Example for media query: change number of items per row */
@@ -519,6 +568,40 @@ header {
 	padding-top: 200px;
 }
 
+@media screen and (max-width: 768px) {
+	.ausstellung-section {
+		padding-top: 0px;
+	}
+}
+
+
+/*****************************/
+/*******    DANKE    *********/
+/*****************************/
+.danke-section {
+	padding-top: 200px;
+}
+
+@media screen and (max-width: 768px) {
+	.danke-section {
+		padding-top: 0px;
+	}
+}
+
+
+/*****************************/
+/*******   KONTAKT   *********/
+/*****************************/
+.kontakt-section {
+	padding-top: 200px;
+}
+
+@media screen and (max-width: 768px) {
+	.kontakt-section {
+		padding-top: 0px;
+	}
+}
+
 
 /*****************************/
 /***** FOOTER *****/
@@ -561,6 +644,42 @@ header {
 	font-weight: 700;
 }
 
+
+/*****************************/
+/***** BACK TO TOP BTN   *****/
+/*****************************/
+#top-link-block { z-index: 999999999999999999; }
+#top-link-block a.btn {
+	width: 8vmin;
+	line-height: 1 !important;
+	font-weight: 600;
+	background-color: #06232f;
+	opacity: 0.8;
+	border: 0;
+	padding: 10px 0 !important;
+	text-align: center;
+}
+#top-link-block a.btn .fa {
+	font-size: 4vmin;
+}
+#top-link-block a.btn:hover {
+	color: #06232f !important;
+	background-color: rgba(255,255,255,0.5);
+	opacity: 1;
+}
+#top-link-block.affix-top {
+	position: absolute; /* allows it to "slide" up into view */
+	bottom: -200px; /* negative of the offset - height of link element */
+	right: 10px; /* padding from the left side of the window */
+ }
+#top-link-block.affix {
+	position: fixed; /* keeps it on the bottom once in view */
+	bottom: 0px; /* height of link element */
+	right: 10px; /* padding from the left side of the window */
+}
+
+
+	
 /*=============================
 =            MODALS            =
 =============================*/
