@@ -4,9 +4,10 @@
     <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                <h1>BEauty...</h1>
+                <h1>beauty(never)fades</h1>
                 <span class="underline-white"> </span>
                 <h3>Vivien Bardosi</h3>
+                <img class = "modal-img" src="img/project_bardosi.jpg" alt="Project">
           </div>
           
           <div class="modal-body">
@@ -14,13 +15,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <p>
-                                <span class="firstletter">D</span>o you know that feeling when you're so captured by a book that you forget you're actually reading? 
-                                Well I do and I think it's probably the best feeling in the world. 
+                                <span class="firstletter">D</span>as Sch&ouml;nheitsideal der Frau ist seit vielen Jahren ein sehr zentrales Thema in  unserer  Gesellschaft.  Dieses  m&ouml;chte  ich  aufgreifen  und  mit  modernen Technologien f&uuml;r den Betrachter erkundbar machen.  Der  Betrachter  soll  einen  Eindruck  davon  bekommen,  wie  gro&szlig;  die  Vielfalt der  Sch&ouml;nheitsideale  der  Frau  im  Wandel  der  Zeit  ist  und  sich  &uuml;ber  die gesellschaftlichen   Zusammenh&auml;nge   und   verschiedenen   Einfl&uuml;sse informieren k&ouml;nnen. Zudem soll dem Betrachter gezeigt werden, wie mittels Augmented Reality ein  bereits  oft  behandeltes  Thema  auf  eine  neue,  interaktive  und  sehr anschauliche Art pr&auml;sentiert werden kann.
                                 </p>
-                                <p>
-                                On your way into the depths of this site, you will discover illustrated scenes and quotes from selected books. 
-                                </p>
- 
                             </div>
                         </div> <!-- / row -->      
                     </div>

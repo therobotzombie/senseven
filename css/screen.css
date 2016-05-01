@@ -734,5 +734,9 @@ header {
 	.modal-body { padding-top: 0; }
 	.modal h1 { font-size: 2.25em; }
 	.modal h3 { font-size: 1.5em; }
+	.modal-img {
+		height:100%;
+		width:100%;
+	}
 }
 

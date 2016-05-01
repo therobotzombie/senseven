@@ -1,4 +1,5 @@
 <!--  MODAL ANNIKA ----->
+
 <div class="modal modal-fullscreen fade" id="project-mittelm" tabindex="-1" role="dialog">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -7,6 +8,7 @@
                 <h1>Expedition Tortuga</h1>
                 <span class="underline-white"> </span>
                 <h3>Annika Mittelmeier</h3>
+                <img class = "modal-img" src="img/project_mittelm.jpg" alt="Project">
           </div>
           
           <div class="modal-body">
@@ -14,13 +16,8 @@
                         <div class="row">
                             <div class="col-sm-12">
                                 <p>
-                                <span class="firstletter">D</span>o you know that feeling when you're so captured by a book that you forget you're actually reading? 
-                                Well I do and I think it's probably the best feeling in the world. 
+                                <span class="firstletter">E</span>
                                 </p>
-                                <p>
-                                On your way into the depths of this site, you will discover illustrated scenes and quotes from selected books. 
-                                </p>
- 
                             </div>
                         </div> <!-- / row -->      
                     </div>
