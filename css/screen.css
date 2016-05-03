@@ -61,7 +61,10 @@ p span {
     color: #8bb7c1;
 	margin-bottom: 10px;
 }
-
+.img-responsive { 
+    /* other definitions */
+    width:100%;
+}
 .underline-white {
     width: 10%;
     height: 8px;
@@ -614,6 +617,14 @@ header {
 /*****************************/
 .danke-section {
 	padding-top: 200px;
+}
+.danke-section .sponsoren {
+	padding: 20x;
+}
+.danke-section .sponsoren img {
+	background: white;
+	border-radius: 3px;
+	margin-bottom: 20px;
 }
 
 @media screen and (max-width: 768px) {
