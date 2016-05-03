@@ -136,6 +136,7 @@
 
 
 <!-- modals -->
+<?php include("include/modals/modalbasic.php"); ?>
 <?php include("include/modals/project_mittelm.php"); ?>
 <?php include("include/modals/project_bardosi.php"); ?>
 
@@ -145,6 +146,7 @@
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
+<script src="js/modalx.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/parallax.js"></script>
