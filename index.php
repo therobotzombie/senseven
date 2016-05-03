@@ -49,7 +49,7 @@
         <div class="content">
             <section class="canvas-wrap">
                 <div class="canvas-content">
-                    <img src="img/logo_seven.png" class="seven hidden-xs" alt="SENSEVEN"  />
+                    <img src="img/logo_seven.png" class="seven" alt="SENSEVEN"  />
                 </div>
                 <div id="canvas" class="gradient"></div>
             </section>

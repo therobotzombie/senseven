@@ -9,15 +9,14 @@
           </div>
           <div class="modal-body">
                 <div class="container-fluid">
-             
                         <div class="row">
                 			<div class="col-lg-12">
-                                <div class="col-sm-6">
+                                <div class="col-sm-6  text-center">
                                     <a href="img/SENSEVEN.PNG" class="logo">
                                         <img src="img/logo_300.png"><br/>
                                         Motiv als PNG</a>
                                 </div>
-                                <div class="col-sm-6">
+                                <div class="col-sm-6  text-center">
                                     <a href="img/SENSEVEN.eps" class="logo">
                                         <img src="img/logo_300.png"><br/>
                                         Motiv als EPS</a>
