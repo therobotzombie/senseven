@@ -1,13 +1,12 @@
 <div class="content-bg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h1>Danke</h1>
-                <span class="underline-white"> </span>
-                 <h4>Danke an alle Sponsoren und Helfer für die finanzielle und tatkräftige Unterstützung!</h4>
+            <div class="col-lg-10 col-lg-offset-1 text-center">
+                <h1>Vielen Dank</h1>
+          		<span class="underline-white"></span>
+                 <h4>für die finanzielle und tatkräftige Unterstützung</h4>
                  
                  <p>
-                <strong>TEXT ÄNDERN!!! von abart-kumm</strong><br>
                   Wir danken dem Department Kunstwissenschaften sowie den Instituten für Kunstpädagogik und Medieninformatik der LMU München. 
                   Desweiteren danken wir dem Team der Mohr Villa Freimann für die Bereitstellung ihrer Ausstellungsräume, den Sponsoren für ihre Spenden, 
                   unseren Familien und Freunden und allen weiteren Unterstützern. <br><br>

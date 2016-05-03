@@ -3,12 +3,12 @@
         <div class="row">
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
                 <h2>Die Ausstellung mit dem siebten Sinn</h2>
-                <span class="underline-white"> </span>
-                <h3>15.07.16 - 17.07.16</h3>
+                <span class="underline-white"></span>
+                <h3>15. Juli - 17. Juli 2016</h3>
             </div>
         </div>
         <div class="row">   
-            <div class="col-lg-offset-2 col-lg-8 col-lg-offset-2 text-center">
+            <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
                 <p><span>Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia 
                 am 15. Juli seine Abschlussausstellung im Studio 2 des Muffatwerks in München.</span></p>
 

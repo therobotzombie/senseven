@@ -21,7 +21,7 @@
     <meta name="twitter:image" content="http://senseven.net/img/logo_senseven_700.jpg">
     
     <!-- Social: Facebook / Open Graph -->
-    <meta property="fb:admins" content=""> <!-- TODO ? -->
+    <meta property="fb:admins" content="senseven2016"> <!-- TODO ? -->
     <meta property="og:title" content="SENSEVEN - Die Ausstellung mit dem siebten Sinn. Kunst und Multimedia 7">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.senseven.net">
@@ -51,9 +51,8 @@
     <link rel="apple-touch-icon" sizes="152x152" href="./img/icons/favicon-152.png">
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:100,400,300,700,900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-   	
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:100,400,300,700,900" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
 	<!-- Default Theme Style  -->
     <link href="css/screen.css" rel="stylesheet">
 
@@ -67,3 +66,4 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    

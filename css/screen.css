@@ -28,12 +28,14 @@ h3 {
 	margin-bottom: 20px;
 }
 h4 {
-    font-family: 'Lato', sans-serif;
-    font-size: 1.15em;
-    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4em;
+    font-weight: 300;
     color: #8bb7c1;
 	line-height: 1.5em;
-	margin-bottom: 18px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
 }
 h4 i.fa {
 	margin-right: 10px;
@@ -44,6 +46,14 @@ p, .btn, a {
     color: #fff;
 	font-size: 1.1em;
 	line-height: 1.5em;
+	font-weight: 300;
+}
+p strong {
+	font-weight: 400; 
+}
+p .fa-big {
+	font-size: 2em; 
+	color: #8bb7c1;
 }
 p span {
 	font-family: 'Lato', sans-serif;
@@ -58,7 +68,7 @@ p span {
     background: #ffffff;
     display: inline-block;
 	margin: 20px auto 20px auto; 
-	margin: 1.5vmin auto 2vmin auto;
+	margin: 2.5vmin auto 1.5vmin auto;
 }
 
 @media screen and (max-width: 767px) {
@@ -330,19 +340,20 @@ header {
 	width: 100%;
 	height: 100%;
 }
-
 .content {
     color: #ffffff;
     position: relative;
     z-index: 2;
 	padding: 100px 0 150px 0;
+	font-size: 1.1em;
 }
 .content-bg {
     color: #06232f;
     position: relative;
     z-index: 2;
     background: #06232f;
-	padding: 100px 0;
+	padding: 60px 0 80px 0;
+	font-size: 1.1em;
 }
 .no-padding {
 	padding: 0; 
@@ -364,13 +375,9 @@ header {
 }
 .text-right {
 	padding-right: 25px;
-	padding-top: 5px;
-	padding-bottom: 5px;
 }
 .text-left {
 	padding-left: 25px;
-	padding-top: 5px;
-	padding-bottom: 5px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -392,8 +399,8 @@ header {
 		text-align: center !important;
 		margin-bottom: 10px;
 	}
-	.col-xs-center.border-right {
-		border-right: 0px solid white;
+	.col-xs-center.class="lazy" data-original="ight {
+		class="lazy" data-original="ight: 0px solid white;
 	}
 }
 
@@ -424,22 +431,23 @@ header {
 	}
 }
 
-
 /* IMAGE GRID */
 .cbp-rfgrid {
-	margin: 15px 0;
+	margin: 5vmin 0 0 0;
 	padding: 0;
 	list-style: none;
 	position: relative;
 	width: 100%;
+	background: transparent;
 }
 .cbp-rfgrid li {
 	position: relative;
 	float: left;
 	overflow: hidden;
-	width: 25%; /* Fallback */
-	width: -webkit-calc(100% / 4);
-	width: calc(100% / 4);
+	width: 20%; /* Fallback */
+	width: -webkit-calc(100% / 5);
+	width: calc(100% / 5);
+	background: transparent;
 }
 .cbp-rfgrid li a,
 .cbp-rfgrid li a img {
@@ -447,14 +455,19 @@ header {
 	width: 100%;
 	cursor: pointer;
 }
-
-.cbp-rfgrid li a.empty:hover, .cbp-rfgrid li a.empty {
+.cbp-rfgrid li a img {
+	background: transparent url(../img/loader.gif) center no-repeat;
+}
+.cbp-rfgrid li a.empty:hover, .cbp-rfgrid li a.empty img {
 	/* TODO funktioniert nicht */
 	cursor: default !important;
 }
+.cbp-rfgrid li a.empty img {
+	background: transparent !important;
+}
 
 .cbp-rfgrid li a img {
-	max-width: 100%;
+	width: 100%;
 	 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
@@ -514,7 +527,7 @@ header {
 }
 /* Example for media query: change number of items per row */
 
-@media screen and (max-width: 1190px) {
+@media screen and (max-width: 1320px) {
 	.cbp-rfgrid li {
 		width: 25%; /* Fallback */
 		width: -webkit-calc(100% / 4);
@@ -540,9 +553,9 @@ header {
 
 @media screen and (max-width: 660px) {
 	.cbp-rfgrid li {
-		width: 50%; /* Fallback */
-		width: -webkit-calc(100% / 2);
-		width: calc(100% / 2);
+		width: 33.3333333%; /* Fallback */
+		width: -webkit-calc(100% / 3);
+		width: calc(100% / 3);
 	}
 	.cbp-rfgrid li a div h3 {
 		font-size: 0.95em;
@@ -615,6 +628,22 @@ header {
 	padding-top: 200px;
 }
 
+.kontakt-section .social .fa {
+	font-size: 60px;
+	margin: 0 15px 10px 15px;
+	float: left;
+	display: inline-block;
+}
+#pressemodal .modal-body { border: 0; }
+
+#pressemodal a.logo img {
+	border: 4px solid white;
+}
+#pressemodal a.logo img:hover {
+	border: 4px solid #8CC63F;
+}
+
+
 @media screen and (max-width: 768px) {
 	.kontakt-section {
 		padding-top: 0px;
@@ -629,10 +658,6 @@ header {
     text-transform: uppercase;
     font-size: 14px;
 }
-.social .fa {
-	font-size: 40px;
-	margin: 0px 5px 0 5px;
-}
 
 
 /*****************************/
@@ -643,7 +668,8 @@ header {
     margin: 20px 0 !important;
     line-height: 10px !important;
 	border: 2px solid white;
-    border-radius: 0px;
+	font-family: 'Montserrat', sans-serif;
+    class="lazy" data-original="adius: 0px;
     font-size: 16px;
     font-weight: 700 !important;
     color: #ffffff !important;
@@ -689,12 +715,12 @@ header {
 #top-link-block.affix-top {
 	position: absolute; /* allows it to "slide" up into view */
 	bottom: -200px; /* negative of the offset - height of link element */
-	right: 10px; /* padding from the left side of the window */
+	right: 15px; /* padding from the left side of the window */
  }
 #top-link-block.affix {
 	position: fixed; /* keeps it on the bottom once in view */
 	bottom: 0px; /* height of link element */
-	right: 10px; /* padding from the left side of the window */
+	right: 15px; /* padding from the left side of the window */
 }
 
 

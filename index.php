@@ -133,25 +133,27 @@
 
 </div> <!-- / wrapper-->
 
-
-
 <!-- modals -->
 <?php include("include/modals/modalbasic.php"); ?>
-<?php include("include/modals/project_mittelm.php"); ?>
-<?php include("include/modals/project_bardosi.php"); ?>
-
-
+<?php include("include/modals/presse.php"); ?>
 
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <script src="js/modalx.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
 <script src="js/parallax.js"></script>
-<!-- Main library -->
 <script src="js/three.min.js"></script>
+<script src="js/jquery.lazyload.min.js"></script>
+
+
+<script>
+	$('img.lazy').lazyload({
+		 effect : "fadeIn"
+	});
+</script>
 
 <!-- bootstrap scripts -->
 <script>
@@ -224,6 +226,6 @@
   pic.src="img/logo_bg.png";
 </script>
 
-   
+
 </body>
 </html>
