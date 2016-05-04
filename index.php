@@ -141,19 +141,12 @@
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
+<script src="js/jquery.unveil.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/modalx.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/parallax.js"></script>
 <script src="js/three.min.js"></script>
-<script src="js/jquery.lazyload.min.js"></script>
-
-
-<script>
-	$('img.lazy').lazyload({
-		 effect : "fadeIn"
-	});
-</script>
 
 <!-- bootstrap scripts -->
 <script>
@@ -188,6 +181,17 @@
 </script>
 
      
+<script>
+	$("img.lazy").unveil(-100, function() {
+	  $(this).load(function() {
+		this.style.opacity = 0.8;
+	  });
+	});
+	$("img").error(function () {
+		$(this).css('border', 'none');
+	})
+</script>
+
 <!-- Helpers -->
 <script src="js/projector.js"></script>
 <script src="js/canvas-renderer.js"></script>

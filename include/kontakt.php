@@ -17,7 +17,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.instagram.com/_senseven_/" target="_blank">
+                    <a href="https://www.instagram.com/senseven_2016/" target="_blank">
                           <i class="fa fa-instagram"></i>
                     </a>
                 </li>

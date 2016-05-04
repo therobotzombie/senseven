@@ -12,13 +12,13 @@
                         <div class="row">
                 			<div class="col-lg-12">
                                 <div class="col-sm-6  text-center">
-                                    <a href="img/SENSEVEN.PNG" class="logo">
-                                        <img src="img/logo_300.png"><br/>
+                                    <a href="img/downloads/SENSEVEN.PNG" class="logo">
+                                        <img src="img/downloads/logo_300.png"><br/>
                                         Motiv als PNG</a>
                                 </div>
                                 <div class="col-sm-6  text-center">
-                                    <a href="img/SENSEVEN.eps" class="logo">
-                                        <img src="img/logo_300.png"><br/>
+                                    <a href="img/downloads/SENSEVEN.eps" class="logo">
+                                        <img src="img/downloads/logo_300.png"><br/>
                                         Motiv als EPS</a>
                                 </div>
                             </div>

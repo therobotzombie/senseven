@@ -11,7 +11,7 @@ dani.modals.basicHtml =
 "<h1>Expedition Tortuga</h1>"+
 "<span class=&quotunderline-white&quot> </span>"+
     "<h3>Annika Mittelmeier</h3>"+
-"<img class = &quotmodal-img&quot src=&quotimg/project_mittelm.jpg&quot alt=&quotProject&quot>"+
+"<img class = &quotmodal-img lazy&quot src=&quotimg/projekte/project_mittelm.jpg&quot alt=&quotProject&quot>"+
     "</div>"+
 
     "<div class=&quotmodal-body&quot>"+

@@ -363,6 +363,12 @@ header {
 .no-padding {
 	padding: 0; 
 }
+.no-padding-right {
+	padding-right: 0;
+}
+.no-padding-left {
+	padding-left: 0;
+}
 
 #map_canvas {
 	width: 96%;
@@ -404,8 +410,8 @@ header {
 		text-align: center !important;
 		margin-bottom: 10px;
 	}
-	.col-xs-center.class="lazy" data-original="ight {
-		class="lazy" data-original="ight: 0px solid white;
+	.col-xs-center .border-right {
+		border-right: 0px solid white;
 	}
 }
 
@@ -436,6 +442,15 @@ header {
 	}
 }
 
+img.lazy {
+  max-width: 100%;
+  height: auto;
+  opacity: 0;
+  transition: opacity 1.6s ease-in;
+  -webkit-transition: opacity 1.6s ease-in; 
+  -moz-transition: opacity 1.6s ease-in;
+}
+	
 /* IMAGE GRID */
 .cbp-rfgrid {
 	margin: 5vmin 0 0 0;
@@ -460,9 +475,7 @@ header {
 	width: 100%;
 	cursor: pointer;
 }
-.cbp-rfgrid li a img {
-	background: transparent url(../img/loader.gif) center no-repeat;
-}
+
 .cbp-rfgrid li a.empty:hover, .cbp-rfgrid li a.empty img {
 	/* TODO funktioniert nicht */
 	cursor: default !important;
@@ -471,8 +484,9 @@ header {
 	background: transparent !important;
 }
 
-.cbp-rfgrid li a img {
+.cbp-rfgrid li a img.lazy {
 	width: 100%;
+	opacity: 0;
 	 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
@@ -481,8 +495,9 @@ header {
     transition: all .7s;
     -webkit-backface-visibility: hidden; /* Fix for transition flickering */
 }
-.cbp-rfgrid li a:hover img {
+.cbp-rfgrid li a:hover img.lazy {
 	filter: none;
+	opacity: 1 !important;
 	-webkit-filter: grayscale(0%)
 }
 
@@ -621,12 +636,20 @@ header {
 .danke-section .sponsoren {
 	padding: 20x;
 }
-.danke-section .sponsoren img {
-	background: white;
+.danke-section .sponsoren img.lazy {
 	border-radius: 3px;
+	padding: 15x 10px;
 	margin-bottom: 20px;
+	opacity: 0;
+	font-size: 1em;
+	line-height: 2em;
+	border: 0px solid transparent;
+	color: transparent;
+	transition: all 0.8s ease-out 0s; -webkit-transition: all 0.8s ease-out; -moz-transition: all 0.8s ease-out; -o-transition: all 0.8s ease-out;
 }
-
+.danke-section .sponsoren img.lazy:hover {
+	opacity: 1 !important;
+}
 @media screen and (max-width: 768px) {
 	.danke-section {
 		padding-top: 0px;
@@ -640,7 +663,6 @@ header {
 .kontakt-section {
 	padding-top: 200px;
 }
-
 .kontakt-section .social .fa {
 	font-size: 60px;
 	margin: 0 15px 10px 15px;
@@ -682,7 +704,7 @@ header {
     line-height: 10px !important;
 	border: 2px solid white;
 	font-family: 'Montserrat', sans-serif;
-    class="lazy" data-original="adius: 0px;
+    border-radius: 0px;
     font-size: 16px;
     font-weight: 700 !important;
     color: #ffffff !important;

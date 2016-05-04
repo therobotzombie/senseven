@@ -1,4 +1,4 @@
-<!--  MODAL BASIC -->
+<!--  MODAL BASIC - TODO lazyload image? -->
 <div class="modal modal-fullscreen fade" id="modalbasic" tabindex="-1" role="dialog">
 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   <div class="modal-dialog">
