@@ -1,4 +1,4 @@
-img/project_biersack.jpg--_-
+project_biersack.jpg--_-
   S&uuml;&szlig;es oder Salziges?--_-
 Teresa Biersack--_-
 Bei dem Projekt S&uuml;&szlig;es oder Salziges? handelt es sich um ein interaktives Kochbuch.
@@ -12,3 +12,4 @@ In meinem Kochbuch werdet ihr das Gegenteil erfahren!
 Wie k&ouml;nnen wir zum Beispiel Brokkoli auch als ein s&uuml;&szlig;es Gericht genie&szlig;en?
 Mit kleinen Illustrationen, k&uuml;nstlerischen Fotografien, Einkaufslisten und Vielem mehr,
 k&ouml;nnt ihr euch auch von meinem Ebook die neuen Gerichte zeigen lassen.
+--_-0.7,0.3,0.1,1,0.1,0.1,0.6

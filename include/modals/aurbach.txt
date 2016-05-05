@@ -1,4 +1,5 @@
-img/project_aurbach.jpg--_-
+project_aurbach.jpg--_-
 Ein besonderes Schachspiel--_-
 Alina Aurbach--_-
 Ein besonderes Schachspiel: Bei dieser Partie kommt sicherlich keine Langeweile auf! Bei dieser Arbeit wird ein reales Schachbrett samt Figuren mit einer ansprechenden 2D-Animation verbunden. Die 2D-Animation reagiert auf die Z&uuml;ge, die der Betrachter selbst am realen Schachbrett vornehmen kann. Somit hat er die M&ouml;glichkeit einen kleinen &quot;Film&quot; &uuml;ber die Schlachten zwischen zwei K&ouml;nigreichen selbst zu beeinflussen und mitzugestalten. Nat&uuml;rlich braucht es f&uuml;r eine gute Schachpartie und somit einen spannenden Film einige F&auml;higkeiten: r&auml;umliches Vorstellungsverm&ouml;gen, Fantasie, Vorausdenken, Geduld und nicht zuletzt das korrekte Einsch&auml;tzen des anderen Spielers.
+--_-0.7,0.3,0.1,1,0.1,0.1,0.1

@@ -1,52 +1,76 @@
+/**
+ * singleton for all custom functions
+ * @type {{}}
+ */
 var dani = {};
+/**
+ * all custom modal functions
+ * @type {{}}
+ */
 dani.modals = {
 };
-
-dani.modals.basicHtml =
-    "<div class=&quotmodal modal-fullscreen fade&quot id=&quotproject-mittelm.txt&quot tabindex=&quot-1&quot role=&quotdialog&quot>"+
-    "<div class=&quotmodal-dialog&quot>"+
-    "<div class=&quotmodal-content&quot>"+
-    "<div class=&quotmodal-header&quot>"+
-    "<button type=&quotbutton&quot class=&quotclose&quot data-dismiss=&quotmodal&quot aria-label=&quotClose&quot><span aria-hidden=&quottrue&quot>&times;</span></button>"+
-"<h1>Expedition Tortuga</h1>"+
-"<span class=&quotunderline-white&quot> </span>"+
-    "<h3>Annika Mittelmeier</h3>"+
-"<img class = &quotmodal-img lazy&quot src=&quotimg/projekte/project_mittelm.jpg&quot alt=&quotProject&quot>"+
-    "</div>"+
-
-    "<div class=&quotmodal-body&quot>"+
-    "<div class=&quotcontainer-fluid&quot>"+
-    "<div class=&quotrow&quot>"+
-    "<div class=&quotcol-sm-12&quot>"+
-    "<p>"+
-    "<span class=&quotfirstletter&quot>E</span>"+
-    "</p>"+
-    "</div>"+
-    "</div> <!-- / row -->"+
-"</div>"+
-"</div>"+
-"<div class=&quotmodal-footer&quot>"+
-    "</div>"+
-
-    "</div><!-- /.modal-content -->"+
-    "</div><!-- /.modal-dialog -->"+
-    "</div><!-- /.modal -->";
-
-dani.modals.addModal = function(id) {
+/**
+ * open a modal
+ * @param id
+ */
+dani.modals.openModal = function(id) {
     jQuery.get('include/modals/'+id+".txt", function(data) {
         var splitted = data.split("--_-");
-        $("#modalImg").attr("src", splitted[0]);
-        var toAppendTo = $( "#modalHeader" );
-        toAppendTo.html( splitted[1] );
-        toAppendTo = $( "#modalName" );
-        toAppendTo.html( splitted[2] );
-        toAppendTo = $( "#modalText" );
-        var txt = "<span class='firstletter'>"+splitted[3].slice(2,3)+"</span>"+splitted[3].slice(3,1000);
-        toAppendTo.html( txt );
+        $("#modalImg").attr("src", "img/projekte/" + splitted[0]);
+        var toAppendTo = $("#modalHeader");
+        toAppendTo.html(splitted[1]);
+        toAppendTo = $("#modalName");
+        toAppendTo.html(splitted[2]);
+        toAppendTo = $("#modalText");
+        var txt = "<span class='firstletter'>" + splitted[3].slice(2, 3) + "</span>" + splitted[3].slice(3, 1000);
+        toAppendTo.html(txt);
+
+        //glyph percent
+        if (splitted[4] != null) {
+            var percentArray = splitted[4].split(",");
+            console.log(percentArray);
+            dani.glyph.percents = percentArray;
+        } else {
+            dani.glyph.percents = [1,1,1,1,1,1,1]
+        }
+        dani.glyph.startGlyph();
     });
 };
 
+/**
+ * if phaser is loaded
+ * @type {boolean}
+ */
+dani.phaserLoaded = false;
+/**
+ * glyph functions
+ * @type {{}}
+ */
+dani.glyph = {};
+/**
+ * stores percent for glyph from txt
+ * @type {number[]}
+ */
+dani.glyph.percents = [1,1,1,1,1,1,1]
+/**
+ * load stuff needed for the glyph
+ */
+dani.glyph.startGlyph =  function() {
+    if(dani.phaserLoaded!=true) {
+        $.get("js/glyphGenerator/phaser.js", function() {
+            $.get("js/glyphGenerator/startOut.js", function() {
+                dani.phaserLoaded = true;
+            });
+        });
+    } else {
+        glv.reset();
+    }
+};
+
+/**
+ * triggers when a modal is opened
+ */
 $(window).on('shown.bs.modal', function(e) {
     var id = $(e.relatedTarget).data('projekt-id');
-    dani.modals.addModal(id);
+    dani.modals.openModal(id);
 });

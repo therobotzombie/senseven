@@ -1,4 +1,5 @@
-img/project_kurbanova.jpg--_-
+project_kurbanova.jpg--_-
 Who is Sia--_-
 Irina Kurbanova--_-
 Man befindet sich im Zimmer der 15-j&auml;hrigen Sia. Auf den ersten Blick ein typisches M&auml;dchen in einem klassischen M&auml;dchenzimmer. Doch der Schein tr&uuml;gt... Der Betrachter kann die 10-cm gro&szlig;e Puppe bewegen und im Zimmer neu positionieren. Dabei werden die jeweiligen Kurzsequenzen abgespielt, in denen man Sia, ihre Gedanken und ihre Geheimnisse kennen lernt. Das Hauptaugenmerk in der Arbeit liegt auf der &Auml;sthetik der Filmszenen. Eine Mischung aus analogem Stop-Motion-Film und digitalem Animationsfilm. &quot;Who is Sia&quot; behandelt die spannende Zeit des Erwachsenwerdens. Eine Zeit, in der man sich als heranwachsender Jungendlicher von der Kindheit verabschiedet und in eine neue Welt eintaucht. Eine Welt, in der nicht alles so perfekt ist, wie es mal war.
+--_-0.7,0.3,0.1,1,0.1,0.1,0.1

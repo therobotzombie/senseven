@@ -17,6 +17,7 @@
                             </div>
                         </div>
                     </div>
+                    <div id="modalcv" align="center"></div>
               </div>
         <div class="modal-footer">
         </div>

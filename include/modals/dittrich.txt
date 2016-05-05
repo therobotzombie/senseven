@@ -1,4 +1,4 @@
-img/project_dittrich.jpg--_-
+project_dittrich.jpg--_-
 muSE(E)um--_-
 Svenja Dittrich--_-
 Der digitale Wandel macht auch vor dem Kulturbetrieb nicht Halt.
@@ -7,3 +7,4 @@ Wie kann ein Museum also auf &auml;sthetische und sinnvolle Art und Weise Kunst 
 In diesem Projekt wird ein Ger&auml;t entwickelt, das den Museumsbesucher anhand einer selbstentwickelten Software durch die Ausstellungen und Sammlungen des Hauses führen wird. Durch ein ansprechendes, minimalistisches Interface und alternativen Methoden der Kunstvermittlung, werden komplexe Inhalte vermittelt und
 dem Betrachter eine neue M&ouml;glichkeit gegeben, Kunst zu erfahren.<br/><br/>
 Dieses Konzept wird als Prototyp für das Lenbachhaus in München etwickelt.
+--_-0.7,0.3,0.1,1,0.1,0.1,0.1
