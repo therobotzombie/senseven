@@ -17,17 +17,20 @@ dani.modals.openModal = function(id) {
     jQuery.get('include/modals/'+id+".txt", function(data) {
         var splitted = data.split("--_-");
         $("#modalImg").attr("src", "img/projekte/" + splitted[0]);
+		$("#modalImg2").attr("src", "img/fotos/" + splitted[1]);
         var toAppendTo = $("#modalHeader");
-        toAppendTo.html(splitted[1]);
-        toAppendTo = $("#modalName");
         toAppendTo.html(splitted[2]);
+        toAppendTo = $("#modalName");
+		toAppendTo.html(splitted[3]);
+        toAppendTo = $("#modalEmail");		
+        toAppendTo.html(splitted[4]);
         toAppendTo = $("#modalText");
-        var txt = "<span class='firstletter'>" + splitted[3].slice(2, 3) + "</span>" + splitted[3].slice(3, 1000);
+        var txt = "<span class='firstletter'>" + splitted[5].slice(2, 3) + "</span>" + splitted[5].slice(3, 1000);
         toAppendTo.html(txt);
 
         //glyph percent
-        if (splitted[4] != null) {
-            var percentArray = splitted[4].split(",");
+        if (splitted[6] != null) {
+            var percentArray = splitted[6].split(",");
             console.log(percentArray);
             dani.glyph.percents = percentArray;
         } else {

@@ -1,5 +1,7 @@
 project_korbanka.jpg--_-
+foto.png--_-
 ZAUBERWUERFEL-LERNEN.DE--_-
 Lasse Korbanka--_-
+lasse.korbanka@gmail.com--_-
 F&uuml;r die Mehrheit ist der Zauberw&uuml;rfel ein unl&ouml;sbares R&auml;tsel, es scheint sinnlos, sich der Aufgabe zu stellen. Doch wer sich darauf einl&auml;sst wird bald merken, dass das L&ouml;sen an sich die kleinste Herausforderung ist. Der Rubiks Cube hat weit mehr als sechs Seiten. Das Projekt macht den magischen W&uuml;rfel zug&auml;nglich, r&uuml;ckt ihn in ein neues Licht. Hinfort mit Klischees und falschen Vorurteilen. Interessierte finden hier einen einfachen Einstieg und k&ouml;nnen in die Welt des Speedsolving eintauchen.
 --_-0.7,0.3,0.1,1,0.1,0.1,0.1

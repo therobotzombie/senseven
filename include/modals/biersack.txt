@@ -1,6 +1,8 @@
 project_biersack.jpg--_-
-  S&uuml;&szlig;es oder Salziges?--_-
+foto.png--_-
+S&uuml;&szlig;es oder Salziges?--_-
 Teresa Biersack--_-
+Teresa.b94@gmx.de--_-
 Bei dem Projekt S&uuml;&szlig;es oder Salziges? handelt es sich um ein interaktives Kochbuch.
 Hier wird das Medium Buch aus seinem urspr&uuml;nglichen Kontext herausgenommen und um den multimedialen Aspekt erweitert.
 Dies erfolgt in Form eines E-Books, welches das Buch begleitet.Das Hauptaugenmerk dieses Projekts liegt vor allem auf der Grafik,

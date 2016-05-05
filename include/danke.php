@@ -45,7 +45,7 @@
                         <a href="http://www.mucbook.de/"><img class="lazy" data-src="img/sponsoren/mucbook.png" alt="Mucbook"  /></a>
                      </div>
                      <div class="col-xs-6 col-md-3">
-                     	<a href="http://www.maha-aip.com/"><img class="lazy" data-src="img/sponsoren/maha_aip.jpg" alt="MAHA AIP Maschinenbau"  /></a>
+                     	<a href="http://www.maha-aip.com/"><img class="lazy" data-src="img/sponsoren/aip.png" alt="MAHA AIP Maschinenbau"  /></a>
                      </div>
                      </div>
                 <div class="row">     

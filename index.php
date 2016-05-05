@@ -145,64 +145,17 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/modalx.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/parallax.js"></script>
 <script src="js/three.min.js"></script>
 
-<!-- bootstrap scripts -->
-<script>
-	// sticky nav
-	$('#nav').affix({
-		  offset: {
-			top: 0
-		  }
-	});	
-	$('#navbg').affix({
-		  offset: {
-			top: 75
-		  }
-	});
-	// back to top link
-    if (($(window).height() + 200) < $(document).height()) {
-            $('#top-link-block').removeClass('hidden').affix({
-                offset: {top: 200}
-            });
-     }
-	// tooltips
-	$("body").tooltip({ selector:'[data-toggle=tooltip]'});
-	// modals
-	$(".modal-fullscreen").on('show.bs.modal', function() {
-	 setTimeout( function() {
-		$(".modal-backdrop").addClass("modal-backdrop-fullscreen");
-		}, 0);
-	});
-	$(".modal-fullscreen").on('hidden.bs.modal', function () {
-		 $(".modal-backdrop").addClass("modal-backdrop-fullscreen");
-	});
-</script>
+<!-- bootstrap scripts etc -->
+<script src="js/power.js"></script>
 
-     
-<script>
-	$("img.lazy").unveil(-100, function() {
-	  $(this).load(function() {
-		this.style.opacity = 0.8;
-	  });
-	});
-	$("img").error(function () {
-		$(this).css('border', 'none');
-	})
-</script>
-
-<!-- Helpers -->
+<!-- background line animation  -->
 <script src="js/projector.js"></script>
 <script src="js/canvas-renderer.js"></script>
-
-<!-- Visualitzation adjustments -->
 <script src="js/3d-lines-animation.js"></script>
-
-<!-- Animated background color -->
+<!-- animated background color -->
 <script src="js/color.js"></script>
-<script src="js/main.js"></script>
-
 
 <script>// <![CDATA[ 
 	function initialize() { /*Standard Setup der Google Map + Hinzufügen der Schaltflächen*/ 

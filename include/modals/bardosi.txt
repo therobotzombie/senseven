@@ -1,5 +1,7 @@
 project_bardosi.jpg--_-
+foto.png--_-
 beauty(never)fades--_-
 Vivien Bardosi--_-
+vivien.bardosi@gmail.com--_-
 Das Sch&ouml;nheitsideal der Frau ist seit vielen Jahren ein sehr zentrales Thema in  unserer  Gesellschaft.  Dieses  m&ouml;chte  ich  aufgreifen  und  mit  modernen Technologien f&uuml;r den Betrachter erkundbar machen.  Der  Betrachter  soll  einen  Eindruck  davon  bekommen,  wie  gro&szlig;  die  Vielfalt der  Sch&ouml;nheitsideale  der  Frau  im  Wandel  der  Zeit  ist  und  sich  &uuml;ber  die gesellschaftlichen   Zusammenh&auml;nge   und   verschiedenen   Einfl&uuml;sse informieren k&ouml;nnen. Zudem soll dem Betrachter gezeigt werden, wie mittels Augmented Reality ein  bereits  oft  behandeltes  Thema  auf  eine  neue,  interaktive  und  sehr anschauliche Art pr&auml;sentiert werden kann.--_-
 0.1,0.1,0.1,1,0.1,0.1,0.9

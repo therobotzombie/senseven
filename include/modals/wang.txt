@@ -1,5 +1,7 @@
 project_wang.jpg--_-
+foto.png--_-
 TAMADE--_-
 Robin Wang--_-
+robin.wang@campus.lmu.de--_-
 TAMADE. Dieser etwas provokante Name in chinesischer Lautschrift steht f&uuml;r bedruckte Textilien, bevorzugt T-Shirts und Pullover. Die Aufdrucke bewegen zwischen grafisch &ndash; illustrativen Elementenund greifbaren Objekten, die im Alltag oder der Natur aufzufinden sind. Wer sie betrachtet erkenntweder direkt einen Sinn, noch l&auml;uft derjenige Gefahr sich in allzu abstrakten Darstellungen zu verlieren. Das betrachtete Objekt ist bekannt; doch scheint es in geometrische Teile zerlegt und wieder zu einem Ganzen zusammengesetzt. Am Ende ist es der Tr&auml;ger, der das Gesamtbild pr&auml;gt und nicht das Kleidungsst&uuml;ck.
 --_-0.7,0.3,0.1,1,0.2,0.4,0.1
