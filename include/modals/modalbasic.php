@@ -11,11 +11,11 @@
                         <div class="row">
                             <h1 id="modalHeader"></h1>
                 			<h3 id="modalName"></h3>
+                            <div id="modalcv" align="center" class="visible-lg visible-md"></div>
                             <div class="col-sm-12">
                                 <p id="modalText"></p>
-                                <div id="modalcv" align="center"></div>
+                                 <img id="modalImg" class="modal-img" src="" alt="PROJEKT">
                                 <h5><a href="mailto:" id="modalEmail"></a></h5>
-                                 <!--<img id="modalImg" class="modal-img" src="" alt="PROJEKT">-->
                             </div>
                         </div>
                     </div>

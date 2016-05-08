@@ -5,7 +5,7 @@
                 <h2>Die Ausstellung mit dem siebten Sinn</h2>
                 <span class="underline-white"></span>
                 <h3>15. Juli - 17. Juli 2016</h3>                   
-                <img src="img/platzhalter_glyph.png">
+                <img src="img/platzhalter_glyph.png" class="glyph img-responsive">
                    <br/><br/>
             </div>
         </div>

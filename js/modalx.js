@@ -7,6 +7,7 @@ var dani = {};
  * all custom modal functions
  * @type {{}}
  */
+ 
 dani.modals = {
 };
 /**
@@ -25,7 +26,7 @@ dani.modals.openModal = function(id) {
         toAppendTo = $("#modalEmail");		
         toAppendTo.html(splitted[4]);
         toAppendTo = $("#modalText");
-        var txt = "<span class='firstletter'>" + splitted[5].slice(2, 3) + "</span>" + splitted[5].slice(3, 1000);
+        var txt = "<span class='firstletter'>" + splitted[5].slice(2, 3) + "</span>" + splitted[5].slice(3, 2000);
         toAppendTo.html(txt);
 
         //glyph percent

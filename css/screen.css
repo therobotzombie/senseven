@@ -421,6 +421,8 @@ header {
 .ueber-uns-section {
 	padding-top: 100px;
 }
+img.glyph { width: 300px; margin: 2em auto 0 auto; }
+
 @media screen and (max-width: 768px) {
 	.ueber-uns-section {
 		padding-top: 0px;
@@ -767,16 +769,14 @@ img.lazy {
 .modal-body { color: #fff; max-height: 100% !important; height: 100%; font-weight: 300; padding: 3em 1em 2em 1em; font-size: 1.0em; line-height: 1.8em; border: 2px solid #8bb7c1; } 
 .modal-header { border-bottom: 0; text-align: center !important; }
 .header-image { min-width: 100%; max-height: 45vmin; position: absolute; overflow: hidden; margin-bottom: 40vmin; }
-#modalcv { margin: 0 auto; margin-top: 1vmin;  }
-.modal-img { max-width: 5em; height: auto; margin: 5em 0; }
-.modal-foto { z-index: 999; position: relative; margin: 0 auto; width: 19vmin; height: auto; margin-bottom: -7em }
+#modalcv { position: absolute; right: -5.5em; top: -4.5em; margin: 0 auto; float: left;  }
+.modal-img { max-width: 100%; margin: 2em 0 1em 0; height: auto;  }
+.modal-foto { z-index: 999; position: relative; margin: -1em auto; width: 19vmin; height: auto; margin-bottom: -7em }
 .modal h1 { margin-top: 1.5em; margin-bottom: 0; font-size: 36px; font-size: 4.5vmin; }
 .modal h3 { margin-top: 0 !important; font-size: 24px; font-size: 3vmin; margin-bottom: 1em; }
 .modal h5 a { color: #8bb7c1; font-weight: 600; text-transform: none; margin-top: 2em; margin-bottom: 3.5em;  font-size: 1.2em; }
 .modal a:hover { color: #fff; }
-
 .modal-footer { border-top: 0; }
-
 
 .modal i { margin-right: 5px; color: #fff; }
 .modal .firstletter { font-size: 4vmin; font-weight: 200; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif; font-style: italic; }
@@ -801,7 +801,7 @@ img.lazy {
 @media (min-width: 992px) {
 	.modal-fullscreen .modal-dialog { position: relative; margin-right: auto; margin-left: auto; max-width: 960px; }
 	.modal-body { margin: 1em; padding: 2em 1em 2em 1em; font-size: 1.1em; line-height: 1.8em; }
-	/*.modal .modal-img { margin: 0; padding: 0; max-height: auto; width: auto; margin-bottom: 1em !important; }*/
+	.modal-foto { width: 19vmin;  margin-bottom: -7em }
 }
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -812,9 +812,9 @@ img.lazy {
   .modal-fullscreen .modal-content { padding: 1em; }
   .modal button.close { top: 0; right: 1em; margin: 0; font-size: 4em; position: absolute; }
   .modal-body { text-align: center; margin: 1em; padding: 2em 1em 1.5em 1em; font-size: 1em; line-height: 1.8em;  }
-  .modal h1 { margin: 0.3em auto 0 auto; font-size: 36px; font-size: 3.8vmin; }
+  .modal h1 { margin: 1em auto 0 auto; font-size: 36px; font-size: 3.8vmin; }
   .modal h3 { margin-top: 0.2em; font-size: 24px; font-size: 2.6vmin; }
-  /*.modal .modal-img { margin: 0; padding: 0; max-height: auto; max-width: auto;  }*/
+  .modal-foto { width: 16vmin; height: auto; margin-top: -2em; margin-bottom: -6em }
 }
 
 /* Landscape phones and portrait tablets */
@@ -824,13 +824,15 @@ img.lazy {
 	  position: absolute;
    }
   .modal-fullscreen .modal-content { padding: 1em 0; }
-  .modal h1 { margin: 0.5em 0 0 0; font-size: 1.6em; }
+  .modal h1 { margin: 2em 0 0 0; font-size: 1.6em; }
   .modal h3 { margin-top: 0; font-size: 1.3em; }
+   .modal h5 a { font-size: 1em; }
   .modal button.close { top: 0; right: 15px; margin: 0; font-size: 3.7em; position: absolute; }
   .modal .firstletter { font-size: 2em; }   
   .modal-body { margin: 0 1em; padding: 1em 0; }
   .modal-header { margin: 0 1em !important; padding: 0; }
-  .modal-img { max-height: 100%; max-width: 100%; margin: 0; padding: 0; }
+  .modal-foto { width: 16vmin; height: auto; margin-top: -6em; margin-bottom: -6em }
+  .modal-img { max-height: 100%; max-width: 100%; margin: 1em 0 0.5em 0; padding: 0; }
 }
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
@@ -841,5 +843,6 @@ img.lazy {
   .modal h1 { margin: 0.5em 0 0 0; font-size: 1.2em; }
   .modal h3 { margin-top: 0; font-size: 1.0em; }
   .modal-body { border: 0; margin: 0; padding: 0; font-size: 1em; }
+  .modal-foto { width: 25vmin; margin-top: 0; margin-bottom: 1em }
   .modal-header { margin: 0 !important; padding: 0; }
 }

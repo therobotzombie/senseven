@@ -105,7 +105,7 @@ glv.drawTileGlyph = function(e,e1,i,bmd) {
 glv.animTween = function(time, rds) {
     glv.animating = true;
     glv.drawnObject.alpha = 0;
-    var tween1 = glv.game.add.tween(glv.drawnObject).to({alpha: 0.82}, 700);
+    var tween1 = glv.game.add.tween(glv.drawnObject).to({alpha: 1}, 700);
     tween1.start();
     var show = function() {
         glv.bmd.clear();
@@ -148,8 +148,8 @@ function create() {
     //bg
 
     //glyphs
-    var width = 200;
-    var height = 150;
+    var width = 300;
+    var height = 250;
 
     Phaser.Canvas.setImageRenderingBicubic(glv.game.canvas);
     glv.game.physics.startSystem(Phaser.Physics.ARCADE);
