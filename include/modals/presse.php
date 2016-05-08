@@ -5,21 +5,27 @@
     <div class="modal-content">
           <div class="modal-header">
                 <h1 id="modalHeader">Pressematerial</h1>
-                <span class="underline-white"></span><br/>
+                <span class="underline-white"></span>
+                 
           </div>
           <div class="modal-body">
                 <div class="container-fluid">
-                        <div class="row">
-                			<div class="col-lg-12">
-                                <div class="col-sm-6  text-center">
+                        <div class="row">   
+                			<div class="col-sm-12">
+                                <div class="col-xs-6 col-sm-4">
                                     <a href="img/downloads/SENSEVEN.PNG" class="logo">
-                                        <img src="img/downloads/logo_300.png"><br/>
-                                        Motiv als PNG</a>
+                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <strong>Motiv als PNG</strong></a>
                                 </div>
-                                <div class="col-sm-6  text-center">
+                                <div class="col-xs-6 col-sm-4">
                                     <a href="img/downloads/SENSEVEN.eps" class="logo">
-                                        <img src="img/downloads/logo_300.png"><br/>
-                                        Motiv als EPS</a>
+                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <strong>Motiv als EPS</strong></a>
+                                </div>
+                    			 <div class="col-xs-6 col-sm-4">
+                                    <a href="#" class="logo">
+                                        <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
+                                        <strong>Pressemitteilung als PDF</strong></a>
                                 </div>
                             </div>
                         </div>

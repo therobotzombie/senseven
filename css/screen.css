@@ -69,7 +69,7 @@ p span {
     height: 8px;
     background: #ffffff;
     display: inline-block;
-	margin: 20px auto 20px auto; 
+	margin: 20px auto 15px auto; 
 	margin: 2.5vmin auto 1.5vmin auto;
 }
 
@@ -91,9 +91,12 @@ p span {
 		font-size: 1.0em;
 		line-height: 1.5em;
 	}
+}
+@media (max-width: 480px) {
 	.underline-white {
 		width: 30%;
-		margin: 2.5vmin auto 0.5vmin auto;
+		height: 4px;
+		margin: 10px auto 10px auto; 
 	}
 }
 
@@ -668,7 +671,7 @@ img.lazy {
 	display: inline-block;
 }
 #pressemodal .modal-body { border: 0; text-align: center; }
-
+#pressemodal a.logo img { margin: 1em auto 0 auto; }
 #pressemodal a.logo img {
 	border: 4px solid white;
 }
@@ -840,7 +843,7 @@ img.lazy {
   .modal-fullscreen .modal-content { padding: 3em 0; }
   .modal h1 { margin: 2em 0 0 0; font-size: 1.6em; }
   .modal h3 { margin-top: 0; font-size: 1.3em; }
-  .modal h5 a { font-size: 1em; }
+  .modal h5 a, .modal a { font-size: 1em; }
   .modal button.close { top: 10px; right: 15px; margin: 0; font-size: 5em; position: absolute; }
   .modal .firstletter { font-size: 2em; }   
   .modal-body { margin: 0 1em; padding: 1em 0; }
