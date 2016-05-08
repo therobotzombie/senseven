@@ -62,8 +62,7 @@ p span {
 	margin-bottom: 10px;
 }
 .img-responsive { 
-    /* other definitions */
-    width:100%;
+    width: 100%;
 }
 .underline-white {
     width: 10%;
@@ -83,6 +82,7 @@ p span {
 	}	
 	h3 {
 		font-size: 22px;
+		margin-bottom: 0;
 	}
 	h4 {
 		font-size: 1.0em;
@@ -90,6 +90,10 @@ p span {
 	p {
 		font-size: 1.0em;
 		line-height: 1.5em;
+	}
+	.underline-white {
+		width: 30%;
+		margin: 2.5vmin auto 0.5vmin auto;
 	}
 }
 
@@ -340,10 +344,11 @@ header {
 /***** CONTENT *****/
 /*****************************/
 .wrapper {
-	margin-top: 80px;
+	padding-top: 80px;
 	position: relative;
 	width: 100%;
 	height: 100%;
+	overflow-x: hidden;
 }
 .content {
     color: #ffffff;
@@ -534,6 +539,8 @@ img.lazy {
 	font-size: 2.3vmin;
 	letter-spacing: 1px;
 	padding: 0 10px;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 .cbp-rfgrid li a div .underline-white {
 	height: 2px;
@@ -569,16 +576,8 @@ img.lazy {
 		width: -webkit-calc(100% / 3);
 		width: calc(100% / 3);
 	}
-}
-
-@media screen and (max-width: 660px) {
-	.cbp-rfgrid li {
-		width: 33.3333333%; /* Fallback */
-		width: -webkit-calc(100% / 3);
-		width: calc(100% / 3);
-	}
 	.cbp-rfgrid li a div h3 {
-		font-size: 0.95em;
+		font-size: 0.7em;
 	}
 }
 
@@ -587,7 +586,7 @@ img.lazy {
 		width: 100%; /* Fallback */
 		width: -webkit-calc(100% / 1);
 		width: calc(100% / 1);
-		max-height: 5em;
+		max-height: 4em;
 		overflow: hidden;
 	}
 	.cbp-rfgrid li a div {
@@ -602,7 +601,7 @@ img.lazy {
 		background: rgba(0, 0, 0, 0.1);
 	}
 	.cbp-rfgrid li a div h3 {
-		font-size: 0.9em;
+		font-size: 0.8em;
 	}
 }
 
@@ -692,7 +691,12 @@ img.lazy {
     text-transform: uppercase;
     font-size: 14px;
 }
-
+@media (max-width: 480px) {
+	.footer-section ul li {
+		text-transform: uppercase;
+		font-size: 10px;
+	}
+}
 
 /*****************************/
 /***** BUTTONS *****/
@@ -757,7 +761,15 @@ img.lazy {
 	right: 15px; /* padding from the left side of the window */
 }
 
-
+@media (max-width: 767px) {
+	#top-link-block a.btn {
+		width: 3em;
+	}
+	#top-link-block.affix {
+		right: 0em;
+		bottom: 0em;
+	}
+}
 	
 /*=============================
 =            MODALS            =
@@ -801,7 +813,9 @@ img.lazy {
 @media (min-width: 992px) {
 	.modal-fullscreen .modal-dialog { position: relative; margin-right: auto; margin-left: auto; max-width: 960px; }
 	.modal-body { margin: 1em; padding: 2em 1em 2em 1em; font-size: 1.1em; line-height: 1.8em; }
-	.modal-foto { width: 19vmin;  margin-bottom: -7em }
+	.modal-foto { width: 19vmin; margin-bottom: -7em }
+	.modal button.close { top: 0em; right: 0.5em; margin: 0; font-size: 5em; position: absolute; }
+	.modal-header { padding-top: 2em; }
 }
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -810,7 +824,7 @@ img.lazy {
 	position: absolute;
   }
   .modal-fullscreen .modal-content { padding: 1em; }
-  .modal button.close { top: 0; right: 1em; margin: 0; font-size: 4em; position: absolute; }
+  .modal button.close { top: 0em; right: 0.5em; margin: 0; font-size: 5em; position: absolute; }
   .modal-body { text-align: center; margin: 1em; padding: 2em 1em 1.5em 1em; font-size: 1em; line-height: 1.8em;  }
   .modal h1 { margin: 1em auto 0 auto; font-size: 36px; font-size: 3.8vmin; }
   .modal h3 { margin-top: 0.2em; font-size: 24px; font-size: 2.6vmin; }
@@ -823,11 +837,11 @@ img.lazy {
 	  width: 100%;
 	  position: absolute;
    }
-  .modal-fullscreen .modal-content { padding: 1em 0; }
+  .modal-fullscreen .modal-content { padding: 3em 0; }
   .modal h1 { margin: 2em 0 0 0; font-size: 1.6em; }
   .modal h3 { margin-top: 0; font-size: 1.3em; }
-   .modal h5 a { font-size: 1em; }
-  .modal button.close { top: 0; right: 15px; margin: 0; font-size: 3.7em; position: absolute; }
+  .modal h5 a { font-size: 1em; }
+  .modal button.close { top: 10px; right: 15px; margin: 0; font-size: 5em; position: absolute; }
   .modal .firstletter { font-size: 2em; }   
   .modal-body { margin: 0 1em; padding: 1em 0; }
   .modal-header { margin: 0 1em !important; padding: 0; }
@@ -842,6 +856,7 @@ img.lazy {
    }
   .modal h1 { margin: 0.5em 0 0 0; font-size: 1.2em; }
   .modal h3 { margin-top: 0; font-size: 1.0em; }
+  .modal button.close { top: 10px; right: 20px;font-size: 5em; }
   .modal-body { border: 0; margin: 0; padding: 0; font-size: 1em; }
   .modal-foto { width: 25vmin; margin-top: 0; margin-bottom: 1em }
   .modal-header { margin: 0 !important; padding: 0; }

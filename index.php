@@ -109,28 +109,6 @@
         </section>
         
 
-    
-    
-
-    <!-- nur zur hilfe -->
-    <div style="opacity: 0.7; font-size: 12px; height: 20px; width: 120px; z-index: 99999999999; position: fixed; bottom: 0; left: 0; background: #fff; text-align: center; ">
-       <span class="visible-xs">
-          screen-xs
-       </span>
-       <span class="visible-sm">
-          screen-sm
-       </span>
-       <span class="visible-md">
-          screen-md
-       </span>
-       <span class="visible-lg">
-          screen-lg
-       </span>
-    </div>
-
-
-
-
 </div> <!-- / wrapper-->
 
 <!-- modals -->

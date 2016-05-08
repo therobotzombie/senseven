@@ -5,7 +5,7 @@
                 <h2>Die Ausstellung mit dem siebten Sinn</h2>
                 <span class="underline-white"></span>
                 <h3>15. Juli - 17. Juli 2016</h3>                   
-                <img src="img/platzhalter_glyph.png" class="glyph img-responsive">
+                <img src="img/platzhalter_glyph.png" class="glyph hidden-xs img-responsive">
                    <br/><br/>
             </div>
         </div>
@@ -27,7 +27,7 @@
                         erfahren kann. <br/><br/>
                     </p>
 
-                    <a class="btn btn-link" href="#projekte">zu den projekten</a>
+                    <a class="btn btn-link hidden-xs" href="#projekte">zu den projekten</a>
             </div>
         </div>
     </div>
