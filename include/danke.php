@@ -16,7 +16,7 @@
                         immer beratend zur Seite gestanden hat.
                         <br/>
                         <br/>
-                        <h2><i class="fa fa-heart"></i></h2>
+                        <h2 class="hidden-xs"><i class="fa fa-heart"></i></h2>
                    </p>
              </div>
         </div>
@@ -49,22 +49,25 @@
                      </div>
                      </div>
                 <div class="row">     
-                     <div class="col-xs-4 col-sm-2">
+                     <div class="col-xs-3 col-sm-2">
                         <a href="http://www.praxiskom.de/"><img class="lazy" data-src="img/sponsoren/praxiskom.png" alt="Praxiskom"  /></a>
                         <a href="http://harrykleinclub.de/"><img class="lazy" data-src="img/sponsoren/harryklein.png" alt="Harry Klein"  /></a> 
                      </div>
                      <div class="col-xs-4 col-sm-3">
                         <a href=""><img class="lazy" data-src="img/sponsoren/subseq.jpg" alt="SUBSEQ.net"  /></a>
+                        <div class="visible-xs col-xs-12 no-padding-left">
+                        	<a href="https://www.uni-muenchen.de/"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
+                     	</div> 
                      </div>   
-                     <div class="col-xs-4 col-sm-3">
-                        <div class="col-xs-12 col--sm-12 no-padding">
+                     <div class="col-xs-5 col-sm-3">
+                        <div class="col-xs-12 col-sm-12 no-padding">
                              <a href="http://www.isleofsummer.de/"><img class="lazy" data-src="img/sponsoren/ios.png" alt="ISLE OF SUMMER" /></a>
                         </div>
-                        <div class="col-xs-12 col-sm-8 no-padding-left">
+                        <div class="col-xs-8 col-sm-8 no-padding-left">
                              <a><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
                         </div>                        
                      </div>  
-                     <div class="col-xs-6 col-sm-4">
+                     <div class="hidden-xs col-sm-3">
                         	<a href="https://www.uni-muenchen.de/"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
                      </div>               
                 </div>

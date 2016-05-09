@@ -1,10 +1,10 @@
-project_dittrich.jpg--_-
+﻿project_dittrich.jpg--_-
 foto.png--_-
 muSE(E)um--_-
 Svenja Dittrich--_-
 svenja.dittrich@campus.lmu.de--_-
-Der digitale Wandel macht auch vor dem Kulturbetrieb nicht Halt.
-Mit interaktiven Touren, Apps, Webseiten, Videos und 3D Animationen versuchen Museen heutzutage ihr Publikum zu erreichen.
+Der digitale Wandel macht auch vor dem Kulturbetrieb nicht Halt. 
+Mit interaktiven Touren, Apps, Webseiten, Videos und 3D Animationen versuchen Museen heutzutage ihr Publikum zu erreichen.<br/>
 Wie kann ein Museum also auf &auml;sthetische und sinnvolle Art und Weise Kunst vermitteln? 
 In diesem Projekt wird ein Ger&auml;t entwickelt, das den Museumsbesucher anhand einer selbstentwickelten Software durch die Ausstellungen und Sammlungen des Hauses führen wird. Durch ein ansprechendes, minimalistisches Interface und alternativen Methoden der Kunstvermittlung, werden komplexe Inhalte vermittelt und
 dem Betrachter eine neue M&ouml;glichkeit gegeben, Kunst zu erfahren.<br/><br/>
