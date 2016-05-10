@@ -18,7 +18,7 @@
                 <strong>Presse- und &Ouml;ffentlichkeitsarbeit</strong><br/>
                 <strong>Sponsoren, Finanzen</strong><br/>
                 <strong>Ausstellungsorganisation, Catering</strong><br>
-                <strong>Begleitprogramm w&auml;hrend der Ausstellung</strong>
+                <strong>Begleitprogramm w&auml;hrend der Ausstellung</strong><br/>
                 <strong>Printdesign</strong><br/>
                 <strong>Webdesign</strong>
             </p>
