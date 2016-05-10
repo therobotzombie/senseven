@@ -9,7 +9,6 @@
                             	 <div class="col-xs-12">
                                     <h4>Ausstellungsdauer</h4>
                                  	<p><strong>15. Juli - 17. Juli 2016</strong></p>
-                                 </div>
                                  <div class="col-xs-6 text-right border-right">
                                         <p>
                                             <strong>Vernissage:</strong><br/>
@@ -29,17 +28,31 @@
                                  <div class="col-xs-6 text-right border-right">
                                         <p>
                                             <strong>Donnerstag</strong><br/>
-                                            <strong>Freitag, Samstag</strong> 	<br/>
+                                            <strong>Freitag, Samstag</strong><br/>
                                             <strong>Sonntag</strong> 
                                         </p>
                                 </div>
                                 <div class="col-xs-6 text-left">
                                     <p>
                                         19 - 22 Uhr<br/>
-                                        12 - 22 Uhr<br/>
-                                        12 - 15 Uhr
+                                        14 - 22 Uhr<br/>
+                                        14 - 17 Uhr
                                     </p>
                                 </div>
+                                <h4> Führungen: </h4>
+                                <div class="col-xs-6 text-right border-right">
+                                    <p>
+                                        <strong>Freitag</strong><br/>
+                                        <strong>Samstag</strong><br/>
+                                        <strong>Sonntag</strong>
+                                    </p>
+                                    </div>
+                                    <div class="col-xs-6 text-left">
+                                    <p>
+                                        19 Uhr<br/>
+                                        17 Uhr<br/>
+                                        15 Uhr
+                                    </p>
                             </div>
                         </div>
                     </div>

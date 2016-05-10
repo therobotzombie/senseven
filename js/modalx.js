@@ -41,6 +41,9 @@ dani.modals.openModal = function(id) {
     });
 };
 
+
+
+
 /**
  * if phaser is loaded
  * @type {boolean}
@@ -78,3 +81,43 @@ $(window).on('shown.bs.modal', function(e) {
     var id = $(e.relatedTarget).data('projekt-id');
     dani.modals.openModal(id);
 });
+
+/**
+ * adding name list dynamically
+ */
+dani.tooLazyForCopyPaste = function() {
+    //load text file
+    jQuery.get('include/namensliste.txt', function(data) {
+    //split at commas
+    var splitted = data.split(",");
+        //sort alphabetically
+        splitted.sort();
+        //find node to add name list to
+    var toAppendTo = $("#namensliste");
+        //long string for complete 2 row html
+        var htmlString = "";
+        //start html for first column
+        htmlString+="<div class='col-xs-6 text-right border-right'>";
+        //add half the names
+        for(var i = 0; i<splitted.length/2/*halved*/; i++) {
+            //split mail and name
+            var nameMail = splitted[i].split(":");
+            //add mailto html
+            htmlString+="<a href='mailto:+" + nameMail[1] + "'>" + nameMail[0] + "</a><br/>";
+        }
+        htmlString+="</div>";
+        htmlString+="<div class='col-xs-6 text-left'>";
+        //same for the next column
+        for(var i = splitted.length/2; i<splitted.length; i++) {
+            var nameMail = splitted[i].split(":");
+            htmlString+="<a href='mailto:+" + nameMail[1] + "'>" + nameMail[0] + "</a><br/>";
+        }
+        htmlString+="</div>";
+        toAppendTo.html(htmlString);
+    });
+};
+
+/**
+ * add name list dynamically on document ready
+ */
+$(document).ready(function() {dani.tooLazyForCopyPaste();});

@@ -92,7 +92,7 @@ glv.drawTileGlyph = function(e,e1,i,bmd) {
     var r = getCol[0];
     var g = getCol[1];
     var b = getCol[2];
-    var a = 0.82;
+    var a = 1;
     bmd.ctx.fillStyle = "rgba("+r+","+g+","+b+","+a+")";
     bmd.ctx.fill();
 };
