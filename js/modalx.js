@@ -97,22 +97,22 @@ dani.tooLazyForCopyPaste = function() {
         //long string for complete 2 row html
         var htmlString = "";
         //start html for first column
-        htmlString+="<div class='col-xs-6 text-right border-right'>";
+        htmlString+="<div class='col-xs-6 text-right border-right link-list'><p>";
         //add half the names
         for(var i = 0; i<splitted.length/2/*halved*/; i++) {
             //split mail and name
             var nameMail = splitted[i].split(":");
             //add mailto html
-            htmlString+="<a href='mailto:+" + nameMail[1] + "'>" + nameMail[0] + "</a><br/>";
+            htmlString+="<a href='mailto:"+nameMail[1]+"'>" +nameMail[0]+"</a><br/>";
         }
-        htmlString+="</div>";
-        htmlString+="<div class='col-xs-6 text-left'>";
+        htmlString+="</p></div>";
+        htmlString+="<div class='col-xs-6 text-left link-list'><p>";
         //same for the next column
         for(var i = splitted.length/2; i<splitted.length; i++) {
             var nameMail = splitted[i].split(":");
-            htmlString+="<a href='mailto:+" + nameMail[1] + "'>" + nameMail[0] + "</a><br/>";
+            htmlString+="<a href='mailto:"+nameMail[1]+"'>" +nameMail[0]+"</a><br/>";
         }
-        htmlString+="</div>";
+        htmlString+="</p></div>";
         toAppendTo.html(htmlString);
     });
 };

@@ -1,65 +1,83 @@
 <div class="content-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <div class="col-lg-12  text-center">
                             <h1>Die Ausstellung</h1>
-                            <span class="underline-white"> </span>
-                            
-                            <div class="row margin-bottom">
-                            	 <div class="col-xs-12">
-                                    <h4>Ausstellungsdauer</h4>
-                                 	<p><strong>15. Juli - 17. Juli 2016</strong></p>
-                                 <div class="col-xs-6 text-right border-right">
-                                        <p>
-                                            <strong>Vernissage:</strong><br/>
-                                            14.07.16 um 19 Uhr
-                                        </p>
-                                </div>
-                                <div class="col-xs-6 text-left">
-                                    <p>
-                                       <strong>Finissage:</strong><br/>
-                                       17.07.16 um 15 Uhr
-                                    </p>
-                                </div>
-                             </div>
-                             
-                             <div class="row margin-bottom">
-                                <h4>Öffnungszeiten</h4>
-                                 <div class="col-xs-6 text-right border-right">
-                                        <p>
-                                            <strong>Donnerstag</strong><br/>
-                                            <strong>Freitag, Samstag</strong><br/>
-                                            <strong>Sonntag</strong> 
-                                        </p>
-                                </div>
-                                <div class="col-xs-6 text-left">
-                                    <p>
-                                        19 - 22 Uhr<br/>
-                                        14 - 22 Uhr<br/>
-                                        14 - 17 Uhr
-                                    </p>
-                                </div>
-                                <h4> Führungen: </h4>
-                                <div class="col-xs-6 text-right border-right">
-                                    <p>
-                                        <strong>Freitag</strong><br/>
-                                        <strong>Samstag</strong><br/>
-                                        <strong>Sonntag</strong>
-                                    </p>
+                            <span class="underline-white"></span>
+                            <h4>15. Juli - 17. Juli 2016</h4>  
+                                 
+                            <ul class="list-inline social">
+                                    <li>
+                                        <a href="https://www.facebook.com/senseven2016/" target="_blank">
+                                              <i class="fa fa-facebook-square"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/senseven_2016/" target="_blank">
+                                              <i class="fa fa-instagram"></i>
+                                        </a>
+                                    </li>
+                             </ul> 
+
+                             <div class="row margin-top">
+                                <div class="col-xs-12 col-sm-4 margin-top">
+                                    <h5>Ausstellungsdauer</h5>
+                                     <div class="col-xs-6 text-right border-right">
+                                            <p>
+                                                <strong>Vernissage:</strong><br/>
+                                                14.07.16<br/>19 Uhr
+                                            </p>
                                     </div>
                                     <div class="col-xs-6 text-left">
-                                    <p>
-                                        19 Uhr<br/>
-                                        17 Uhr<br/>
-                                        15 Uhr
-                                    </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                                        <p>
+                                           <strong>Finissage:</strong><br/>
+                                           17.07.16<br/>
+                                           15 Uhr
+                                        </p>
+                                    </div>
+                             	 </div>
+                            	 <div class="col-xs-12 col-sm-4 margin-top">
+                                	<h5>Öffnungszeiten</h5>
+                                         <div class="col-xs-6 text-right border-right">
+                                                <p>
+                                                    <strong>Donnerstag</strong><br/>
+                                                    <strong>Freitag, Samstag</strong><br/>
+                                                    <strong>Sonntag</strong> 
+                                                </p>
+                                        </div>
+                                        <div class="col-xs-6 text-left">
+                                            <p>
+                                                19 - 22 Uhr<br/>
+                                                14 - 22 Uhr<br/>
+                                                14 - 17 Uhr
+                                            </p>
+                                        </div>
+                                   </div>
+
+                              	  <div class="col-xs-12 col-sm-4 margin-top">
+                                    <h5>Führungen</h5>
+                                    	<div class="col-xs-6 text-right border-right">
+                                        <p>
+                                            <strong>Freitag</strong><br/>
+                                            <strong>Samstag</strong><br/>
+                                            <strong>Sonntag</strong>
+                                        </p>
+                                        </div>
+                                        <div class="col-xs-6 text-left">
+                                            <p>
+                                                19 Uhr<br/>
+                                                17 Uhr<br/>
+                                                15 Uhr<br/><br/>
+                                            </p>
+                                         </div>
+                        		  </div>
+                    		</div>
+               		 </div>
+             	</div>
+            </div>
              
-                <div class="map" id="map_canvas">
-                </div>   
+            <div class="map margin-top" id="map_canvas"></div>   
+            
                 <div class="row text-center">   
                     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">                    
                     <h4>Ausstellungsort</h4>

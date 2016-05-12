@@ -4,7 +4,7 @@
             <div class="col-lg-10 col-lg-offset-1 text-center">
                 <h1>Vielen Dank</h1>
           		<span class="underline-white"></span>
-                 <h4>für die finanzielle und tatkräftige Unterstützung</h4>
+                 <h5>für die finanzielle und tatkräftige Unterstützung!</h5>
                  
                  <p>
                       Wir danken dem Department Kunstwissenschaften sowie den Instituten für Kunstpädagogik und Medieninformatik der LMU München. 

@@ -24,12 +24,12 @@ h3 {
     font-size: 38px;
 	font-size: 3.8vmin;
     font-weight: 100;
-    color: #8bb7c1;
+    color: #AED1D6;
 	margin-bottom: 20px;
 }
 h4 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.4em;
+    font-size: 1.7em;
     font-weight: 300;
     color: #8bb7c1;
 	line-height: 1.5em;
@@ -41,7 +41,19 @@ h4 i.fa {
 	margin-right: 10px;
 	color: #8bb7c1;
 }
-
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+	font-size: 1.1em;
+	line-height: 1.3em;
+    font-weight: 100;
+    color: #88C1C8;
+	margin-bottom: 10px;
+}
+h5 span {
+	color: #4C91A1;
+}
 p, .btn, a {
     color: #fff;
 	font-size: 1.1em;
@@ -58,7 +70,7 @@ p .fa-big {
 p span {
 	font-family: 'Lato', sans-serif;
     font-weight: 600;
-    color: #8bb7c1;
+    color: #eee;
 	margin-bottom: 10px;
 }
 .img-responsive { 
@@ -85,6 +97,9 @@ p span {
 		margin-bottom: 0;
 	}
 	h4 {
+		font-size: 1.1em;
+	}
+	h5 {
 		font-size: 1.0em;
 	}
 	p {
@@ -664,12 +679,21 @@ img.lazy {
 .kontakt-section {
 	padding-top: 200px;
 }
-.kontakt-section .social .fa {
-	font-size: 60px;
-	margin: 0 15px 10px 15px;
+.social .fa {
+	font-size: 3em;
+	margin: 5px 5px 0px 5px;
 	float: left;
 	display: inline-block;
 }
+.link-list a {
+	font-size: 1.0em;
+	color: #AED1D6;
+	font-weight: 400;
+}
+.link-list a:hover {
+	color: white; 
+}
+
 #pressemodal .modal-body { border: 0; text-align: center; }
 #pressemodal a.logo img { margin: 1em auto 0 auto; }
 #pressemodal a.logo img {
@@ -684,20 +708,28 @@ img.lazy {
 	.kontakt-section {
 		padding-top: 0px;
 	}
+	.link-list p {
+		font-size: 0.9em;
+	}
 }
 
 
 /*****************************/
 /***** FOOTER *****/
 /*****************************/
-.footer-section ul li {
+.footer-section ul li , .footer-section ul li a {
     text-transform: uppercase;
     font-size: 14px;
 }
-@media (max-width: 480px) {
-	.footer-section ul li {
+.footer-section ul li a .fa {
+	font-size: 3em; 
+	margin: 10px 10px;
+}
+
+@media (max-width: 768px) {
+	.footer-section ul li, .footer-section ul li a {
 		text-transform: uppercase;
-		font-size: 10px;
+		font-size: 12px;
 	}
 }
 
@@ -789,7 +821,7 @@ img.lazy {
 .modal-foto { z-index: 999; position: relative; margin: -1em auto; width: 19vmin; height: auto; margin-bottom: -7em }
 .modal h1 { margin-top: 1.5em; margin-bottom: 0; font-size: 36px; font-size: 4.5vmin; }
 .modal h3 { margin-top: 0 !important; font-size: 24px; font-size: 3vmin; margin-bottom: 1em; }
-.modal h5 a { color: #8bb7c1; font-weight: 600; text-transform: none; margin-top: 2em; margin-bottom: 3.5em;  font-size: 1.2em; }
+.modal h5 a { color: #8bb7c1; font-weight: 600; text-transform: none; margin-top: 2em; margin-bottom: 3.5em; font-size: 0.9em; }
 .modal a:hover { color: #fff; }
 .modal-footer { border-top: 0; }
 

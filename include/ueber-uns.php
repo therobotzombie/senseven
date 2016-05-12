@@ -3,11 +3,14 @@
         <div class="row">
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
                 <h2>Die Ausstellung mit dem siebten Sinn</h2>
-                <h4>Eine Veranstaltung der Ludwig-Maximilians-Universität München <br/> Fakultät für Geschichts- und Kunstwissenschaften <br/> Department Kunstpädagogik<h4>
+                <h5>
+                	Eine Veranstaltung der Ludwig-Maximilians-Universität München <br/>
+                    Fakultät für Geschichts- und Kunstwissenschaften &middot; Department Kunstpädagogik
+                </h5>
                 <span class="underline-white"></span>
                 <h3>15. Juli - 17. Juli 2016</h3>                   
                 <img src="img/platzhalter_glyph.png" class="glyph hidden-xs img-responsive">
-                   <br/><br/>
+                 <br/>
             </div>
         </div>
         <div class="row">   
