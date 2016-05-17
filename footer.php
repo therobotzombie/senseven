@@ -14,8 +14,8 @@
                     <li><strong>&copy; 2016 SENSEVEN</strong>   &middot;   7. Jahrgang <a href="http://www.kunstundmultimedia.de/" target="_blank">Kunst und Multimedia</a>
                      <br/><br/></li>
                     <li><strong>Impressum:</strong> Ludwig-Maximilians-Universität München &middot; Institut für Kunstpädagogik &middot; Leopoldstraße 13 &middot; 80802 München </li>
-                    <li><a data-toggle="modal" data-target="#disclaimermodal">Disclaimer</a>  &middot;   
-                    <a data-toggle="modal" data-target="#creditsmodal">Credits</a>  &middot;   
+                    <li><a href="" data-toggle="modal" data-target="#disclaimermodal">Disclaimer</a>  &middot;   
+                    <a href="" data-toggle="modal" data-target="#creditsmodal">Credits</a>  &middot;   
                     Webdesign: Daniel Frohwein &amp; Laura Redeker</li>
                 </ul>
             </div>

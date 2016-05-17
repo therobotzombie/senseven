@@ -1,24 +1,30 @@
 <div class="content-bg">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12  text-center">
+                    <div class="row text-center">
+                        <div class="col-lg-12">
                             <h1>Die Ausstellung</h1>
-                            <span class="underline-white"></span>
-                            <h4>15. Juli - 17. Juli 2016</h4>  
-                                 
-                            <ul class="list-inline social">
-                                    <li>
-                                        <a href="https://www.facebook.com/senseven2016/" target="_blank">
-                                              <i class="fa fa-facebook-square"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="https://www.instagram.com/senseven_2016/" target="_blank">
-                                              <i class="fa fa-instagram"></i>
-                                        </a>
-                                    </li>
-                             </ul> 
-
+                        </div>
+                            <div class="hidden-xs col-sm-3"></div>
+                            <div class="col-xs-12 col-sm-6 text-center">
+                                <span class="underline-white"></span>
+                                <h4>15. Juli - 17. Juli 2016</h4>  
+                                <ul class="list-inline social">
+                                        <li>
+                                            <a href="https://www.facebook.com/senseven2016/" target="_blank">
+                                                  <i class="fa fa-facebook-square"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.instagram.com/senseven_2016/" target="_blank">
+                                                  <i class="fa fa-instagram"></i>
+                                            </a>
+                                        </li>
+                                 </ul> 
+							</div>
+                            <div class="col-xs-12 col-sm-3">
+                              <img src="img/gaertnerplatzbadge.png" id="festival" class="img-responsive" alt="KOOPERATION Gärtnerplatz Festival 2016" />
+                            </div>
+                            
                              <div class="row margin-top">
                                 <div class="col-xs-12 col-sm-4 margin-top">
                                     <h5>Ausstellungsdauer</h5>
@@ -72,7 +78,7 @@
                                          </div>
                         		  </div>
                     		</div>
-               		 </div>
+        
              	</div>
             </div>
              

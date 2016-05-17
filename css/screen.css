@@ -636,10 +636,17 @@ img.lazy {
 .ausstellung-section {
 	padding-top: 200px;
 }
-
+img#festival {
+	max-width: 13em;
+	margin: 0 auto;
+}
 @media screen and (max-width: 768px) {
 	.ausstellung-section {
 		padding-top: 0px;
+	}
+	img#festival {
+		max-width: 9em;
+		margin: 1em auto;
 	}
 }
 

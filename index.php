@@ -114,6 +114,8 @@
 <!-- modals -->
 <?php include("include/modals/modalbasic.php"); ?>
 <?php include("include/modals/presse.php"); ?>
+<?php include("include/modals/disclaimer.php"); ?>
+<?php include("include/modals/credits.php"); ?>
 
 
 
