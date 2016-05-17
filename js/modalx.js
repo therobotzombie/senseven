@@ -115,14 +115,14 @@ dani.tooLazyForCopyPaste = function() {
             //split mail and name
             var nameMail = splitted[i].split(":");
             //add mailto html
-            htmlString+="<a href='mailto:"+nameMail[1]+"'>" +nameMail[0]+"</a><br/>";
+            htmlString+="<a href='mailto:"+nameMail[1]+"'>"+nameMail[0]+"</a><br/>";
         }
         htmlString+="</p></div>";
         htmlString+="<div class='col-xs-6 text-left link-list'><p>";
         //same for the next column
         for(var i = splitted.length/2; i<splitted.length; i++) {
             var nameMail = splitted[i].split(":");
-            htmlString+="<a href='mailto:"+nameMail[1]+"'>" +nameMail[0]+"</a><br/>";
+            htmlString+="<a href='mailto:"+nameMail[1]+"'>"+nameMail[0]+"</a><br/>";
         }
         htmlString+="</p></div>";
         toAppendTo.html(htmlString);

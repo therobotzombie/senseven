@@ -23,7 +23,7 @@
                 am 15. Juli seine Abschlussausstellung im Studio 2 des Muffatwerks in München.</span></p>
 
                     <p>
-                        Bis zum 17. Juli zeigen 16 Studenten ihre  – aus einem Jahr intensiver Arbeit entstandenen – 
+                        Bis zum 17. Juli zeigen 17 Studenten ihre  – aus einem Jahr intensiver Arbeit entstandenen – 
                         künstlerischen Projekte in einer multimedialen Ausstellung. Das Spektrum reicht von interaktiven E-Books, 
                         Websites, Apps, Augmented Reality, Games und Filmen bis hin zu Mischformen aus allen Kategorien, die sich zu einem vielseitigen Gesamtbild zusammenfügen. 
                     </p>
