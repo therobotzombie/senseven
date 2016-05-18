@@ -19,10 +19,11 @@
                 <p>
                     <strong>Projektmanagement</strong><br/>
                     <strong>Betreuende Dozenten</strong><br/>
-                    <strong>Presse- und &Ouml;ffentlichkeitsarbeit</strong><br/>
-                    <strong>Sponsoren, Finanzen</strong><br/>
-                    <strong>Ausstellungsorganisation, Catering</strong><br>
-                    <strong>Begleitprogramm w&auml;hrend der Ausstellung</strong><br/>
+                    <strong>Presse-&amp; &Ouml;ffentlichkeitsarbeit</strong><br/>
+                    <strong>Sponsoren &amp; Finanzen</strong><br/>
+                    <strong>Ausstellungsorganisation</strong><br>
+                    <strong>Catering</strong><br>
+                    <strong>Begleitprogramm</strong><br/>
                     <strong>Printdesign</strong><br/>
                     <strong>Webdesign</strong>
                 </p>
@@ -33,6 +34,7 @@
                     <a href="mailto:karin.guminski@lmu.de">Dr. Karin Guminski, </a><a href="mailto:brigitte-kaiser@gmx.de">Dr. Brigitte Kaiser</a><br/>
                     <a href="mailto:lasse-korbanka@web.de">Lasse Korbanka</a><br/>
                     <a href="mailto:vivien.bardosi@gmail.com">Vivien Bardosi</a><br/>
+                    <a href="mailto:svenja.dittrich@web.de">Svenja Dittrich</a><br/>
                     <a href="mailto:Teresa.b94@gmx.de@campus.lmu.de">Teresa Biersack</a><br/>
                     <a href="mailto:Katharina.Binder1@gmx.de">Katharina Binder</a><br/>
                     <a href="mailto:Annika.Mittelmeier@campus.lmu.de">Annika Mittelmeier</a><br/>
