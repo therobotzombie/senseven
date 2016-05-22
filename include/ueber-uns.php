@@ -8,8 +8,12 @@
                     Fakultät für Geschichts- und Kunstwissenschaften &middot; Department Kunstpädagogik
                 </h5>
                 <span class="underline-white"></span>
-                <h3>15. Juli - 17. Juli 2016</h3>                   
-                <img src="img/platzhalter_glyph.png" class="glyph hidden-xs img-responsive">
+                <h3>15. Juli - 17. Juli 2016</h3>
+                <!-- <img src="img/glyph/platzhalter_glyph.png" class="glyph hidden-xs img-responsive" style="position: relative; top: 0px;"> -->
+                <div id="canvasMain">
+                    <div id="modalcv">
+                    </div>
+                </div>
                  <br/>
             </div>
         </div>

@@ -10,12 +10,16 @@ glv.drawnObject = {};
  * resize glyph
  * @type {number}
  */
-glv.scaler = 0.5;
+
+//glyph size
+glv.scaler = 0.45;
+//y shift position from center
+glv.yShift = -10;
 glv.strokeCol = "rgb(255,208,149)";
 // alte farben: [56,101,121],[2,15,33],[138,183,193],[180,205,212],[240,129,79]
 glv.colors = [[76,145,161],[1,37,51],[174,209,214],[47,119,120],[19,62,90]];
-glv.stageWidth = 200;
-glv.stageHeight = 150;
+glv.stageWidth = 400;
+glv.stageHeight = 200;
 glv.percents = [0.1,0.7,0.1,0.7,0.1,0.7,0.1];
 /**
  * flag check to avoid double animations
@@ -67,12 +71,12 @@ glv.drawFanGlyph = function(e1,e2,e3,e4,e5,e6,e7,h) {
  * @param bmd bitmap to draw on
  */
 glv.drawTileGlyph = function(e,e1,i,bmd) {
-    var lb = 70*glv.scaler;
-    var minLb = 62*glv.scaler;
+    var lb = 60*glv.scaler;
+    var minLb = 50*glv.scaler;
     var wholeArcSize = Math.PI*2;
     var sliceSize = wholeArcSize/7;
     var shiftPI = 0;
-    var shiftY = 0;
+    var shiftY = glv.yShift;
     var positionX = bmd.width/2;
     var positionY = bmd.height/2;
     bmd.ctx.beginPath();
@@ -131,7 +135,20 @@ glv.animTween = function(time, rds) {
         glv.alpha = 1;
         glv.drawnObject.anchor.setTo(0.5, 0.5);
         glv.drawFanGlyph(0,0,0,0,0,0,0,100);
+        //explanation animation
+        glv.netspr.rotation = -0.2;
+        glv.netspr.alpha = 0;
+        glv.textspr.alpha = 0;
+        var tweenx = glv.game.add.tween(glv.netspr).to({alpha: 1}, 1200);
+        tweenx.start();
+        tweenx = glv.game.add.tween(glv.netspr).to({rotation: 0}, 1200);
+        tweenx.start();
+        tweenx = glv.game.add.tween(glv.textspr).to({alpha: 1}, 5000);
+        tweenx.start();
     };
+
+    glv.explain = function() {
+    }
 };
 
 glv.getPercents = function() {
@@ -139,6 +156,8 @@ glv.getPercents = function() {
 };
 
 function preload() {
+    glv.game.load.image('glyphText', 'img/glyph/glyphbeschrift.png');
+    glv.game.load.image('glyphNet', 'img/glyph/glyphlines.png');
 }
 
 
@@ -166,7 +185,7 @@ function create() {
 
 
     //btn
-    var actionOnClick = function() {
+    var actionOnMouseOver = function() {
         if(!glv.animating) {
             glv.bmd.clear();
             glv.drawnObject.destroy();
@@ -182,7 +201,23 @@ function create() {
             glv.animTween(1000, rds);
         }
     };
-
     //on mouse in canvas
-    glv.game.canvas.addEventListener("mouseover", actionOnClick, false);
+    glv.game.canvas.addEventListener("mouseover", actionOnMouseOver, false);
+
+    glv.netspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphNet');
+    glv.textspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphText');
+    glv.netspr.anchor.setTo(0.5,0.5);
+    glv.textspr.anchor.setTo(0.5,0.5);
+    glv.netspr.scale.setTo(1,1);
+    glv.netspr.rotation = -0.2;
+    glv.textspr.scale.setTo(1,1);
+    glv.netspr.alpha = 0;
+    glv.textspr.alpha = 0;
+    var tweenx = glv.game.add.tween(glv.netspr).to({alpha: 1}, 1400);
+    tweenx.start();
+    tweenx = glv.game.add.tween(glv.netspr).to({rotation: 0}, 1400);
+    tweenx.start();
+    tweenx = glv.game.add.tween(glv.textspr).to({alpha: 1}, 5000);
+    tweenx.start();
+    //reihenfolge senseven, riechen, fühlen, sehen, hören, schmecken intuition
 }

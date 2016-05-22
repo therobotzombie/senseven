@@ -78,8 +78,20 @@ dani.glyph.startGlyph =  function() {
  * triggers when a modal is opened
  */
 $(window).on('shown.bs.modal', function(e) {
+    //movecanvas
+    var tempCvs = $("#modalcv").appendTo("#canvasModal");
+    //tempCvs.css({"position": "absolute", "right": "-6.5em", "top": "-4.5em", "margin": "0 auto", "float": "left"});
     var id = $(e.relatedTarget).data('projekt-id');
     dani.modals.openModal(id);
+});
+
+/**
+ * triggers when a modal is closed
+ */
+$(window).on('hidden.bs.modal', function () {
+    console.log("close");
+    var tempCvs = $("#modalcv").appendTo("#canvasMain");
+    tempCvs.css({"position": "relative", "margin-left": "auto", "margin-right": "auto", "width" : "400px", "right": "", "top": "", "float": ""});
 });
 
 /**
@@ -120,4 +132,4 @@ dani.tooLazyForCopyPaste = function() {
 /**
  * add name list dynamically on document ready
  */
-$(document).ready(function() {dani.tooLazyForCopyPaste();});
+$(document).ready(function() {dani.tooLazyForCopyPaste();dani.glyph.startGlyph();});

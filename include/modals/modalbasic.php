@@ -11,7 +11,8 @@
                         <div class="row">
                             <h1 id="modalHeader"></h1>
                 			<h3 id="modalName"></h3>
-                            <div id="modalcv" align="center" class="visible-lg visible-md"></div>
+                            <div id="canvasModal" align="center" class="visible-lg visible-md">
+                            </div>
                             <div class="col-sm-12">
                                 <p id="modalText"></p>
                                  <img id="modalImg" class="modal-img" src="" alt="PROJEKT">
