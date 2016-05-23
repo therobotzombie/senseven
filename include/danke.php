@@ -7,7 +7,7 @@
                  <h5>für die finanzielle und tatkräftige Unterstützung!</h5>
                  
                  <p>
-                      Wir danken dem Department Kunstwissenschaften sowie den Instituten für Kunstpädagogik und Medieninformatik der LMU München. 
+                      Wir danken dem Department Kunstwissenschaften sowie dem Institut für Kunstpädagogik und der Medieninformatik der LMU München. 
                       Des Weiteren danken wir dem Team des Muffatwerks für die Bereitstellung der Ausstellungsräume, den Sponsoren für ihre Spenden, 
                       unseren Familien und Freunden und allen weiteren Unterstützern. <br><br>
     
@@ -44,17 +44,17 @@
                         <a href=""><img class="lazy" data-src="img/sponsoren/gaertnerplatz_openair.jpg" alt="gärtnerplatz openair 2016"  /></a>
                         <a href="http://www.mucbook.de/"><img class="lazy" data-src="img/sponsoren/mucbook.png" alt="Mucbook"  /></a>
                      </div>
-                     <div class="col-xs-6 col-sm-3  col-md-3">
+                     <div class="col-xs-6 col-sm-3 col-md-3">
                      	<a href="http://www.maha-aip.com/"><img class="lazy" data-src="img/sponsoren/aip.png" alt="MAHA AIP Maschinenbau"  /></a>
                      </div>
                      </div>
                 <div class="row">     
                      <div class="col-xs-3 col-sm-2">
-                        <a href="http://www.praxiskom.de/"><img class="lazy" data-src="img/sponsoren/praxiskom.png" alt="Praxiskom"  /></a>
+                        <a><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
                         <a href="http://harrykleinclub.de/"><img class="lazy" data-src="img/sponsoren/harryklein.png" alt="Harry Klein"  /></a> 
                      </div>
                      <div class="col-xs-4 col-sm-3">
-                        <a href=""><img class="lazy" data-src="img/sponsoren/subseq.jpg" alt="SUBSEQ.net"  /></a>
+                        <a href="https://subseq.net/"><img class="lazy" data-src="img/sponsoren/subseq.jpg" alt="SUBSEQ.net"  /></a>
                         <div class="visible-xs col-xs-12 no-padding-left">
                         	<a href="https://www.uni-muenchen.de/"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
                      	</div> 
@@ -63,24 +63,15 @@
                         <div class="col-xs-12 col-sm-12 no-padding">
                              <a href="http://www.isleofsummer.de/"><img class="lazy" data-src="img/sponsoren/ios.png" alt="ISLE OF SUMMER" /></a>
                         </div>
-                        <div class="col-xs-8 col-sm-8 no-padding-left">
-                             <a><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
+                        <div class="col-xs-12 col-sm-12 no-padding-left">
+                        	<a href="http://www.praxiskom.de/"><img class="lazy" data-src="img/sponsoren/praxiskom.png" alt="Praxiskom"  /></a> 
                         </div>                        
                      </div>  
                      <div class="hidden-xs col-sm-3">
                         	<a href="https://www.uni-muenchen.de/"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
                      </div>               
                 </div>
-                <div class="row"> 
-                     <div class="col-xs-6 col-md-2">  
-                     </div>
-                     <div class="col-xs-6 col-md-2">
-                       ...
-                     </div>  
-                     <div class="col-xs-6 col-md-2">
-                     </div>
-                     
-                </div>
+
 		</div>
         
     </div>
