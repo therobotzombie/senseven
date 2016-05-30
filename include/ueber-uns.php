@@ -4,19 +4,17 @@
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
                 <h2>Die Ausstellung mit dem siebten Sinn</h2>
                 <h5>Eine Veranstaltung des Bachelorstudiengangs Kunst und Multimedia <br/>
-					LMU München &middot; Department Kunstwissenschaften &middot; Institut für Kunstpädagogik
+					<span  class="xs-small-font">LMU &middot; Department Kunstwissenschaften &middot; Institut für Kunstpädagogik</span>
                 </h5>
                 <span class="underline-white"></span>
-                <h3>15. Juli - 17. Juli 2016</h3>
-                <!-- <img src="img/glyph/platzhalter_glyph.png" class="glyph hidden-xs img-responsive" style="position: relative; top: 0px;"> -->
+                <h2><span>15. Juli - 17. Juli 2016</span></h2>
                 <div id="canvasMain">
-                    <div id="modalcv">
+                    <div id="modalcv"  class="margin-top">
                     </div>
                 </div>
-                 <br/>
             </div>
         </div>
-        <div class="row">   
+        <div class="row margin-top">   
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
                 <p><span>Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia 
                 am 15. Juli seine Abschlussausstellung im Studio 2 des Muffatwerks in München.</span></p>

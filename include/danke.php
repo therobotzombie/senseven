@@ -55,7 +55,7 @@
                      </div>
                      <div class="col-xs-4 col-sm-3">
                         <a href="https://subseq.net/"><img class="lazy" data-src="img/sponsoren/subseq.jpg" alt="SUBSEQ.net"  /></a>
-                        <div class="visible-xs col-xs-12 no-padding-left">
+                        <div class="visible-xs col-xs-12 no-padding">
                         	<a href="https://www.uni-muenchen.de/"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
                      	</div> 
                      </div>   

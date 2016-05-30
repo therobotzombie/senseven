@@ -7,7 +7,7 @@
                             <div class="hidden-xs col-sm-3"></div>
                             <div class="col-xs-12 col-sm-6 text-center">
                                 <span class="underline-white"></span>
-                                <h4>15. Juli - 17. Juli 2016</h4>  
+                                <h2><span>15. Juli - 17. Juli 2016</span></h2>  
                                 <ul class="list-inline social">
                                         <li>
                                             <a href="https://www.facebook.com/senseven2016/" target="_blank">
