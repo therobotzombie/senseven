@@ -666,9 +666,9 @@ img#festival {
 	opacity: 0;
 	font-size: 1em;
 	line-height: 2em;
-	border: 0px solid transparent;
+	border: 0 solid transparent;
 	color: transparent;
-	transition: all 0.8s ease-out 0s; -webkit-transition: all 0.8s ease-out; -moz-transition: all 0.8s ease-out; -o-transition: all 0.8s ease-out;
+	transition: all 1.8s ease-out 0s; -webkit-transition: all 1.8s ease-out; -moz-transition: all 1.8s ease-out; -o-transition: all 1.8s ease-out;
 }
 .danke-section .sponsoren img.lazy:hover {
 	opacity: 1 !important;

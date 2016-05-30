@@ -63,7 +63,7 @@
                         <div class="col-xs-12 col-sm-12 no-padding">
                              <a href="http://www.isleofsummer.de/"><img class="lazy" data-src="img/sponsoren/ios.png" alt="ISLE OF SUMMER" /></a>
                         </div>
-                        <div class="col-xs-12 col-sm-12 no-padding-left">
+                        <div class="col-xs-12 col-sm-12 no-padding">
                         	<a href="http://www.praxiskom.de/"><img class="lazy" data-src="img/sponsoren/praxiskom.png" alt="Praxiskom"  /></a> 
                         </div>                        
                      </div>  
