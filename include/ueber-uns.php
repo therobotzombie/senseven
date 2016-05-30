@@ -7,7 +7,7 @@
 					<span  class="xs-small-font">LMU &middot; Department Kunstwissenschaften &middot; Institut für Kunstpädagogik</span>
                 </h5>
                 <span class="underline-white"></span>
-                <h2><span>15. Juli - 17. Juli 2016</span></h2>
+                <h2><span class="margin-top">15. Juli - 17. Juli 2016</span></h2>
                 <div id="canvasMain">
                     <div id="modalcv"  class="margin-top">
                     </div>
