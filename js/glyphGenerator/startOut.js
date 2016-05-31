@@ -185,7 +185,7 @@ function create() {
 
 
     //btn
-    var actionOnMouseOver = function() {
+    var actionOnDown = function() {
         if(!glv.animating) {
             glv.bmd.clear();
             glv.drawnObject.destroy();
@@ -202,7 +202,8 @@ function create() {
         }
     };
     //on mouse in canvas
-    glv.game.canvas.addEventListener("mouseover", actionOnMouseOver, false);
+    glv.game.canvas.addEventListener("mouseover", actionOnDown, false);
+    glv.game.input.onDown.add(actionOnDown, this);
 
     glv.netspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphNet');
     glv.textspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphText');
