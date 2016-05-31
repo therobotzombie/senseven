@@ -20,6 +20,7 @@ glv.strokeCol = "rgb(255,208,149)";
 glv.colors = [[76,145,161],[1,37,51],[174,209,214],[47,119,120],[19,62,90]];
 glv.stageWidth = 400;
 glv.stageHeight = 200;
+//Intuition, Hören, Riechen, Schmecken, Interagieren, Sehen, Fühlen
 glv.percents = [0.1,0.7,0.1,0.7,0.1,0.7,0.1];
 /**
  * flag check to avoid double animations
@@ -29,7 +30,7 @@ glv.animating = false;
 //setup basic game
 glv.game = new Phaser.Game(glv.stageWidth, glv.stageHeight, Phaser.AUTO, 'modalcv', {
     preload: preload,
-    create: create,
+    create: create
 }, true);
 
 /**
@@ -54,9 +55,8 @@ glv.randomPercent7 = function() {
  * @param e5
  * @param e6
  * @param e7
- * @param h not used
  */
-glv.drawFanGlyph = function(e1,e2,e3,e4,e5,e6,e7,h) {
+glv.drawFanGlyph = function(e1,e2,e3,e4,e5,e6,e7) {
     var arr = [e1,e2,e3,e4,e5,e6,e7,e1];
     for(var i = 0; i<arr.length; i++) {
         glv.drawTileGlyph(arr[i],arr[i+1],i,glv.bmd);
@@ -219,5 +219,4 @@ function create() {
     tweenx.start();
     tweenx = glv.game.add.tween(glv.textspr).to({alpha: 1}, 5000);
     tweenx.start();
-    //reihenfolge senseven, riechen, fühlen, sehen, hören, schmecken intuition
 }
