@@ -140,7 +140,7 @@ p span {
 		color: #eee;
 		display: block;
 		margin-top: 0.5em !important;
-		line-height: 1em !important;
+		line-height: 1.1em !important;
 	}
 	p {
 		font-size: 0.9em;
@@ -780,14 +780,8 @@ img#festival {
 	.kontakt-section {
 		padding-top: 0px;
 	}
-	.link-list p {
-		font-size: 0.8em;
-	}
-}
-
-@media (max-width: 480px) {
-	.link-list p {
-		font-size: 0.75em;
+	.visible-xs .link-list {
+		font-size: 0.9em;
 	}
 }
 
