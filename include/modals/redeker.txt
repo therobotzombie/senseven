@@ -4,4 +4,4 @@ We&rsquo;re All Stories--_-
 Laura Redeker--_-
 info@weareallstories.de--_-
 Geschichten zum Leben erwecken - das ist der wesentliche Gedanke, der hinter diesem Projekt steht. <i>We&rsquo;re All Stories</i> ist eine interaktive Webseite, die Kinder und Erwachsene gleicherma&szlig;en in eine Welt aus M&auml;rchen und Geschichten eintauchen l&auml;sst. Mit Hilfe von moderner Web-Technik sowie einer Kombination aus Typografie, Illustration und Animation entsteht so ein einmaliges visuelles Erlebnis. Eine bunte Welt, die der Benutzer interaktiv erforschen kann. <br/><br/>Von Charlotte Bront&euml;s Klassiker Jane Eyre bis hin zu zeitgen&ouml;ssischen Fantasy-Romanen wie The Book of Lost Things - die kleine Online-Bibliothek bietet jedem die Gelegenheit, in B&uuml;cher unterschiedlicher Genres einzutauchen, Gelesenes wieder zu finden oder sogar neu zu entdecken.
---_-0.7,0.3,0.7,1,0.2,0.1,0.1
+--_-0.5,0.9,0.0,0.0,0.9,1,0.5
