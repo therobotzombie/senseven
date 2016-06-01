@@ -8,8 +8,8 @@
                 </h5>
                 <span class="underline-white"></span>
                 <h2><span class="margin-top">15. Juli - 17. Juli 2016</span></h2>
-                <div id="canvasMain" class="hidden-xs">
-                    <div id="modalcv"  class="margin-top">
+                <div id="canvasMain">
+                    <div id="modalcv" class="margin-top hidden-xs">
                     </div>
                 </div>
             </div>

@@ -18,7 +18,7 @@ glv.yShift = -10;
 glv.strokeCol = "rgb(255,208,149)";
 // alte farben: [56,101,121],[2,15,33],[138,183,193],[180,205,212],[240,129,79]
 glv.colors = [[76,145,161],[1,37,51],[174,209,214],[47,119,120],[19,62,90]];
-glv.stageWidth = auto;
+glv.stageWidth = 400;
 glv.stageHeight = 200;
 //Intuition, Hören, Riechen, Schmecken, Interagieren, Sehen, Fühlen
 glv.percents = [0.1,0.7,0.1,0.7,0.1,0.7,0.1];
