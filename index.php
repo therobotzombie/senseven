@@ -132,8 +132,7 @@
 
 <!-- background line animation  -->
 <script src="js/projector.js"></script>
-<script src="js/canvas-renderer.js"></script>
-<script src="js/3d-lines-animation.js"></script>
+<script src="js/initBackground.js"></script>
 <!-- animated background color -->
 <script src="js/color.js"></script>
 

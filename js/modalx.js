@@ -4,10 +4,13 @@
  */
 var dani = {};
 /**
+ * true if mobile
+ */
+dani.isMobile = false;
+/**
  * all custom modal functions
  * @type {{}}
  */
- 
 dani.modals = {
 };
 /**
@@ -32,7 +35,6 @@ dani.modals.openModal = function(id) {
         //glyph percent
         if (splitted[6] != null) {
             var percentArray = splitted[6].split(",");
-            console.log(percentArray);
             dani.glyph.percents = percentArray;
         } else {
             dani.glyph.percents = [1,1,1,1,1,1,1]
@@ -58,19 +60,21 @@ dani.glyph = {};
  * stores percent for glyph from txt
  * @type {number[]}
  */
-dani.glyph.percents = [1,1,1,1,1,1,1]
+dani.glyph.percents = [1,1,1,1,1,1,1];
 /**
  * load stuff needed for the glyph
  */
 dani.glyph.startGlyph =  function() {
-    if(dani.phaserLoaded!=true) {
-        $.get("js/glyphGenerator/phaser.js", function() {
-            $.get("js/glyphGenerator/startOut.js", function() {
-                dani.phaserLoaded = true;
+    if(!dani.isMobile) {
+        if(dani.phaserLoaded!=true) {
+            $.get("js/glyphGenerator/phaser.min.js", function() {
+                $.get("js/glyphGenerator/startOut.js", function() {
+                    dani.phaserLoaded = true;
+                });
             });
-        });
-    } else {
-        glv.reset();
+        } else {
+            glv.reset();
+        }
     }
 };
 
@@ -78,9 +82,11 @@ dani.glyph.startGlyph =  function() {
  * triggers when a modal is opened
  */
 $(window).on('shown.bs.modal', function(e) {
-    //movecanvas
-    var tempCvs = $("#modalcv").appendTo("#canvasModal");
-    //tempCvs.css({"position": "absolute", "right": "-6.5em", "top": "-4.5em", "margin": "0 auto", "float": "left"});
+    //glyph functions not on mobile, move canvas of the glyph
+    if(!dani.isMobile) {
+        var tempCvs = $("#modalcv").appendTo("#canvasModal");
+        //tempCvs.css({"position": "absolute", "right": "-6.5em", "top": "-4.5em", "margin": "0 auto", "float": "left"});
+    }
     var id = $(e.relatedTarget).data('projekt-id');
     dani.modals.openModal(id);
 });
@@ -89,9 +95,19 @@ $(window).on('shown.bs.modal', function(e) {
  * triggers when a modal is closed
  */
 $(window).on('hidden.bs.modal', function () {
-    console.log("close");
-    var tempCvs = $("#modalcv").appendTo("#canvasMain");
-    tempCvs.css({"position": "relative", "margin-left": "auto", "margin-right": "auto", "width" : "400px", "right": "", "top": "", "float": ""});
+    //if not mobile move glyph canvas back
+    if(!dani.isMobile) {
+        var tempCvs = $("#modalcv").appendTo("#canvasMain");
+        tempCvs.css({
+            "position": "relative",
+            "margin-left": "auto",
+            "margin-right": "auto",
+            "width": "400px",
+            "right": "",
+            "top": "",
+            "float": ""
+        });
+    }
 });
 
 /**
@@ -132,4 +148,18 @@ dani.tooLazyForCopyPaste = function() {
 /**
  * add name list dynamically on document ready
  */
-$(document).ready(function() {dani.tooLazyForCopyPaste();dani.glyph.startGlyph();});
+$(document).ready(function() {
+    //create namelist with emails of all artists and attach it name list
+    dani.tooLazyForCopyPaste();
+    //check if mobile
+    if (window.innerWidth <= 760) {
+        dani.isMobile = true;
+    } else {
+        dani.isMobile = false;
+    }
+    console.log(dani.isMobile);
+    //start the glyph if mobile
+    if(!dani.isMobile) {
+        dani.glyph.startGlyph();
+    }
+});
