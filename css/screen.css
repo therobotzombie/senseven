@@ -754,24 +754,21 @@ img#festival {
 .link-list {
 	margin-top: 0.5em; 
 }
-.link-list p {
-	font-size: 1.0em;
-}
+
 .link-list a {
-	font-size: 1.0em;
 	color: #AED1D6;
 	font-weight: 400;
+	font-size: 0.95em;
 }
 .link-list a:hover {
 	color: white; 
 }
 
-#pressemodal .modal-body { border: 0; text-align: center; }
-#pressemodal a.logo img { margin: 1em auto 0 auto; }
-#pressemodal a.logo img {
+#presse a.logo img { margin: 1em auto 0 auto; }
+#presse a.logo img {
 	border: 4px solid white;
 }
-#pressemodal a.logo img:hover {
+#presse a.logo img:hover {
 	border: 4px solid #8CC63F;
 }
 
@@ -817,7 +814,7 @@ img#festival {
 .btn {
     padding: 20px 30px !important;
     margin: 20px 0 !important;
-    line-height: 10px !important;
+    line-height: 17px !important;
 	border: 2px solid white;
 	font-family: 'Montserrat', sans-serif;
     border-radius: 0px;

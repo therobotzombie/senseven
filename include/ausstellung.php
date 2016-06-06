@@ -47,7 +47,7 @@
                                          <div class="col-xs-6 text-right border-right">
                                                 <p>
                                                     <strong>Donnerstag</strong><br/>
-                                                    <strong>Freitag, Samstag</strong><br/>
+                                                    <strong style="white-space:nowrap;">Freitag, Samstag</strong><br/>
                                                     <strong>Sonntag</strong> 
                                                 </p>
                                         </div>
