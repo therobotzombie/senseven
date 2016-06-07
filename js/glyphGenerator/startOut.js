@@ -169,7 +169,7 @@ glv.getPercents = function() {
 };
 
 function preload() {
-    glv.game.load.image('glyphText', 'img/glyph/glyphbeschrift.png');
+    glv.game.load.image('glyphText', 'img/glyph/glyphbeschrift1.png');
     glv.game.load.image('glyphNet', 'img/glyph/glyphlines.png');
 }
 

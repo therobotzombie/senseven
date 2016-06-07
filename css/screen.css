@@ -95,6 +95,10 @@ p span {
 	}
 	h2 {
 		font-size: 24px;
+	}
+	h2 span { 
+		margin-bottom: 10px;
+		font-size: 20px;
 	}	
 	h3 {
 		font-size: 22px;
@@ -107,13 +111,9 @@ p span {
 		font-size: 1.0em;
 	}
 	h5 span.xs-small-font {
-		font-size: 0.8em;
-		text-transform: none;
-		font-family: 'Lato', sans-serif;
-		font-weight: 400;
-   		 color: #eee;
+		line-height: 1em !important;
 	}
-	p {
+	p, .btn {
 		font-size: 1.0em;
 		line-height: 1.5em;
 	}
@@ -123,6 +123,28 @@ p span {
 		width: 30%;
 		height: 4px;
 		margin: 10px auto 10px auto; 
+	}
+	h2 {
+		font-size: 20px;
+	}
+	h2 span { 
+		margin-bottom: 10px;
+		font-size: 18px;
+	}
+	h5  {
+		font-size: 0.9em;
+		line-height: 1.2em;
+	}
+	h5 span.xs-small-font {
+		font-size: 0.75em;
+		color: #eee;
+		display: block;
+		margin-top: 0.5em !important;
+		line-height: 1.1em !important;
+	}
+	p {
+		font-size: 0.9em;
+		line-height: 1.5em;
 	}
 }
 
@@ -420,11 +442,22 @@ header {
 }
 .text-right {
 	padding-right: 25px;
+	font-size: 0.95em;
 }
 .text-left {
 	padding-left: 25px;
+	font-size: 0.95em;
 }
-
+@media screen and (max-width: 1024px) {
+	.text-right {
+		padding-right: 15px;
+		font-size: 0.9em;
+	}
+	.text-left {
+		padding-left: 15px;
+		font-size: 0.9em;
+	}
+}
 
 @media screen and (max-width: 768px) {
 	.content {
@@ -444,6 +477,21 @@ header {
 	}
 	.col-xs-center .border-right {
 		border-right: 0px solid white;
+	}
+	.text-right {
+		padding-right: 15px;
+	}
+	.text-left {
+		padding-left: 15px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.text-right {
+		padding-right: 15px;
+	}
+	.text-left {
+		padding-left: 15px;
 	}
 }
 
@@ -703,6 +751,12 @@ img#festival {
 	float: left;
 	display: inline-block;
 }
+.link-list {
+	margin-top: 0.5em; 
+}
+.link-list p {
+	font-size: 1.0em;
+}
 .link-list a {
 	font-size: 1.0em;
 	color: #AED1D6;
@@ -726,7 +780,7 @@ img#festival {
 	.kontakt-section {
 		padding-top: 0px;
 	}
-	.link-list p {
+	.visible-xs .link-list {
 		font-size: 0.9em;
 	}
 }
@@ -745,9 +799,15 @@ img#festival {
 }
 
 @media (max-width: 768px) {
-	.footer-section ul li, .footer-section ul li a {
+	.footer-section strong, .footer-section ul li, .footer-section ul li a {
 		text-transform: uppercase;
-		font-size: 12px;
+		font-size: 12px !important;
+		font-weight: 400 !important;
+	}
+}
+@media (max-width: 480px) {
+	.footer-section strong, .footer-section ul li, .footer-section ul li a {
+		font-size: 11px !important;
 	}
 }
 
@@ -761,7 +821,6 @@ img#festival {
 	border: 2px solid white;
 	font-family: 'Montserrat', sans-serif;
     border-radius: 0px;
-    font-size: 16px;
     font-weight: 700 !important;
     color: #ffffff !important;
     background-color: transparent;

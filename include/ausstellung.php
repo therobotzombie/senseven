@@ -86,7 +86,7 @@
             
                 <div class="row text-center">   
                     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">                    
-                    <h4>Ausstellungsort</h4>
+                    <h5>Ausstellungsort</h5>
                            <p>
                                <strong>Muffatwerk | Studio II</strong><br/>
                                 Zellstraße 4<br/>
@@ -96,24 +96,6 @@
            			</div>
                             
                    <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">
-                              <!--<h4>Anfahrt</h4>
-                                 <div class="col-xs-12  col-xs-center col-sm-6 text-right border-right">
-                                        <p>
-                                            <span>S-Bahn</span><br/>Alle S-Bahnen (S1 – S8), <br/>Haltestelle "Rosenheimer Platz" oder "Isartor"<br/><br/>
-                                            <span>Straßenbahn</span><br/>Linie 16, Haltestelle "Deutsches Museum" oder "Am Gasteig", <br/>
-                                            Linie 15/25, Haltestelle "Rosenheimer Platz"<br/><br/>
-                                        </p>
-                                </div>
-                                <div class="col-xs-12 col-xs-center col-sm-6 text-left">
-                                    <p> 
-                                         <span>Auto</span><br/>Fahrtrichtung Stadtzentrum, dann "Deutsches Museum" oder "Gasteig"<br/><br/>
-                                         <span>Parkgaragen</span><br/>Gasteig, Rosenheimer Str. 5<br/>
-                                         Hilton Munich City Hotel, Rosenheimer Str. 15<br/>
-                                         Holiday Inn Munich - City Centre Hotel, Hochstr. 3<br/><br/>
-                                    </p>
-                                </div>
-                       -->
-        
                                         
                                 <a  target="_blank" href="https://www.google.de/maps/dir//Zellstra%C3%9Fe+4,+81667+M%C3%BCnchen/@48.13321,11.5875213,17z/data=!4m13!1m4!3m3!1s0x479ddf7d7fe5b4bb:0x253d262def37758e!2sZellstra%C3%9Fe+4,+81667+M%C3%BCnchen!3b1!4m7!1m0!1m5!1m1!1s0x479ddf7d7fe5b4bb:0x253d262def37758e!2m2!1d11.58971!2d48.13321?hl=de" 
                                 class="btn btn-link">Route berechnen</a>
