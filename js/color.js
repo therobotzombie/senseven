@@ -1,4 +1,3 @@
-
 var colors = new Array(
   [6,35,47],
   [48,105,127],
@@ -6,8 +5,6 @@ var colors = new Array(
   [45,112,124], //turquoise
   [38,115,117], // turquoise
   [73,86,120]); // purple
-
-//  
 
 var step = 0;
 //color table indices for: 

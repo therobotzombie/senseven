@@ -50,7 +50,7 @@
                      </div>
                 <div class="row">     
                      <div class="col-xs-3 col-sm-2">
-                        <a><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
+                        <a href="http://muenchen.branchen-info.net/fp_1794051.php"><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
                         <a href="http://harrykleinclub.de/"><img class="lazy" data-src="img/sponsoren/harryklein.png" alt="Harry Klein"  /></a> 
                      </div>
                      <div class="col-xs-4 col-sm-3">

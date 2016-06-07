@@ -53,7 +53,7 @@
 
                     <div class="collapse margin-bottom" id="presse">
 							 <div class="col-xs-6 col-sm-4">
-                                    <a href="img/downloads/SENSEVEN.PNG" class="logo" target="_blank">
+                                    <a href="img/downloads/SENSEVEN.png" class="logo" target="_blank">
                                         <img src="img/downloads/logo_300.png" class="img-responsive">
                                         <strong>Motiv als PNG</strong></a><br/><br/><br/>
                                 </div>
