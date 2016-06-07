@@ -152,7 +152,20 @@ glv.animTween = function(time, rds) {
 };
 
 glv.getPercents = function() {
-    return dani.glyph.percents;
+    if(document.title == "glyphgeneratorSolo") {
+        //Intuition, Hören, Riechen, Schmecken, Interagieren, Sehen, Fühlen
+        var a = document.getElementById("one").value;
+        var b = document.getElementById("two").value;
+        var c = document.getElementById("three").value;
+        var d = document.getElementById("four").value;
+        var e = document.getElementById("five").value;
+        var f = document.getElementById("six").value;
+        var g = document.getElementById("seven").value;
+        var percentFromForm = [a,b,c,d,e,f,g];
+        return percentFromForm;
+    } else {
+        return dani.glyph.percents;
+    }
 };
 
 function preload() {
@@ -185,7 +198,7 @@ function create() {
 
 
     //btn
-    var actionOnDown = function() {
+    glv.actionOnDown = function() {
         if(!glv.animating) {
             glv.bmd.clear();
             glv.drawnObject.destroy();
@@ -202,8 +215,8 @@ function create() {
         }
     };
     //on mouse in canvas
-    glv.game.canvas.addEventListener("mouseover", actionOnDown, false);
-    glv.game.input.onDown.add(actionOnDown, this);
+    glv.game.canvas.addEventListener("mouseover", glv.actionOnDown, false);
+    glv.game.input.onDown.add(glv.actionOnDown, this);
 
     glv.netspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphNet');
     glv.textspr = glv.game.add.sprite(glv.game.world.centerX, glv.game.world.centerY+glv.yShift, 'glyphText');

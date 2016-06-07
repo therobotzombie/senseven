@@ -6,7 +6,7 @@
  */
 initBg = function() {
     //mobilecheck
-    if(window.innerWidth <= 760) {
+    if(window.innerWidth <= 200) {
         //break the function
         return;
     }
