@@ -7,7 +7,7 @@
                         <a href="https://www.facebook.com/senseven2016/" target="_blank">
                               <i class="fa fa-facebook-square"></i>
                         </a>
-                        <a href="https://www.instagram.com/senseven_2016/" target="_blank">
+                        <a href="https://www.instagram.com/senseven2016/" target="_blank">
                               <i class="fa fa-instagram"></i>
                         </a>
                     </li>

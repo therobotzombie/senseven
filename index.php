@@ -105,7 +105,9 @@
 <?php include("include/modals/disclaimer.php"); ?>
 <?php include("include/modals/credits.php"); ?>
 
+    
 
+<script async src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.unveil.js"></script>
 <script src="js/bootstrap.min.js"></script>

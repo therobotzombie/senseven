@@ -15,7 +15,7 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://www.instagram.com/senseven_2016/" target="_blank">
+                                            <a href="https://www.instagram.com/senseven2016/" target="_blank">
                                                   <i class="fa fa-instagram"></i>
                                             </a>
                                         </li>
@@ -82,7 +82,7 @@
              	</div>
             </div>
              
-            <div class="map margin-top" id="map_canvas"></div>   
+            <div class="map margin-top lazy" id="map_canvas"></div>   
             
                 <div class="row text-center">   
                     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">                    
