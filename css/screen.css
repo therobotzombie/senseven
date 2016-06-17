@@ -120,8 +120,8 @@ p span {
 }
 @media (max-width: 480px) {
 	.underline-white {
-		width: 30%;
-		height: 4px;
+		width: 15%;
+		height: 6px;
 		margin: 10px auto 10px auto; 
 	}
 	h2 {

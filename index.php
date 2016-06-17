@@ -25,11 +25,11 @@
                 	<li><a class="logo"><img src="img/logo_font_w.png"  class="img-responsive" alt="SENSEVEN" /></a></li>
                 </ul>
                 <ul class="nav pull-right list-inline navbar-nav">
-                      <li><a href="#ueber-uns" class="page-scroll">über uns</a></li>
-                      <li><a href="#projekte" class="page-scroll">projekte</a></li>
-                      <li><a href="#ausstellung" class="page-scroll">ausstellung</a></li>
-                      <li><a href="#kontakt" class="page-scroll">kontakt</a></li>  
-                      <li><a href="#presse" data-toggle="collapse" data-target="#pressematerial"  aria-expanded="false" aria-controls="pressematerial" class="page-scroll">presse</a></li>                       
+                      <li><a href="#ueber-uns" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll">über uns</a></li>
+                      <li><a href="#projekte" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll">projekte</a></li>
+                      <li><a href="#ausstellung" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll">ausstellung</a></li>
+                      <li><a href="#kontakt" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll">kontakt</a></li>  
+                      <li><a href="#presse" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll">presse</a></li>                       
                 </ul>
           </div>		
         </div>
