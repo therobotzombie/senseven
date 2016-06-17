@@ -28,7 +28,7 @@
                     ueber 500 €  col-md-3
                     unter 500 €  col-md-2  --><br>
 
-                <div class="row margin-top">                  
+                <div class="row">                  
                      <div class="col-xs-12 col-sm-6 col-md-6">
                         <div class="col-xs-12 no-padding">
                         	<a href="http://www.hypo-kulturstiftung.de/"><img class="lazy" data-src="img/sponsoren/hypokulturstifung.png" alt="hypo-kulturstifung"  /></a>

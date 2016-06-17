@@ -578,7 +578,7 @@ img.lazy {
 .cbp-rfgrid li a img.lazy {
 	width: 100%;
 	opacity: 0;
-	 filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */
+	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+, IE10 */
     filter: gray; /* IE6-9 */
     -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
     -webkit-transition: all .7s ease; /* Fade to color for Chrome and Safari */
@@ -595,13 +595,14 @@ img.lazy {
 /* Flexbox is used for centering the heading */
 .cbp-rfgrid li a div {
 	position: absolute;
-	left: 5%;
-	top: 35%;
-	right: 5%;
-	bottom: 35%;
-	-webkit-transition: all .7s ease; /* Fade to color for Chrome and Safari */
-    -moz-transition: all .7s;
-    transition: all .7s;
+	left: 0;
+	top: 31%;
+	right: 0;
+	bottom: 31%;
+	max-height: 110px;
+	-webkit-transition: all .5s ease; /* Fade to color for Chrome and Safari */
+    -moz-transition: all .5s;
+    transition: all .5s;
 	background: rgba(0, 0, 0, 0.6);
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -613,24 +614,41 @@ img.lazy {
     align-items: center;
     text-align: center;
     opacity: 0;
+	width: 20%;
+	padding-top: 10px;
+	margin: 0 auto;
 }
 .cbp-rfgrid li a:hover div {
 	opacity: 1;
+	width: 80%
 }
 .cbp-rfgrid li a div h3 {
-	width: 100% !important;
 	float: none;
 	color: #fff;
 	text-transform: uppercase;
-	font-size: 2.3vmin;
+	font-size: 2.0vmin;
 	letter-spacing: 1px;
 	padding: 0 10px;
-	margin-top: 0;
-	margin-bottom: 0;
+	white-space:nowrap;
+	top: 5%;
+	position:absolute;
+	margin-bottom: 10px;
+	opacity: 0;
+	-webkit-transition: all 2.1s ease; /* Fade to color for Chrome and Safari */
+    -moz-transition: all 2.1s;
+    transition: all 2.1s;
+	width: 100% !important;
 }
-.cbp-rfgrid li a div .underline-white {
-	height: 2px;
-	width: 50%;
+.cbp-rfgrid li a:hover div h3 {
+	opacity: 1;
+}
+.cbp-rfgrid li a h3:after {
+	height: 5px;
+	background: white;
+	display: block;
+	width: 18%;
+	content: " ";
+	margin: 15px auto 0 auto;
 }
 .cbp-rfgrid li a div h4 {
 	width: 100%;
@@ -640,6 +658,10 @@ img.lazy {
 }
 
 @media screen and (min-width: 1500px) {
+	.cbp-rfgrid li a div h3 {
+		font-size: 2.0vmin;
+		top: 10px;
+	}
 	.cbp-rfgrid li {
 		width: 25%; /* Fallback */
 		width: -webkit-calc(100% / 4);
@@ -652,25 +674,50 @@ img.lazy {
 }
 
 @media screen and (max-width: 945px) {
-	.cbp-rfgrid li {
-		width: 33.3333333%; /* Fallback */
-		width: -webkit-calc(100% / 3);
-		width: calc(100% / 3);
-	}
-}
-
-@media screen and (max-width: 660px) {
-	.cbp-rfgrid li {
-		width: 33.3333333%; /* Fallback */
-		width: -webkit-calc(100% / 3);
-		width: calc(100% / 3);
+	.cbp-rfgrid li a:hover div {
+		opacity: 1;
+		width: 100%
 	}
 	.cbp-rfgrid li a div h3 {
-		font-size: 0.7em;
+		font-size: 2.0vmin;
+		top: 5px;
+	}
+	.cbp-rfgrid li a div h3:after {
+		display: none;
+		height: 0;
+	}
+	.cbp-rfgrid li {
+		width: 33.3333333%; /* Fallback */
+		width: -webkit-calc(100% / 3);
+		width: calc(100% / 3);
+	}
+}
+@media screen and (max-width: 700px) {
+	.cbp-rfgrid li {
+		width: 25%; /* Fallback */
+		width: -webkit-calc(100% / 2);
+		width: calc(100% / 2);
+	}
+
+	.cbp-rfgrid li a div h3 {
+		font-size: 1em;
+		top: 10px;
+		width: 100%;
+		white-space: auto;
+		opacity: 1;
+	}
+}
+@media screen and (max-width: 620px) {
+	.cbp-rfgrid li a div h3 {
+		font-size: 0.75em;
+		top: 5px;
+		width: 100%;
+		white-space: auto;
+		opacity: 1;
 	}
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 460px) {
 	.cbp-rfgrid li {
 		width: 100%; /* Fallback */
 		width: -webkit-calc(100% / 1);
@@ -679,6 +726,7 @@ img.lazy {
 		overflow: hidden;
 	}
 	.cbp-rfgrid li a div {
+		width: 100%;
 		left: 0px;
 		top: 0px;
 		right: 0px;
@@ -691,6 +739,10 @@ img.lazy {
 	}
 	.cbp-rfgrid li a div h3 {
 		font-size: 0.8em;
+		top: 5px;
+		width: 100%;
+		white-space: auto;
+		opacity: 1;
 	}
 }
 
@@ -726,10 +778,10 @@ img#festival {
 /*******    DANKE    *********/
 /*****************************/
 .danke-section {
-	padding-top: 200px;
+	padding-top: 100px;
 }
 .danke-section .sponsoren {
-	padding: 20x;
+	padding: 40px 20px 20px;
 }
 .danke-section .sponsoren img.lazy {
 	border-radius: 3px;
@@ -744,12 +796,23 @@ img#festival {
 .danke-section .sponsoren img.lazy:hover {
 	opacity: 1 !important;
 }
+
 @media screen and (max-width: 768px) {
 	.danke-section {
 		padding-top: 0px;
 	}
+	.danke-section .sponsoren {
+		padding: 10px 30px 10px;
+		max-width: 90%;
+		margin: 0 auto;
+	}
 }
 
+@media screen and (max-width: 400px) {
+	.danke-section .sponsoren {
+		padding: 0px 0px 0px;
+	}
+}
 
 /*****************************/
 /*******   KONTAKT   *********/
@@ -775,11 +838,22 @@ img#festival {
 .link-list a:hover {
 	color: white; 
 }
-#presse a.logo img { margin: 1em auto 0.5em auto; }
-#presse a.logo img {
+
+
+#presse:before { 
+  content: " "; 
+  display: block;
+  margin-top: -100px; 
+  height: 100px;
+  visibility: hidden; 
+}
+#pressematerial { padding: 20px 40px 60px; background: #072A35; }
+#pressematerial a { font-size: 0.95em; }
+#pressematerial a.logo img { margin: 1em auto 0.5em auto; }
+#pressematerial a.logo img {
 	border: 4px solid white;
 }
-#presse a.logo img:hover {
+#pressematerial a.logo img:hover {
 	border: 4px solid #8CC63F;
 }
 
@@ -829,6 +903,7 @@ img#festival {
 	border: 2px solid white;
 	font-family: 'Montserrat', sans-serif;
     border-radius: 0px;
+	min-width: 280px;
     font-weight: 700 !important;
     color: #ffffff !important;
     background-color: transparent;
@@ -846,7 +921,9 @@ img#festival {
 .btn .btn-link {
 	font-weight: 700;
 }
-
+@media (max-width: 767px) {
+	.btn { min-width: auto; }
+}
 
 /*****************************/
 /***** BACK TO TOP BTN   *****/
@@ -854,6 +931,7 @@ img#festival {
 #top-link-block { z-index: 999; }
 #top-link-block a.btn {
 	width: 8vmin;
+	min-width: auto !important;
 	line-height: 1 !important;
 	font-weight: 600;
 	background-color: #06232f;

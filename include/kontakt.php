@@ -56,12 +56,19 @@
                         </div>
                      </div>
 
-                 
-          		<a class="btn btn-link" role="button" data-toggle="collapse" data-target="#presse" 
-                aria-expanded="false" aria-controls="presse">Pressematerial <i class="fa fa-angle-down"></i></a><br/>
+                
+                <div id="presse"></div>
+          		<a class="btn btn-link" role="button" data-toggle="collapse" data-target="#pressematerial" 
+                aria-expanded="false" aria-controls="pressematerial">Pressematerial <i class="fa fa-angle-down"></i></a><br/>
 
-                    <div class="collapse margin-bottom col-xs-offset-1 col-xs-10 col-xs-offset-1" id="presse">
-							 <div class="col-xs-6 col-sm-4">
+                    <div class="collapse margin-bottom col-xs-12 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-12 col-md-offset-0 " id="pressematerial">
+                                <div class="col-xs-12">
+                                	<h5>Downloads</h5>
+                                    <p>Wir freuen uns auf das öffentliche Interesse und 
+                                    stellen hier Informationsmaterialien zum Download bereit. 
+                                    Für Fragen stehen wir Ihnen gerne zur Verfügung!<br/><br/></p>
+                                </div>	
+                                 <div class="col-xs-6 col-sm-4">
                                     <p>
                                     <a href="img/downloads/SENSEVEN.png" class="logo" target="_blank">
                                         <img src="img/downloads/logo_300.png" class="img-responsive">
@@ -77,10 +84,10 @@
                                 </div>
                     			 <div class="col-xs-6 col-sm-4">
                                  	<p>
-                                    <a href="#" class="logo" target="_blank">
+                                    <a href="downloads/pressemitteilung.pdf" class="logo" target="_blank">
                                         <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
                                         <strong>Pressemitteilung als PDF</strong></a>
-                                        </p>
+                                    </p>
                                         
                                 </div>
                      </div>

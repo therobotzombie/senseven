@@ -4,9 +4,7 @@
     <title>SENSEVEN &middot; Die Ausstellung mit dem siebten Sinn &middot; Kunst und Multimedia VII</title>
     <?php include("head-tags.php"); ?>
 </head>
-
-<body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static">
-    
+<body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static"> 
 <!-- back-to-top-link -->
 <span id="top-link-block" class="hidden">
         <a href="#top" class="btn btn-primary" title="nach oben" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
@@ -16,7 +14,6 @@
     
 <header>
     <div id="navbg"></div>
-    <!-- Begin Nav -->
     <div id="nav">
       <div class="navbar navbar-static">
         <div class="container-fluid">
@@ -31,8 +28,8 @@
                       <li><a href="#ueber-uns" class="page-scroll">über uns</a></li>
                       <li><a href="#projekte" class="page-scroll">projekte</a></li>
                       <li><a href="#ausstellung" class="page-scroll">ausstellung</a></li>
-                      <li><a href="#danke" class="page-scroll">danke</a></li>
-                      <li><a href="#kontakt" class="page-scroll">kontakt</a></li>
+                      <li><a href="#kontakt" class="page-scroll">kontakt</a></li>  
+                      <li><a href="#presse" data-toggle="collapse" data-target="#pressematerial"  aria-expanded="false" aria-controls="pressematerial" class="page-scroll">presse</a></li>                       
                 </ul>
           </div>		
         </div>
@@ -55,7 +52,6 @@
         <section id="ueber-uns" class="ueber-uns-section">
         	<?php include("include/ueber-uns.php"); ?>
         </section>
-
         <section id="projekte" class="projekte-section">
         	<?php include("include/projekte.php"); ?>
         </section>
@@ -96,7 +92,6 @@
         <section id="footer" class="footer-section">
         	<?php include("footer.php"); ?>
         </section>
-        
 
 </div> <!-- / wrapper-->
 
