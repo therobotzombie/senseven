@@ -33,7 +33,7 @@
                         <div class="col-xs-12 col-sm-6 text-left text-center-xs link-list">
                             <p>
                                 <strong class="visible-xs">Projektmanagement: </strong>
-                                <a href="mailto:svenja.dittrich@web.de">Svenja Dittrich, </a><a href="mailto:lukas@ponikowski.de@web.de">Lukas Ponikowski</a><br/>
+                                <a href="mailto:svenja.dittrich@web.de">Svenja Dittrich, </a><a href="mailto:lukas@ponikowski.de">Lukas Ponikowski</a><br/>
                                 <strong class="visible-xs">Betreuende Dozenten: </strong>
                                 <a href="mailto:karin.guminski@lmu.de">Dr. Karin Guminski, </a><a href="mailto:brigitte-kaiser@gmx.de">Dr. Brigitte Kaiser</a><br/>
                                 <strong class="visible-xs">Presse-&amp; &Ouml;ffentlichkeitsarbeit: </strong>
@@ -45,9 +45,9 @@
                                 <strong class="visible-xs">Finanzen: </strong>
                                 <a href="mailto:m.heinemann@mail.de">Mich&egrave;le Heinemann</a><br/>
                                 <strong class="visible-xs">Catering: </strong>
-                                <a href="mailto:Teresa.b94@gmx.de@campus.lmu.de">Teresa Biersack</a><br/>
+                                <a href="mailto:Teresa.b94@gmx.de">Teresa Biersack</a><br/>
                                 <strong class="visible-xs">Begleitprogramm: </strong>
-                                <a href="mailto:Katharina.Binder1@gmx.de">Katharina Binder</a><br/>
+                                <a href="mailto:binder.katharina.kb@gmail.com">Katharina Binder</a><br/>
                                 <strong class="visible-xs">Printdesign: </strong>
                                 <a href="mailto:Annika.Mittelmeier@campus.lmu.de">Annika Mittelmeier</a><br/>
                                 <strong class="visible-xs">Webdesign: </strong>

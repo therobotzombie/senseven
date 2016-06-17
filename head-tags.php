@@ -53,7 +53,7 @@ Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwer
 <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:100,400,300,700,900" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <!-- Default Theme Style  -->
-<link href="css/screen.min.css" rel="stylesheet">
+<link href="css/screen.css" rel="stylesheet">
     
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

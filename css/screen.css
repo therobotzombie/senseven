@@ -442,15 +442,17 @@ header {
 }
 .text-right {
 	padding-right: 25px;
-	font-size: 0.95em;
 	text-align: right;
 }
 .text-left {
 	padding-left: 25px;
-	font-size: 0.95em;
 	text-align: left;
 }
-.
+.text-left strong, .text-left a, .text-right strong, .text-right a {
+	font-size: 0.95em !important;
+}
+
+
 @media screen and (max-width: 1024px) {
 	.text-right {
 		padding-right: 15px;
@@ -829,11 +831,9 @@ img#festival {
 .link-list {
 	margin-top: 0.5em; 
 }
-
 .link-list a {
 	color: #AED1D6;
 	font-weight: 400;
-	font-size: 0.95em;
 }
 .link-list a:hover {
 	color: white; 
@@ -862,9 +862,7 @@ img#festival {
 	.kontakt-section {
 		padding-top: 0px;
 	}
-	.visible-xs .link-list {
-		font-size: 0.9em;
-	}
+
 }
 
 
