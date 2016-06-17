@@ -2,7 +2,7 @@ project_frohwein.jpg--_-
 foto.png--_-
 Digital Spazierengehen--_-
 Frohwein Daniel--_-
-daniel.frohwein@campus.lmu.de--_-
+ --_-
 Eine Meta-Webseite entsteht.<br/>
 Diese kann andere Webseiten als abstrakte Landschaften visualisieren. 
 Dort k&ouml;nnen sich Besucher der Webseite als einfache Avatare bewegen und interagieren.<br/><br/>

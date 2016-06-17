@@ -35,7 +35,7 @@
                     <img class="lazy" data-src="img/projekte/project_heinemann.jpg" /><div><h3>Michèle Heinemann</h3></div></a>
                 </li>
                 <li>
-                	<a class="empty hidden-xs hidden-sm"><img class="lazy" data-src="img/projekte/project_empty.png" /></a>
+                	<a class="empty hidden-xs hidden-sm hidden-md hidden-lg visible-lgplus"><img class="lazy" data-src="img/projekte/project_empty.png" /></a>
                 </li>  
                 <li>
                 	<a data-toggle="modal" data-target="#modalbasic" data-projekt-id="dittrich">
@@ -80,7 +80,7 @@
                     <img class="lazy" data-src="img/projekte/project_rapp.jpg" /><div><h3>Padraic Rapp</h3></div></a>
                 </li>
                 <li>
-                	<a class="empty hidden-xs hidden-sm"><img class="lazy" data-src="img/projekte/project_empty.png" /></a>
+                	<a class="empty  hidden-xs hidden-sm hidden-md hidden-lg visible-lgplus"><img class="lazy" data-src="img/projekte/project_empty.png" /></a>
                 </li>   
                 <li>
                 	<a data-toggle="modal" data-target="#modalbasic" data-projekt-id="woods">

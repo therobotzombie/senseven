@@ -4,4 +4,4 @@ Lotus--_-
 Padraic Rapp--_-
 paddy.rapp@live.de--_-
 Die Projektarbeit ist eine Computeranimation die eine Kamera fahrt durch unser sichtbares Universum zeigt. Angefangen am Grund des Ozeans werden in wechselnden Stilen Stationen durchfahren die sich immer weiter von unserem Planeten entfernen.
---_-0.7,0.3,0.1,1,0.1,0.1,0.1
+--_--0.2,1,-0.2,-0.2,-0.2,1,-0.2

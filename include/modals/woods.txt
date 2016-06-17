@@ -6,4 +6,4 @@ je_de_wo@yahoo.de--_-
 In diesem Projekt geht es um die Erstellung einer in Echtzeit computergenerierten, interaktiven virtuellen Umgebung, die man begehen und erleben kann.<br/><br/>
 Das Projekt, umgesetzt in 3D, orientiert sich an den Themen Surrealismus und luzides Träumen. Luzides Träumen, oder auch Klartr&auml;umen, bezeichnet den Besitz der Erkenntnis, dass man gerade tr&auml;umt und die daraus resultierende F&auml;higkeit, seinen Traum bewusst zu steuern. 
 Wie in einem solchen Klartraum hat man in meiner Projektarbeit demnach die M&ouml;glichkeit, sich durch eine, in diesem Fall an den Surrealismus angelehnte, abstrakte Traumwelt zu bewegen und diese bzw. darin enthaltene Objekte durch verschiedene Interaktionen zu ver&auml;ndern.
---_-0.1,0.5,0.1,1,0.1,0.1,0.5
+--_-0.9,0.8,0,0,1,1,0.2

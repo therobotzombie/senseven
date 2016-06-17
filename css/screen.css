@@ -443,11 +443,14 @@ header {
 .text-right {
 	padding-right: 25px;
 	font-size: 0.95em;
+	text-align: right;
 }
 .text-left {
 	padding-left: 25px;
 	font-size: 0.95em;
+	text-align: left;
 }
+.
 @media screen and (max-width: 1024px) {
 	.text-right {
 		padding-right: 15px;
@@ -483,6 +486,12 @@ header {
 	}
 	.text-left {
 		padding-left: 15px;
+	}
+	.text-center-xs {
+		text-align: center !important;
+	}
+	.text-center-xs strong {
+		margin-top: 10px;
 	}
 }
 
@@ -546,9 +555,9 @@ img.lazy {
 	position: relative;
 	float: left;
 	overflow: hidden;
-	width: 25%; /* Fallback */
-	width: -webkit-calc(100% / 4);
-	width: calc(100% / 4);
+	width: 33.3333333%; /* Fallback */
+	width: -webkit-calc(100% / 3);
+	width: calc(100% / 3);
 	background: transparent;
 }
 .cbp-rfgrid li a,
@@ -587,13 +596,13 @@ img.lazy {
 .cbp-rfgrid li a div {
 	position: absolute;
 	left: 5%;
-	top: 30%;
+	top: 35%;
 	right: 5%;
-	bottom: 30%;
+	bottom: 35%;
 	-webkit-transition: all .7s ease; /* Fade to color for Chrome and Safari */
     -moz-transition: all .7s;
     transition: all .7s;
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.6);
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -629,13 +638,16 @@ img.lazy {
 	font-size: 1.0vmin;
 	padding: 0px;
 }
-/* Example for media query: change number of items per row */
 
-@media screen and (max-width: 1320px) {
+@media screen and (min-width: 1500px) {
 	.cbp-rfgrid li {
 		width: 25%; /* Fallback */
 		width: -webkit-calc(100% / 4);
 		width: calc(100% / 4);
+	}
+	.visible-lgplus {
+		display: block !important;
+		visibility: visible !important;
 	}
 }
 
@@ -763,8 +775,7 @@ img#festival {
 .link-list a:hover {
 	color: white; 
 }
-
-#presse a.logo img { margin: 1em auto 0 auto; }
+#presse a.logo img { margin: 1em auto 0.5em auto; }
 #presse a.logo img {
 	border: 4px solid white;
 }
@@ -827,7 +838,7 @@ img#festival {
     font-weight: normal !important;
     text-transform: uppercase;
 }
-.btn:hover, .btn:focus {
+.btn:hover, .btn-link:hover, .btn:focus, .btn-link:focus, .btn-link[aria-expanded='true'] {
 	border-color: #8bb7c1; 
 	color: #8bb7c1 !important;
 	text-decoration: none !important;

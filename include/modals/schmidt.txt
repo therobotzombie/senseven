@@ -6,4 +6,4 @@ pa.schmidt@campus.lmu.de--_-
 Ob Platine, Chipsatz oder Design-Software: Der Computer bietet ein breites Spektrum an &auml;sthetischen Reizen, die im Mittelpunkt dieser 5-teligen Modekollektion stehen. <br/>
 Die technischen Komponenten des Computers sind Inspiration f&uuml;r Form und Farbgebung. Digital generierte Muster werden zum visuellen Ausgangspunkt f&uuml;r die Manipulationen verschiedener Textilien. <br/>
 Verwendet werden neben konventionellen Wollstoffen vor allem PVC, Gummi und andere synthetische Stoffe. Diese, teilweise mit Lasercutter bearbeitet, kreieren einen futuristischen Look, der mit 2D- und 3D-Elementen spielt.
---_-0.7,0.3,0.1,1,0.9,0.1,0.1
+--_-0,0,0,0,0.3,1,0.2
