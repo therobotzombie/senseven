@@ -84,7 +84,7 @@
                                 </div>
                     			 <div class="col-xs-6 col-sm-4">
                                  	<p>
-                                    <a href="downloads/pressemitteilung.pdf" class="logo" target="_blank">
+                                    <a href="downloads/senseven2016_pressemitteilung.pdf" class="logo" target="_blank">
                                         <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
                                         <strong>Pressemitteilung als PDF</strong></a>
                                     </p>

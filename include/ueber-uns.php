@@ -16,8 +16,10 @@
         </div>
         <div class="row margin-top">   
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
-                <p><span>Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia 
-                am 15. Juli seine Abschlussausstellung im Studio 2 des Muffatwerks in München.</span></p>
+                <p><span>
+                Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia am 14. Juli um 19 Uhr 
+                seine Abschlussausstellung im Studio 2 des Muffatwerks in München. Die Ausstellung findet in Kooperation mit dem Gärtnerplatz OpenAir statt.
+                </span></p>
 
                     <p>
                         Bis zum 17. Juli zeigen 17 Studenten ihre  – aus einem Jahr intensiver Arbeit entstandenen – 
