@@ -840,6 +840,9 @@ img#festival {
 }
 
 
+/*****************************/
+/*******   PRESSE   *********/
+/*****************************/
 #presse:before { 
   content: " "; 
   display: block;
@@ -849,14 +852,15 @@ img#festival {
 }
 #pressematerial { padding: 20px 40px 60px; background: #072A35; }
 #pressematerial a { font-size: 0.95em; }
-#pressematerial a.logo img { margin: 1em auto 0.5em auto; }
-#pressematerial a.logo img {
-	border: 4px solid white;
-}
-#pressematerial a.logo img:hover {
-	border: 4px solid #8CC63F;
-}
+#pressematerial a img { margin: 1em auto 0.5em auto; }
+#pressematerial a img { border: 4px solid white; }
+#pressematerial a img:hover { border: 4px solid #8CC63F;}
 
+.carousel-control { margin-top: 12%; width: 10%; }
+#myCarousel { margin-top: 5px; }
+.carousel-indicators { right: 50%;  bottom: -35px; margin-right: -19px; }
+.carousel-indicators li { background: #0D1823; border: none; margin: 0 4px;}
+.carousel-indicators .active, .carousel-indicators li:hover { width: 10px; height: 10px; background: #fff; margin: 0 4px; }
 
 @media screen and (max-width: 768px) {
 	.kontakt-section {

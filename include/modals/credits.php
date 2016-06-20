@@ -34,6 +34,13 @@
                                             <li>Icon Font by <a href="http://fortawesome.github.com/Font-Awesome">Font Awesome</a></li>
                                         </ul>
                                 </div>
+                                <div class="col-sm-12  margin-top">
+                                    <h3>Graphics</h3>
+                                        <ul class="list-unstyled">
+                                            <li><strong>Responsive Mockup</strong> by 
+                                            <a href="http://de.freepik.com/vektoren-kostenlos/realistische-gadgets-mit-leeren-bildschirm_785538.htm">freepik</a></li>
+                                        </ul>
+                                </div>
                  		</div> <!-- / row -->      
                     </div>
               </div>

@@ -83,14 +83,14 @@
                                         <h5>Eröffnungsreden</h5>
                                         <p>Dr. Karin Guminski, Dr. Brigitte Kaiser und
                                         Prof. Dr. Heinrich Hußmann, <br/>anschließend:
-                                        Irina Kurbanova, Lukas Ponikowski</p>
+                                        Irina Kurbanova, Lukas Ponikowski<br/><br/></p>
                                     </div>
                     		</div>
         
              	</div>
             </div>
              
-            <div class="map margin-top lazy" id="map_canvas"></div>   
+            <div class="map margin-top" id="map_canvas"></div>   
             
                 <div class="row text-center">   
                     <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">                    

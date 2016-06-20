@@ -37,7 +37,7 @@
                                 <strong class="visible-xs">Betreuende Dozenten: </strong>
                                 <a href="mailto:karin.guminski@lmu.de">Dr. Karin Guminski, </a><a href="mailto:brigitte-kaiser@gmx.de">Dr. Brigitte Kaiser</a><br/>
                                 <strong class="visible-xs">Presse-&amp; &Ouml;ffentlichkeitsarbeit: </strong>
-                                <a href="mailto:lasse-korbanka@web.de">Lasse Korbanka</a><br/>
+                                <a href="mailto:I.Kurbanova@campus.lmu.de">Irina Kurbanova</a><br/>
                                 <strong class="visible-xs">Ausstellungsorganisation: </strong>
                                 <a href="mailto:svenja.dittrich@web.de">Svenja Dittrich</a><br/>
                                 <strong class="visible-xs">Sponsoren: </strong>
@@ -87,9 +87,136 @@
                                     <a href="downloads/senseven2016_pressemitteilung.pdf" class="logo" target="_blank">
                                         <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
                                         <strong>Pressemitteilung als PDF</strong></a>
-                                    </p>
-                                        
+                                    </p>                                       
                                 </div>
+                                <div class="col-xs-12 margin-top">
+                                	<h5>Bildmaterial</h5>
+
+                                        <div id="myCarousel" class="carousel slide">
+                                            <ol class="carousel-indicators">
+                                                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                                <li data-target="#myCarousel" data-slide-to="1"></li>
+                                                <li data-target="#myCarousel" data-slide-to="2"></li>
+                                                <li data-target="#myCarousel" data-slide-to="3"></li>
+                                                <li data-target="#myCarousel" data-slide-to="4"></li>
+                                                <li data-target="#myCarousel" data-slide-to="5"></li>
+                                            </ol>
+                                            
+                                            <!-- Carousel items -->
+                                            <div class="carousel-inner">
+                                                <div class="item active">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/tortuga_mittelmeier.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/tortuga_mittelmeier.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/beauty(never)fades_bardosi.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/beauty(never)fades_bardosi.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/suessesodersalziges_biersack.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/suessesodersalziges_biersack.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item-->
+                                                <div class="item">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/digitalspazierengehen_frohwein.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/digitalspazierengehen_frohwein.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/witheredworld_heinemann.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/witheredworld_heinemann.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/muse(e)um_dittrich.png" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/muse(e)um_dittrich.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item-->       
+                                                <div class="item">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/sia_kurbanova.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/sia_kurbanova.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/kubbist_ponikowski.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/kubbist_ponikowski.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/wereallstories_redeker.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/wereallstories_redeker.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item-->    
+                                                <div class="item">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/tamade_wang.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/tamade_wang.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/einbesonderesschachspiel_aurbach.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/einbesonderesschachspiel_aurbach.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/zauberwuerfel_korbanka.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/zauberwuerfel_korbanka.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item--> 
+                                                <div class="item">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/againstthewall_scavuzzo.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/againstthewall_scavuzzo.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/lotus_rapp.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/lotus_rapp.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/dreamality_woods.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/dreamality_woods.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item-->  
+                                                <div class="item">
+                                                    <div class="row">
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/acircuitlikeme_schmidt.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/acircuitlikeme_schmidt.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/senseven_net.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/senseven_net.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-sm-4">
+                                                        	<a href="./downloads/muffatwerk_besprechung_senseven.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/muffatwerk_besprechung_senseven.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                    </div>
+                                                    <!--/row-->
+                                                </div>
+                                                <!--/item-->                   
+                                            </div>
+                                        </div>
+                                        <!--/myCarousel-->
+                                    </div>              
+                                    
                      </div>
                                    
                         
