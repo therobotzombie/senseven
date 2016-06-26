@@ -1,7 +1,19 @@
 project_binder.jpg--_-
 foto.png--_-
-Titel--_-
+AEOS &#8211; wearable device--_-
 Katharina Binder--_-
-binder.katharina.kb@gmail.com--_-
--
+helloaeos@gmail.com--_-
+Obwohl Wearable Technologies noch in den Kinderschuhen steckt, sind sie bereits fest in unseren Alltag integriert. 
+Smarte Geräte werden immer kleiner – ihr Markt jedoch täglich größer. 
+Der Überfluss von überwältigenden Neuheiten fasziniert und überfordert allerdings die meisten Nutzer gleichermassen. <br/><br/>
+Ziel dieses Projektes ist es daher, die Beziehung zwischen tragbarem Device, User und Smartphone aus einem neuen Blickwinkel heraus zu vereinfachen. 
+NFC, Near-Field Communication ist eine Chiptechnologie, die beispielsweise zum bargeldlosen Bezahlen eingesetzt wird und hierbei 
+als berührungslose Überbrückung zwischen Benutzer und Telefon fungiert. 
+Aeos verbessert das Interaktionserlebnis mit dem Smartphone, ohne dieses in der Hand halten zu müssen. 
+Auf NFC Technologie basierend kommuniziert der handgefertigte Ring aus Silikon auf 
+kurze Distanzen mit dem Telefon und gibt so Befehle für zuvor festgelegte und personalisierte Aufgaben. <br/><br/>
+
+Innerhalb einer minimalistischen und auf den User abgestimmten App kann dieser zuvor entscheiden, was Aeos als nächstes mittels einer kurzen und natürlichen Geste 
+nahe dem Smartphone – das sich etwa in der Tasche befindet – ausführt. 
+Beispielsweise wird der aktuelle Song einer Playlist übersprungen, der Schrittzähler aktiviert oder das Smartphone auf lautlos gestellt.
 --_-0.7,0.3,0.4,1,0.5,0.1,0.1
