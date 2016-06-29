@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e57b17a1-1e5b-402f-8ad0-dba33a076c53" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/modals/binder.txt" afterPath="$PROJECT_DIR$/include/modals/binder.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="senseven.iws" />
@@ -106,6 +105,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="senseven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="senseven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="senseven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="senseven" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fotos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -117,6 +148,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\sensevenweb\senseven\img\fotos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\sensevenweb\senseven\img\fotos" />
     </key>
@@ -169,7 +203,19 @@
       <option name="project" value="LOCAL" />
       <updated>1467126153788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="die sachen von katharina">
+      <created>1467146545285</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1467146545285</updated>
+    </task>
+    <task id="LOCAL-00003" summary="die sachen von katharina">
+      <created>1467146582836</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1467146582836</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -203,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hab die fotos eingekreist und eingebunden, lauter schöne menschen =) katharina fehlt halt noch weil nich in dropbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="hab die fotos eingekreist und eingebunden, lauter schöne menschen =) katharina fehlt halt noch weil nich in dropbox" />
+    <MESSAGE value="die sachen von katharina" />
+    <option name="LAST_COMMIT_MESSAGE" value="die sachen von katharina" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
