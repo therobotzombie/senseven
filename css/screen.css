@@ -292,6 +292,8 @@ header {
 	}
 	.nav > li > a.logo {
 		width: 100%;
+		max-width: 500px;
+		margin: 0 auto;
 		text-align: center;
 	}	
 	.nav > li > a.logo > img {
@@ -861,14 +863,13 @@ img#festival {
 .carousel-indicators { right: 50%;  bottom: -35px; margin-right: -19px; }
 .carousel-indicators li { background: #0D1823; border: none; margin: 0 4px;}
 .carousel-indicators .active, .carousel-indicators li:hover { width: 10px; height: 10px; background: #fff; margin: 0 4px; }
-
 @media screen and (max-width: 768px) {
-	.kontakt-section {
-		padding-top: 0px;
-	}
-
+	.kontakt-section { padding-top: 0px; }
+	.carousel-indicators {  right: 50%; bottom: -45px; margin-right: -19px; }
 }
-
+@media screen and (max-width: 768px) {
+	.carousel-indicators {  right: 50%; bottom: -50px; margin-right: -10px; }
+}
 
 /*****************************/
 /***** FOOTER *****/

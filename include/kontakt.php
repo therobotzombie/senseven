@@ -201,13 +201,17 @@
                                                             <img src="./downloads/thumbnails/acircuitlikeme_schmidt.jpg" alt="Download" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
+                                                        	<a href="./downloads/aeos_binder.jpg" target="_blank" class="lazy">
+                                                            <img src="./downloads/thumbnails/aeos_binder.jpg" alt="Download" class="img-responsive"></a>
+                                                        </div>
+                                                        <div class="col-xs-4">
                                                         	<a href="./downloads/senseven_net.jpg" target="_blank" class="lazy">
                                                             <img src="./downloads/thumbnails/senseven_net.jpg" alt="Download" class="img-responsive"></a>
                                                         </div>
-                                                        <div class="col-xs-4">
+                                                        <!--<div class="col-xs-4">
                                                         	<a href="./downloads/muffatwerk_besprechung_senseven.jpg" target="_blank" class="lazy">
                                                             <img src="./downloads/thumbnails/muffatwerk_besprechung_senseven.jpg" alt="Download" class="img-responsive"></a>
-                                                        </div>
+                                                        </div>-->
                                                     </div>
                                                     <!--/row-->
                                                 </div>
@@ -215,7 +219,7 @@
                                             </div>
                                         </div>
                                         <!--/myCarousel-->
-                                    </div>              
+                                   </div>              
                                     
                      </div>
                                    
