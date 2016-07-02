@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
-                <h2>Die Ausstellung mit dem siebten Sinn</h2>
+                <h2>Die Ausstellung mit dem 7. Sinn</h2>
                 <h5>Eine Veranstaltung des Bachelorstudiengangs Kunst und Multimedia <br/>
 					<span  class="xs-small-font">LMU &middot; Department Kunstwissenschaften &middot; Institut für Kunstpädagogik</span>
                 </h5>

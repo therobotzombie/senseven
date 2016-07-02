@@ -1,5 +1,6 @@
 RewriteEngine On
 RewriteBase /
+RewriteCond %{HTTP_HOST} !=localhost
 RewriteCond %{HTTP_HOST} !^senseven.net$ [NC]
 RewriteRule ^(.*)$ http://senseven.net/$1 [L,R=301]
 

@@ -23,7 +23,7 @@
           </a>
           <div class="navbar-collapse collapse">
                 <ul class="nav pull-left navbar-nav">
-                	<li><a class="logo" title="SENSEVEN"><img src="img/logo_font_w.png"  class="img-responsive" alt="SENSEVEN" /></a></li>
+                	<li><h1 class="logo" title="SENSEVEN"><img src="img/logo_font_w.png" class="img-responsive" alt="SENSEVEN" /></h1></li>
                 </ul>
                 <ul class="nav pull-right list-inline navbar-nav">
                       <li><a href="#ueber-uns" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Über uns">über uns</a></li>
