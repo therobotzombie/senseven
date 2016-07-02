@@ -26,7 +26,7 @@
                 <div class="row">                  
                      <div class="col-xs-12 col-sm-6 col-md-6">
                         <div class="col-xs-12 no-padding">
-                        	<a href="http://www.hypo-kulturstiftung.de/" title="Website der Hypo Kulturstiftung aufrufen"><img class="lazy" data-src="img/sponsoren/hypokulturstifung.png" alt="Hypo Kulturstifung" title="Hypo Kulturstifung" /></a>
+                        	<a href="http://www.hypo-kulturstiftung.de/" title="Website der Hypo Kulturstiftung aufrufen"><img class="lazy" data-src="img/sponsoren/hypokulturstiftung.png" alt="Hypo Kulturstiftung" title="Hypo Kulturstiftung" /></a>
                          </div>
                         <div class="col-xs-9 no-padding">
                             <a href="http://www.lfa.de/Förderbank" title="Website der LFA Förderbank aufrufen"><img class="lazy" data-src="img/sponsoren/LfA_Logo.jpg" alt="LFA Förderbank" title="LFA Förderbank"  /></a>
