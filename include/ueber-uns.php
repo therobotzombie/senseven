@@ -33,7 +33,7 @@
                         künstlerischer Gestaltung und führen den Betrachter in eine Welt, die er mit allen Sinnen 
                         erfahren kann. <br/><br/>
                     </p>
-                    <a class="btn btn-link hidden-xs" href="#projekte">zu den projekten</a>
+                    <a class="btn btn-link hidden-xs" href="#projekte" title="zu den Projekten">zu den projekten</a>
             </div>
         </div>
     </div>
