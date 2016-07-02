@@ -5,7 +5,8 @@
                 <h1>Vielen Dank</h1>
           		<span class="underline-white"></span>
                  <h5>für die finanzielle und tatkräftige Unterstützung!</h5>
-                 <p>Wir danken dem Department Kunstwissenschaften sowie dem Institut für Kunstpädagogik und der Medieninformatik der LMU München. Des Weiteren danken wir dem Team des Muffatwerks für die Bereitstellung der Ausstellungsräume, den Sponsoren für ihre Spenden, unseren Familien und Freunden und allen weiteren Unterstützern.<br><br>Wir danken Frau Dr. Brigitte Kaiser für ihre Betreuung unserer kuratorischen Praxis. Recht herzlich bedanken wir uns auch bei Frau Dr. Karin Guminski, Leiterin des Studiengangs Kunst und Multimedia, die uns im Laufe des Studiums und insbesondere während unseres Projektjahres immer beratend zur Seite gestanden hat.<br/><br/><h2 class="hidden-xs"><i class="fa fa-heart"></i></h2></p>
+                 <p>Wir danken dem Department Kunstwissenschaften sowie dem Institut für Kunstpädagogik und der Medieninformatik der LMU München. Des Weiteren danken wir dem Team des Muffatwerks für die Bereitstellung der Ausstellungsräume, den Sponsoren für ihre Spenden, unseren Familien und Freunden und allen weiteren Unterstützern.<br><br>Wir danken Frau Dr. Brigitte Kaiser für ihre Betreuung unserer kuratorischen Praxis. Recht herzlich bedanken wir uns auch bei Frau Dr. Karin Guminski, Leiterin des Studiengangs Kunst und Multimedia, die uns im Laufe des Studiums und insbesondere während unseres Projektjahres immer beratend zur Seite gestanden hat.<br/><br/>
+                 	<!-- darf kein H2-Element sein, da schließendes p-tag sonst nicht erkannt wird und Fehler wirft <h2 class="hidden-xs"><i class="fa fa-heart"></i></h2>--></p>
              </div>
         </div>
         
