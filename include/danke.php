@@ -5,19 +5,7 @@
                 <h1>Vielen Dank</h1>
           		<span class="underline-white"></span>
                  <h5>für die finanzielle und tatkräftige Unterstützung!</h5>
-                 
-                 <p>
-                      Wir danken dem Department Kunstwissenschaften sowie dem Institut für Kunstpädagogik und der Medieninformatik der LMU München. 
-                      Des Weiteren danken wir dem Team des Muffatwerks für die Bereitstellung der Ausstellungsräume, den Sponsoren für ihre Spenden, 
-                      unseren Familien und Freunden und allen weiteren Unterstützern. <br><br>
-    
-                        Wir danken Frau Dr. Brigitte Kaiser für ihre Betreuung unserer kuratorischen Praxis. Recht herzlich bedanken wir uns auch bei Frau
-                        Dr. Karin Guminski, Leiterin des Studiengangs Kunst und Multimedia, die uns im Laufe des Studiums und insbesondere während unseres Projektjahres 
-                        immer beratend zur Seite gestanden hat.
-                        <br/>
-                        <br/>
-                        <h2 class="hidden-xs"><i class="fa fa-heart"></i></h2>
-                   </p>
+                 <p>Wir danken dem Department Kunstwissenschaften sowie dem Institut für Kunstpädagogik und der Medieninformatik der LMU München. Des Weiteren danken wir dem Team des Muffatwerks für die Bereitstellung der Ausstellungsräume, den Sponsoren für ihre Spenden, unseren Familien und Freunden und allen weiteren Unterstützern.<br><br>Wir danken Frau Dr. Brigitte Kaiser für ihre Betreuung unserer kuratorischen Praxis. Recht herzlich bedanken wir uns auch bei Frau Dr. Karin Guminski, Leiterin des Studiengangs Kunst und Multimedia, die uns im Laufe des Studiums und insbesondere während unseres Projektjahres immer beratend zur Seite gestanden hat.<br/><br/><h2 class="hidden-xs"><i class="fa fa-heart"></i></h2></p>
              </div>
         </div>
         
@@ -36,7 +24,7 @@
                         </div>
                      </div>
                      <div class="col-xs-6 col-sm-3 col-md-3">
-                        <a href=""><img class="lazy" data-src="img/sponsoren/gaertnerplatz_openair.jpg" alt="gärtnerplatz openair 2016"  /></a>
+                        <a href=""><img class="lazy" data-src="img/sponsoren/gaertnerplatz_openair.jpg" src="img/sponsoren/gaertnerplatz_openair.jpg" alt="gärtnerplatz openair 2016"  /></a>
                         <a href="http://www.mucbook.de/" title="Website von Mucbook aufrufen"><img class="lazy" data-src="img/sponsoren/mucbook.png" src="img/sponsoren/mucbook.png" alt="Mucbook"  /></a>
                      </div>
                      <div class="col-xs-6 col-sm-3 col-md-3">

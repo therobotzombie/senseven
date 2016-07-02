@@ -71,21 +71,21 @@
                                  <div class="col-xs-6 col-sm-4">
                                     <p>
                                     <a href="img/downloads/SENSEVEN.png" class="logo" target="_blank" title="SENSEVEN-Logo als PNG-Datei anzeigen">
-                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <img src="img/downloads/logo_300.png" class="img-responsive" alt="SENSEVEN-Logo">
                                         <strong>Motiv als PNG</strong></a><br/>
                                      </p>
                                 </div>
                                 <div class="col-xs-6 col-sm-4">
                                 	<p>
                                     <a href="img/downloads/SENSEVEN.eps" class="logo" target="_blank" title="SENSEVEN-Logo als EPS-Datei anzeigen">
-                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <img src="img/downloads/logo_300.png" class="img-responsive" alt="SENSEVEN-Logo">
                                         <strong>Motiv als EPS</strong></a><br/>
                                      </p>
                                 </div>
                     			 <div class="col-xs-6 col-sm-4">
                                  	<p>
                                     <a href="downloads/senseven2016_pressemitteilung.pdf" class="logo" target="_blank" title="Pressemitteilung anzeigen">
-                                        <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
+                                        <img src="img/downloads/pressemitteilung.jpg" class="img-responsive" alt="SENSEVEN-Logo">
                                         <strong>Pressemitteilung als PDF</strong></a>
                                     </p>                                       
                                 </div>

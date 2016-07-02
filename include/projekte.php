@@ -56,7 +56,7 @@
                  
                 <li>
                 	<a data-toggle="modal" data-target="#modalbasic" data-projekt-id="wang" title="Projektdetails öffnen">
-                    <img class="lazy" data-src="img/projekte/project_wang.jpg" src="img/projekte/project_wang.jpg" alt="Projektvorschau" alt="Projektvorschau" /><div><h3>Robin Wang</h3></div></a>
+                    <img class="lazy" data-src="img/projekte/project_wang.jpg" src="img/projekte/project_wang.jpg" alt="Projektvorschau" /><div><h3>Robin Wang</h3></div></a>
                 </li>  
 
                 <li>
