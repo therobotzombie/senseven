@@ -3,6 +3,7 @@
 <head>
     <title>SENSEVEN &middot; Die Ausstellung mit dem 7. Sinn</title>
     <?php include("head-tags.php"); ?>
+    
 </head>
 <body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static"> 
 <!-- back-to-top-link -->
