@@ -8,7 +8,7 @@
 <body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static"> 
 <!-- back-to-top-link -->
 <span id="top-link-block" class="hidden">
-        <a href="#top" class="btn btn-primary" title="nach oben" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+        <a href="#top" class="btn btn-primary" title="gehe nach oben" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
             <i class="fa fa-chevron-up"></i>
         </a>
 </span>
@@ -23,7 +23,7 @@
           </a>
           <div class="navbar-collapse collapse">
                 <ul class="nav pull-left navbar-nav">
-                	<li><h1 class="logo" title="SENSEVEN"><img src="img/logo_font_w.png" class="img-responsive" alt="SENSEVEN" /></h1></li>
+                	<li><h1 class="logo"><img src="img/logo_font_w.png" class="img-responsive" alt="SENSEVEN" title="SENSEVEN" /></h1></li>
                 </ul>
                 <ul class="nav pull-right list-inline navbar-nav">
                       <li><a href="#ueber-uns" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Über uns">über uns</a></li>
@@ -44,7 +44,7 @@
         <div class="content">
             <section class="canvas-wrap">
                 <div class="canvas-content">
-                    <img src="img/logo_seven.png" class="seven" alt="SENSEVEN"  />
+                    <img src="img/logo_seven.png" class="seven" alt="SENSEVEN" title="SENSEVEN" />
                 </div>
                 <div id="canvas" class="gradient"></div>
             </section>

@@ -26,44 +26,43 @@
                 <div class="row">                  
                      <div class="col-xs-12 col-sm-6 col-md-6">
                         <div class="col-xs-12 no-padding">
-                        	<a href="http://www.hypo-kulturstiftung.de/" title="Website der Hypo Kulturstiftung aufrufen"><img class="lazy" data-src="img/sponsoren/hypokulturstifung.png" alt="hypo-kulturstifung"  /></a>
+                        	<a href="http://www.hypo-kulturstiftung.de/" title="Website der Hypo Kulturstiftung aufrufen"><img class="lazy" data-src="img/sponsoren/hypokulturstifung.png" alt="Hypo Kulturstifung" title="Hypo Kulturstifung" /></a>
                          </div>
                         <div class="col-xs-9 no-padding">
-                            <a href="http://www.lfa.de/Förderbank" title="Website der LFA Förderbank aufrufen"><img class="lazy" data-src="img/sponsoren/LfA_Logo.jpg" alt="hypo-kulturstifung"  /></a>
+                            <a href="http://www.lfa.de/Förderbank" title="Website der LFA Förderbank aufrufen"><img class="lazy" data-src="img/sponsoren/LfA_Logo.jpg" alt="LFA Förderbank" title="LFA Förderbank"  /></a>
                         </div>
                         <div class="col-xs-3 no-padding-right">
-                             <a href="http://www.muffatwerk.de/" title="Website des Muffatwerks aufrufen"><img class="lazy" data-src="img/sponsoren/mh.jpg" alt="Muffatwerk"  /></a>
+                             <a href="http://www.muffatwerk.de/" title="Website des Muffatwerks aufrufen"><img class="lazy" data-src="img/sponsoren/mh.jpg" title="Muffatwerk" alt="Muffatwerk"  /></a>
                         </div>
                      </div>
                      <div class="col-xs-6 col-sm-3 col-md-3">
-                        <a href=""><img class="lazy" data-src="img/sponsoren/gaertnerplatz_openair.jpg" alt="gärtnerplatz openair 2016"  /></a>
-                        <a href="http://www.mucbook.de/" title="Website von Mucbook aufrufen"><img class="lazy" data-src="img/sponsoren/mucbook.png" alt="Mucbook"  /></a>
+                        <a href="https://www.facebook.com/events/848272211983907/" title="Facebook-Veranstaltung von Gärtnerplatz aufrufen"><img class="lazy" data-src="img/sponsoren/gaertnerplatz_openair.jpg" title="Gärtnerplatz OpenAir 2016" alt="Gärtnerplatz OpenAir 2016"  /></a>
+                        <a href="http://www.mucbook.de/" title="Website von Mucbook aufrufen"><img class="lazy" data-src="img/sponsoren/mucbook.png" title="Mucbook" alt="Mucbook"  /></a>
                      </div>
                      <div class="col-xs-6 col-sm-3 col-md-3">
-                     	<a href="http://www.maha-aip.com/" title="Website von MAHA AIP aufrufen"><img class="lazy" data-src="img/sponsoren/aip.png" alt="MAHA AIP Maschinenbau"  /></a>
+                     	<a href="http://www.maha-aip.com/" title="Website von MAHA AIP aufrufen"><img class="lazy" data-src="img/sponsoren/aip.png" title="MAHA AIP Maschinenbau" alt="MAHA AIP Maschinenbau"  /></a>
                      </div>
                      </div>
                 <div class="row">     
                      <div class="col-xs-3 col-sm-2">
-                        <a href="http://muenchen.branchen-info.net/fp_1794051.php" title="Website von Bardosi Transporte aufrufen"><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" alt="Bardosi Transporte" /></a>
-                        <a href="http://harrykleinclub.de/" title="Website von Harry Klein Club aufrufen"><img class="lazy" data-src="img/sponsoren/harryklein.png" alt="Harry Klein"  /></a> 
+                        <a href="http://muenchen.branchen-info.net/fp_1794051.php" title="Website von Bardosi Transporte aufrufen"><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" title="Bardosi Transporte" alt="Bardosi Transporte" /></a>
                      </div>
                      <div class="col-xs-4 col-sm-3">
-                        <a href="https://subseq.net/" title="Website von SUBSEQ aufrufen"><img class="lazy" data-src="img/sponsoren/subseq.jpg" alt="SUBSEQ.net"  /></a>
+                        <a href="https://subseq.net/" title="Website von SUBSEQ aufrufen"><img class="lazy" data-src="img/sponsoren/subseq.jpg" title="SUBSEQ.net" alt="SUBSEQ.net"  /></a>
                         <div class="visible-xs col-xs-12 no-padding">
-                        	<a href="https://www.uni-muenchen.de/" title="Website der Ludwig-Maximilians-Universität aufrufen"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
+                        	<a href="https://www.uni-muenchen.de/" title="Website der Ludwig-Maximilians-Universität aufrufen"><img class="lazy" data-src="img/sponsoren/lmu.png" title="LMU München" alt="LMU München" /></a>
                      	</div> 
                      </div>   
                      <div class="col-xs-5 col-sm-3">
                         <div class="col-xs-12 col-sm-12 no-padding">
-                             <a href="http://www.isleofsummer.de/" title="Website von Isle of Summer aufrufen"><img class="lazy" data-src="img/sponsoren/ios.png" alt="ISLE OF SUMMER" /></a>
+                             <a href="http://www.isleofsummer.de/" title="Website von Isle of Summer aufrufen"><img class="lazy" data-src="img/sponsoren/ios.png" title="Isle of Summer"  alt="Isle of Summer" /></a>
                         </div>
                         <div class="col-xs-12 col-sm-12 no-padding">
-                        	<a href="http://www.praxiskom.de/" title="Website von PraxisKom aufrufen"><img class="lazy" data-src="img/sponsoren/praxiskom.png" alt="Praxiskom"  /></a> 
+                        	<a href="http://www.praxiskom.de/" title="Website von PraxisKom aufrufen"><img class="lazy" data-src="img/sponsoren/praxiskom.png" title="Praxiskom" alt="Praxiskom"  /></a> 
                         </div>                        
                      </div>  
                      <div class="hidden-xs col-sm-3">
-                        	<a href="https://www.uni-muenchen.de/" title="Website der Ludwig-Maximilians-Universität aufrufen"><img class="lazy" data-src="img/sponsoren/lmu.png" alt="LMU München" /></a>
+                        	<a href="https://www.uni-muenchen.de/" title="Website der Ludwig-Maximilians-Universität aufrufen"><img class="lazy" data-src="img/sponsoren/lmu.png" title="LMU München" alt="LMU München" /></a>
                      </div>               
                 </div>
 

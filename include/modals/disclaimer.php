@@ -4,7 +4,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
           <div class="modal-header">
-                <h1 id="modalHeader">Haftungsausschluss</h1>
+                <h1>Haftungsausschluss</h1>
                 <span class="underline-white"></span> 
           </div>
           <div class="modal-body">
@@ -43,14 +43,14 @@
                                    <br/><br/>
                                     </p>
                                     <p>
-                                    <b>Quelle:</b> <a href="http://www.e-recht24.de/muster-disclaimer.html" target="_blank">Disclaimer</a> von eRecht24.
+                                    <strong>Quelle:</strong> <a href="http://www.e-recht24.de/muster-disclaimer.html" target="_blank" title="zur Website von eRecht24">Disclaimer</a> von eRecht24.
                                     </p>
                                  </div>
                  		</div> <!-- / row -->      
                     </div>
               </div>
      <div class="modal-header">
-                <h1 id="modalHeader">Datenschutzerklärung</h1>
+                <h1>Datenschutzerklärung</h1>
                 <span class="underline-white"></span> 
           </div>
           <div class="modal-body">
@@ -77,8 +77,8 @@
                                    Werbeinformationen, etwa durch Spam-E-Mails, vor.<br/><br/>
                                     </p>
                                     <p>
-                                    <b>Quelle:</b> 
-                                    <a href="http://www.e-recht24.de/muster-datenschutzerklaerung.html" target="_blank">Datenschutzerklärung</a> 
+                                    <strong>Quelle:</strong> 
+                                    <a href="http://www.e-recht24.de/muster-datenschutzerklaerung.html" target="_blank"  title="zur Website von eRecht24">Datenschutzerklärung</a> 
                                     von eRecht24.<br/><br/>
                                     </p>
                                 </div>

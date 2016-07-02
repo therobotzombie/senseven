@@ -71,21 +71,21 @@
                                  <div class="col-xs-6 col-sm-4">
                                     <p>
                                     <a href="img/downloads/SENSEVEN.png" class="logo" target="_blank" title="SENSEVEN-Logo als PNG-Datei anzeigen">
-                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <img src="img/downloads/logo_300.png" alt="SENSEVEN Logo" title="SENSEVEN Logo" class="img-responsive">
                                         <strong>Motiv als PNG</strong></a><br/>
                                      </p>
                                 </div>
                                 <div class="col-xs-6 col-sm-4">
                                 	<p>
                                     <a href="img/downloads/SENSEVEN.eps" class="logo" target="_blank" title="SENSEVEN-Logo als EPS-Datei anzeigen">
-                                        <img src="img/downloads/logo_300.png" class="img-responsive">
+                                        <img src="img/downloads/logo_300.png" alt="SENSEVEN Logo" title="SENSEVEN Logo" class="img-responsive">
                                         <strong>Motiv als EPS</strong></a><br/>
                                      </p>
                                 </div>
                     			 <div class="col-xs-6 col-sm-4">
                                  	<p>
                                     <a href="downloads/senseven2016_pressemitteilung.pdf" class="logo" target="_blank" title="Pressemitteilung anzeigen">
-                                        <img src="img/downloads/pressemitteilung.jpg" class="img-responsive">
+                                        <img src="img/downloads/pressemitteilung.jpg" alt="SENSEVEN Pressemitteilung" title="SENSEVEN Pressemitteilung" class="img-responsive">
                                         <strong>Pressemitteilung als PDF</strong></a>
                                     </p>                                       
                                 </div>
@@ -107,16 +107,16 @@
                                                 <div class="item active">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/tortuga_mittelmeier.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/tortuga_mittelmeier.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/tortuga_mittelmeier.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/tortuga_mittelmeier.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/beauty(never)fades_bardosi.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/beauty(never)fades_bardosi.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/beauty(never)fades_bardosi.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/beauty(never)fades_bardosi.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/suessesodersalziges_biersack.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/suessesodersalziges_biersack.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/suessesodersalziges_biersack.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/suessesodersalziges_biersack.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                     </div>
                                                     <!--/row-->
@@ -125,16 +125,16 @@
                                                 <div class="item">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/digitalspazierengehen_frohwein.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/digitalspazierengehen_frohwein.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/digitalspazierengehen_frohwein.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/digitalspazierengehen_frohwein.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/witheredworld_heinemann.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/witheredworld_heinemann.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/witheredworld_heinemann.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/witheredworld_heinemann.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/muse(e)um_dittrich.png" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/muse(e)um_dittrich.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/muse(e)um_dittrich.png" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/muse(e)um_dittrich.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                     </div>
                                                     <!--/row-->
@@ -143,16 +143,16 @@
                                                 <div class="item">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/sia_kurbanova.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/sia_kurbanova.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/sia_kurbanova.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/sia_kurbanova.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/kubbist_ponikowski.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/kubbist_ponikowski.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/kubbist_ponikowski.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/kubbist_ponikowski.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/wereallstories_redeker.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/wereallstories_redeker.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/wereallstories_redeker.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/wereallstories_redeker.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                     </div>
                                                     <!--/row-->
@@ -161,16 +161,16 @@
                                                 <div class="item">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/tamade_wang.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/tamade_wang.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/tamade_wang.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/tamade_wang.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/einbesonderesschachspiel_aurbach.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/einbesonderesschachspiel_aurbach.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/einbesonderesschachspiel_aurbach.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/einbesonderesschachspiel_aurbach.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/zauberwuerfel_korbanka.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/zauberwuerfel_korbanka.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/zauberwuerfel_korbanka.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/zauberwuerfel_korbanka.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                     </div>
                                                     <!--/row-->
@@ -179,16 +179,16 @@
                                                 <div class="item">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/againstthewall_scavuzzo.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/againstthewall_scavuzzo.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/againstthewall_scavuzzo.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/againstthewall_scavuzzo.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/lotus_rapp.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/lotus_rapp.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/lotus_rapp.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/lotus_rapp.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/dreamality_woods.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/dreamality_woods.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/dreamality_woods.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/dreamality_woods.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                     </div>
                                                     <!--/row-->
@@ -197,20 +197,20 @@
                                                 <div class="item">
                                                     <div class="row">
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/acircuitlikeme_schmidt.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/acircuitlikeme_schmidt.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/acircuitlikeme_schmidt.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/acircuitlikeme_schmidt.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/aeos_binder.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/aeos_binder.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/aeos_binder.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/aeos_binder.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <div class="col-xs-4">
-                                                        	<a href="./downloads/senseven_net.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/senseven_net.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/senseven_net.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/senseven_net.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>
                                                         <!--<div class="col-xs-4">
-                                                        	<a href="./downloads/muffatwerk_besprechung_senseven.jpg" target="_blank" class="lazy" title="Projektbild öffnen">
-                                                            <img src="./downloads/thumbnails/muffatwerk_besprechung_senseven.jpg" alt="Download" class="img-responsive"></a>
+                                                        	<a href="./downloads/muffatwerk_besprechung_senseven.jpg" target="_blank" class="lazy" title="Projektbild anzeigen">
+                                                            <img src="./downloads/thumbnails/muffatwerk_besprechung_senseven.jpg" alt="SENSEVEN Projektvorschau" title="SENSEVEN Projektvorschau" class="img-responsive"></a>
                                                         </div>-->
                                                     </div>
                                                     <!--/row-->
