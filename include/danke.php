@@ -46,6 +46,7 @@
                 <div class="row">     
                      <div class="col-xs-3 col-sm-2">
                         <a href="http://muenchen.branchen-info.net/fp_1794051.php" title="Website von Bardosi Transporte aufrufen"><img class="lazy" data-src="img/sponsoren/BardosiTransporte_logo.png" title="Bardosi Transporte" alt="Bardosi Transporte" /></a>
+                        <a href="http://harrykleinclub.de/" title="Website von Harry Klein Club aufrufen"><img class="lazy" data-src="img/sponsoren/harryklein.png" title="Harry Klein Club" alt="Harry Klein Club"  /></a> 
                      </div>
                      <div class="col-xs-4 col-sm-3">
                         <a href="https://subseq.net/" title="Website von SUBSEQ aufrufen"><img class="lazy" data-src="img/sponsoren/subseq.jpg" title="SUBSEQ.net" alt="SUBSEQ.net"  /></a>
