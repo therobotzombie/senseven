@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 <!-- Meta Tags -->
 <meta name="description" lang="DE" 
@@ -11,6 +11,7 @@ content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs
 <meta name="copyright" content="Kunst und Multimedia 7">
 <meta name="language" content="DE">
 <link rel="canonical" href="http://www.senseven.net">
+<meta name="google-site-verification" content="526m9UlyNEaxpT0jpe9X8bmWBlu7F54Pda5dR8ZU4L4" />
 
 <!-- Social: Twitter -->
 <meta name="twitter:card" content="photo">
