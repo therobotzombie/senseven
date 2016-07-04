@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Oops! Die Seite konnte nicht gefunden werden &middot; SENSEVEN &middot; Die Ausstellung mit dem 7. Sinn</title>
+    <title>Oops! Die Seite wurde nicht gefunden &middot; SENSEVEN.net</title>
     <?php include("head-tags.php"); ?>
 </head>
 <body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static"> 
@@ -49,9 +49,10 @@
                                 <h1>404 Fehler!</h1>
                                 <span class="underline-white"></span>
                                 <h5>Diese gesuchte Seite wurde leider nicht gefunden!</h5>
-                                <p><br/>Auf unserer Startseite findest Du jedoch alle wichtigen Informationen zur Abschlussausstellung SENSEVEN 
+                                <p>Auf unserer Startseite findest Du jedoch alle wichtigen Informationen zur Abschlussausstellung SENSEVEN 
                                 des siebten Jahrgangs Kunst und Multimedia der LMU München.</p>
-                                <p><a class="btn btn-link" href="./index.php" title="Zurück zur Startseite"><i class="fa fa-angle-left"></i> &nbsp; <span class="hidden-xs">zurück </span>zur Startseite</a><br/><br/></p>
+                                <p><a class="btn btn-link hidden-xs" role="button" href="./index.php" title="Zurück zur Startseite"><i class="fa fa-angle-left"></i> &nbsp; zurück zur Startseite</a>
+                                <a class="btn btn-link visible-xs" href="./index.php" role="button" title="Zurück zur Startseite"><i class="fa fa-angle-left"></i> &nbsp; zur Startseite</a><br/></p>
                                 <p>
                                     Fehlermeldungen helfen uns außerdem dabei diese Seite zu verbessern. <br/> 
                                     Schicke einfach eine E-Mail an <a href="mailto:mail@senseven.net" target="_blank" title="E-Mail an mail@senseven.net senden">mail@senseven.net</a>. 
