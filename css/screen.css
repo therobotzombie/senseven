@@ -211,7 +211,7 @@ header {
 .navbar-nav {
 	margin-top: 5px;
 }
-.nav > .navbar > .navbar-collapse > a.logo {
+.nav > .navbar > .navbar-collapse > .logo {
 	float: left !important;
 }
 .nav > li > a {
@@ -237,11 +237,11 @@ header {
 		margin-left: 0;
 		margin-right: 0;
 	}
-	.nav > li > a.logo {
+	.nav > li > .logo {
 		width: 100%;
 		text-align: center;
 	}	
-	.nav > li > a.logo > img {
+	.nav > li > .logo > img {
 		max-width: 390px;
 		margin: 0px auto 0;
 	}	
@@ -290,24 +290,30 @@ header {
 		*zoom:1; /* hasLayout ie7 trigger */
 		vertical-align: top;
 	}
-	.nav > li > a.logo {
+	.nav > li > .logo {
 		width: 100%;
-		max-width: 500px;
-		margin: 0 auto;
+		max-width: 400px !important;
+		margin: 20px auto -10px;
 		text-align: center;
 	}	
-	.nav > li > a.logo > img {
+	.nav > li > .logo > img {
 		max-width: 320px;
-		margin: 0px auto -20px;
+		margin: 0px auto;
 	}	
 	#navbg {
-		height: 140px;
+		height: 150px;
 	}
 }
 @media screen and (max-width: 767px) {
-	.nav > li > a.logo > img {
+	.nav > li > .logo {
+		width: 100%;
+		max-width: 300px !important;
+		margin: 20px auto 20px;
+		text-align: center;
+	}	
+	.nav > li > .logo > img {
 		max-width: 100%;
-		margin: 0px auto 5px auto;
+		margin: -50px auto 15px auto;
 	}
 	.navbar-nav {
 		width: 100%;
@@ -509,6 +515,19 @@ header {
 }
 
 
+/*****************************/
+/********** 404 *************/
+/*****************************/
+.error-section {
+	padding-top: 0;
+	margin-top: -150px;
+}
+
+@media screen and (max-width: 768px) {
+	.error-section {
+		padding-top: 50px;
+	}
+}
 
 /*****************************/
 /********* UEBER UNS *********/

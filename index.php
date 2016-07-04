@@ -6,95 +6,62 @@
     
 </head>
 <body onload="initialize()" id="page-top" data-spy="scroll" data-target=".navbar-static"> 
-<!-- back-to-top-link -->
-<span id="top-link-block" class="hidden">
-        <a href="#top" class="btn btn-primary" title="gehe nach oben" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-</span>
-    
-<header>
-    <div id="navbg"></div>
-    <div id="nav">
-      <div class="navbar navbar-static">
-        <div class="container-fluid">
-          <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" title="Menü öffnen/schließen">
-            	<span class="fa fa-navicon"></span>
-          </a>
-          <div class="navbar-collapse collapse">
-                <ul class="nav pull-left navbar-nav">
-                	<li><h1 class="logo"><img src="img/logo_font_w.png" class="img-responsive" alt="SENSEVEN" title="SENSEVEN" /></h1></li>
-                </ul>
-                <ul class="nav pull-right list-inline navbar-nav">
-                      <li><a href="#ueber-uns" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Über uns">über uns</a></li>
-                      <li><a href="#projekte" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Projekte">projekte</a></li>
-                      <li><a href="#ausstellung" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Ausstellung">ausstellung</a></li>
-                      <li><a href="#kontakt" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Kontakt">kontakt</a></li>  
-                      <li><a href="#presse" data-toggle="collapse" data-target=".navbar-collapse" class="page-scroll" title="gehe zu Presse">presse</a></li>                       
-                </ul>
-          </div>		
-        </div>
-      </div>
-    </div><!-- /.nav -->
-</header>
-
-
-<div class="wrapper">
-    <!-- line animation background -->
-        <div class="content">
-            <section class="canvas-wrap">
-                <div class="canvas-content">
-                    <img src="img/logo_seven.png" class="seven" alt="SENSEVEN" title="SENSEVEN" />
-                </div>
-                <div id="canvas" class="gradient"></div>
+<?php include("header.php"); ?>
+    <div class="wrapper">
+        <!-- line animation background -->
+            <div class="content">
+                <section class="canvas-wrap">
+                    <div class="canvas-content">
+                        <img src="img/logo_seven.png" class="seven" alt="SENSEVEN" title="SENSEVEN" />
+                    </div>
+                    <div id="canvas" class="gradient"></div>
+                </section>
+            </div>
+        <!-- content includes -->
+            <section id="ueber-uns" class="ueber-uns-section">
+                <?php include("include/ueber-uns.php"); ?>
             </section>
-        </div>
-	<!-- content includes -->
-        <section id="ueber-uns" class="ueber-uns-section">
-        	<?php include("include/ueber-uns.php"); ?>
-        </section>
-        <section id="projekte" class="projekte-section">
-        	<?php include("include/projekte.php"); ?>
-        </section>
-        <div class="content">
-            <div class="container">
-                <div class="row">
-                    <div class="empty">
+            <section id="projekte" class="projekte-section">
+                <?php include("include/projekte.php"); ?>
+            </section>
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="empty">
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>      
-        <section id="ausstellung" class="ausstellung-section">
-            <?php include("include/ausstellung.php"); ?>
-        </section>
-        <div class="content">
-            <div class="container">
-                <div class="row">
-                    <div class="empty">
+            </div>      
+            <section id="ausstellung" class="ausstellung-section">
+                <?php include("include/ausstellung.php"); ?>
+            </section>
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="empty">
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>     
-        <section id="danke" class="danke-section">
-        	<?php include("include/danke.php"); ?>
-        </section> 
-        <div class="content">
-            <div class="container">
-                <div class="row">
-                    <div class="empty">
+            </div>     
+            <section id="danke" class="danke-section">
+                <?php include("include/danke.php"); ?>
+            </section> 
+            <div class="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="empty">
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>                                  
-        <section id="kontakt" class="kontakt-section">
-        	<?php include("include/kontakt.php"); ?>
-        </section>
-                     
-        <section id="footer" class="footer-section">
-        	<?php include("footer.php"); ?>
-        </section>
-
-</div> <!-- / wrapper-->
+            </div>                                  
+            <section id="kontakt" class="kontakt-section">
+                <?php include("include/kontakt.php"); ?>
+            </section>
+                         
+            <section id="footer" class="footer-section">
+                <?php include("footer.php"); ?>
+            </section>
+    </div> <!-- / wrapper-->
 
 <!-- modals -->
 <?php include("include/modals/modalbasic.php"); ?>
