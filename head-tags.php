@@ -3,8 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 <!-- Meta Tags -->
-<meta name="description" lang="DE" 
-content="Der siebte Jahrgang des Studiengangs Kunst und Multimedia eröffnet am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
+<meta name="description" lang="DE" content="Der siebte Jahrgang des Studiengangs Kunst und Multimedia eröffnet am 15. Juli 2016 seine Abschlussausstellung SENSEVEN im Studio 2 des Muffatwerks in München.">
 <meta name="author" content="Kunst und Multimedia 7">
 <meta name="keywords" lang="DE" content="SENSEVEN, ausstellung, sieben sinne, münchen, 2016, muffatwerk, kunst und multimedia, projektarbeit, abschlussjahrgang 2016">
 <meta name="robots" content="index, follow">
@@ -16,24 +15,22 @@ content="Der siebte Jahrgang des Studiengangs Kunst und Multimedia eröffnet am 
 <!-- Social: Twitter -->
 <meta name="twitter:card" content="photo">
 <meta name="twitter:url" content="http://www.senseven.net/" />
-<meta name="twitter:title" content="SENSEVEN - Die Ausstellung mit dem siebten Sinn. Kunst und Multimedia 7">
-<meta name="twitter:description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs 
-Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
+<meta name="twitter:title" content="SENSEVEN &middot; Die Ausstellung mit dem 7. Sinn. Abschlussjahrgang Kunst und Multimedia 2016">
+<meta name="twitter:description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung SENSEVEN im Studio 2 des Muffatwerks in München.">
 <meta name="twitter:image" content="http://senseven.net/img/logo_senseven_fb.png">
 
 <!-- Social: Facebook / Open Graph -->
-<meta property="og:title" content="SENSEVEN - Die Ausstellung mit dem siebten Sinn. Kunst und Multimedia 7">
+<meta property="og:title" content="SENSEVEN &middot; Die Ausstellung mit dem 7. Sinn. Abschlussjahrgang Kunst und Multimedia 2016">
 <meta property="og:type" content="website">
 <meta property="og:url" content="http://www.senseven.net">
 <meta property="og:image" content="http://senseven.net/img/logo_senseven_fb.png">
-<meta property="og:description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs 
-Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
+<meta property="og:description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung SENSEVEN im Studio 2 des Muffatwerks in München.">
 
 <!-- Social: Google+ / Schema.org  -->
 <link rel="author" href="Kunst%20und%20Multimedia%207">
 <link rel="publisher" href="Kunst%20und%20Multimedia%207">
-<meta itemprop="name" content="SENSEVEN - Die Ausstellung mit dem siebten Sinn. Kunst und Multimedia 7">
-<meta itemprop="description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
+<meta itemprop="name" content="SENSEVEN &middot; Die Ausstellung mit dem 7. Sinn. Abschlussjahrgang Kunst und Multimedia 2016">
+<meta itemprop="description" content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung SENSEVEN im Studio 2 des Muffatwerks in München.">
 <meta itemprop="image" content="http://senseven.net/img/logo_senseven_fb.png">
 
 <!-- Place favicon.ico in the root directory -->

@@ -27,7 +27,7 @@
                         Websites, Apps, Augmented Reality, Games und Filmen bis hin zu Mischformen aus allen Kategorien, die sich zu einem vielseitigen Gesamtbild zusammenfügen. 
                     </p>
                     <p>
-                        <strong> Sehen, Fühlen, Hören, Schmecken, Riechen, intuitives Wahrnehmen</strong> - 
+                        <strong>Sehen, Fühlen, Hören, Schmecken, Riechen, intuitives Wahrnehmen</strong> - 
                         SENSEVEN steht für die Vereinigung aller Sinne in einem, dem 7. Sinn. 
                         Die interdisziplinären Arbeiten schaffen eine Brücke zwischen moderner Technik und 
                         künstlerischer Gestaltung und führen den Betrachter in eine Welt, die er mit allen Sinnen 
