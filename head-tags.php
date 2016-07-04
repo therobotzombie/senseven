@@ -4,8 +4,7 @@
 
 <!-- Meta Tags -->
 <meta name="description" lang="DE" 
-content="Unter dem Titel SENSEVEN eröffnet der siebte Jahrgang des Studiengangs 
-Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
+content="Der siebte Jahrgang des Studiengangs Kunst und Multimedia eröffnet am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des Muffatwerks in München.">
 <meta name="author" content="Kunst und Multimedia 7">
 <meta name="keywords" lang="DE" content="SENSEVEN, ausstellung, sieben sinne, münchen, 2016, muffatwerk, kunst und multimedia, projektarbeit, abschlussjahrgang 2016">
 <meta name="robots" content="index, follow">
