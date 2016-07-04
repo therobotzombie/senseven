@@ -102,9 +102,7 @@
                                 <a href="http://www.muffatwerk.de/de/" target="_blank" title="Website des Muffatwerks aufrufen">www.muffatwerk.de</a>
                             </p>      
            			</div>
-                            
-                   <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2">
-                                        
+                   <div class="col-xs-12 col-sm-offset-2 col-sm-8 col-sm-offset-2"> 
                                 <a  target="_blank" href="https://www.google.de/maps/dir//Zellstra%C3%9Fe+4,+81667+M%C3%BCnchen/@48.13321,11.5875213,17z/data=!4m13!1m4!3m3!1s0x479ddf7d7fe5b4bb:0x253d262def37758e!2sZellstra%C3%9Fe+4,+81667+M%C3%BCnchen!3b1!4m7!1m0!1m5!1m1!1s0x479ddf7d7fe5b4bb:0x253d262def37758e!2m2!1d11.58971!2d48.13321?hl=de" 
                                 class="btn btn-link" title="Google Maps Routenplaner öffnen">Route berechnen</a>
                     </div>
