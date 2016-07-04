@@ -71,21 +71,33 @@
                                  <div class="col-xs-6 col-sm-4">
                                     <p>
                                     <a href="img/downloads/SENSEVEN.png" class="logo" target="_blank" title="SENSEVEN-Logo als PNG-Datei anzeigen">
+<<<<<<< HEAD
                                         <img src="img/downloads/logo_300.png" alt="SENSEVEN Logo" title="SENSEVEN Logo" class="img-responsive">
+=======
+                                        <img src="img/downloads/logo_300.png" class="img-responsive" alt="SENSEVEN-Logo">
+>>>>>>> origin/edits
                                         <strong>Motiv als PNG</strong></a><br/>
                                      </p>
                                 </div>
                                 <div class="col-xs-6 col-sm-4">
                                 	<p>
                                     <a href="img/downloads/SENSEVEN.eps" class="logo" target="_blank" title="SENSEVEN-Logo als EPS-Datei anzeigen">
+<<<<<<< HEAD
                                         <img src="img/downloads/logo_300.png" alt="SENSEVEN Logo" title="SENSEVEN Logo" class="img-responsive">
+=======
+                                        <img src="img/downloads/logo_300.png" class="img-responsive" alt="SENSEVEN-Logo">
+>>>>>>> origin/edits
                                         <strong>Motiv als EPS</strong></a><br/>
                                      </p>
                                 </div>
                     			 <div class="col-xs-6 col-sm-4">
                                  	<p>
                                     <a href="downloads/senseven2016_pressemitteilung.pdf" class="logo" target="_blank" title="Pressemitteilung anzeigen">
+<<<<<<< HEAD
                                         <img src="img/downloads/pressemitteilung.jpg" alt="SENSEVEN Pressemitteilung" title="SENSEVEN Pressemitteilung" class="img-responsive">
+=======
+                                        <img src="img/downloads/pressemitteilung.jpg" class="img-responsive" alt="SENSEVEN-Logo">
+>>>>>>> origin/edits
                                         <strong>Pressemitteilung als PDF</strong></a>
                                     </p>                                       
                                 </div>

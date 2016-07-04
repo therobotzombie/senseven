@@ -49,7 +49,7 @@ Kunst und Multimedia am 15. Juli 2016 seine Abschlussausstellung im Studio 2 des
 <link rel="apple-touch-icon" sizes="152x152" href="./img/icons/favicon-152.png">
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:100,400,300,700,900" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700%7CLato:100,400,300,700,900" rel="stylesheet" type="text/css">
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <!-- Default Theme Style  -->
 <link href="css/screen.min.css" rel="stylesheet">
