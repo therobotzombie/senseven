@@ -26,8 +26,8 @@ dani.modals.openModal = function(id) {
         toAppendTo.html(splitted[2]);
         toAppendTo = $("#modalName");
 		toAppendTo.html(splitted[3]);
-        toAppendTo = $("#modalEmail");		
-        toAppendTo.html(splitted[4]);
+        toAppendTo = $("#modalEmail");
+        toAppendTo.html("<a href='mailto:"+splitted[4]+"'>"+splitted[4]+"</a>");
         toAppendTo = $("#modalText");
         var txt = "<span class='firstletter'>" + splitted[5].slice(2, 3) + "</span>" + splitted[5].slice(3, 2000);
         toAppendTo.html(txt);

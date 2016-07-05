@@ -3,8 +3,6 @@ kurbanovaPhoto.png--_-
 Sia H. (15)--_-
 Irina Kurbanova--_-
 I.Kurbanova@campus.lmu.de--_-
-Man befindet sich im Zimmer der 15-j&auml;hrigen Sia Mara von Humboldt. Auf den ersten Blick ein typisches M&auml;dchen in einem klassischen M&auml;dchenzimmer. Doch der Schein tr&uuml;gt... <br/>
-Durch die Interaktion mit dem Touchscreen-Monitor werden einzelne Filmsequenzen abgespielt.  Dabei lernt der Besucher Sia, ihre Gedanken und ihre Geheimnisse kennen.
-Das Hauptaugenmerk in der Arbeit liegt auf der Story sowie auf der &Auml;sthetik der Filmszenen. Es handelt sich dabei um eine Mischung aus analogem Stop-Motion-Film und digitalem Animationsfilm.<br/>
-&quot;Sia H. (15)&quot; behandelt die spannende Zeit des Erwachsenwerdens. Eine Zeit, in der man sich als heranwachsender Jungendlicher von der Kindheit verabschiedet und in eine neue Welt eintaucht. Eine Welt, in der nicht alles so perfekt ist, wie es mal war.
+Das interaktive Videoprojekt behandelt die spannende Zeit des Erwachsenwerdens. Eine Zeit, in der man sich als heranwachsender Jugendlicher von der Kindheit verabschiedet und in eine neue Welt eintaucht. Eine Welt, in der nicht alles so perfekt zu sein scheint, wie es mal war. Durch die Interaktion mit dem Touchscreen-Monitor werden einzelne Filmsequenzen abgespielt, welche die H&ouml;hen und Tiefen, sowie die Gedanken und die Gefühle der fünfzehnj&auml;hrigen Sia Mara von Humbold thematisieren. <br><br>
+Das Hauptaugenmerk der Arbeit liegt neben der Geschichte ebenso auf der &Auml;sthetik der Szenen. Das M&auml;dchenzimmer, das als Filmkulisse diente, wurde vollst&auml;ndig eigenh&auml;ndig modelliert, gebaut und dekoriert. Das M&auml;dchen wurde am Computer illustriert und sp&auml;ter mit Adobe After Effects animiert.
 --_-0.4,0.8,0,0,0.4,0.9,0.3
