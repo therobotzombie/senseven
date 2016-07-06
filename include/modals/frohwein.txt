@@ -3,8 +3,5 @@ frohweinPhoto.png--_-
 Digital Spazierengehen--_-
 Frohwein Daniel--_-
 frohwein.daniel.muenchen@gmail.com--_-
-Eine Meta-Webseite entsteht.<br>
-Diese kann Bilder anderer Webseiten in abstrakte Landschaften einbinden.
-Besucher k&ouml;nnen sich auf der Webseite als einfache Avatare bewegen und interagieren.<br><br>
-Ungewohnte Handlungsm&ouml;glichkeiten und eine ansprechende Visualit&auml;t sollen Gedanken &uuml;ber den seltsamen Ort Internet inspirieren, an dem die Welt zu einem digitalen, globalen Dorf zusammenw&auml;chst, welches gleichzeitig anonym, geflutet mit Daten und von Exhibitionismen gepr&auml;gt ist. Wird das Internet, als sozialer Raum und Tagebuch der Menschheit, eines Tages pr&auml;gender f&uuml;r unser Leben sein als die physische Realit&auml;t?
+Das Projekt ist eine Browser-Application. Diese kann Bilder anderer Webseiten, zerlegen und sie zufallsgesteuert in abstrakte Landschaften einbinden. Besucher k&ouml;nnen sich auf der Webseite als einfache Avatare bewegen und sehen. Ihre Interaktionen hinterlassen Spuren. Die immer wieder erneut zufallsgenerierten Landschaften entwickeln sich so dynamisch weiter. <br><br> Ungewohnte Handlungsm&ouml;glichkeiten und eine ansprechende Visualit&auml;t sollen so Gedanken &uuml;ber den seltsamen Ort Internet inspirieren, an dem die Welt zu einem digitalen, globalen Dorf zusammenw&auml;chst, welches gleichzeitig anonym, geflutet mit Daten und von Exhibitionismen gepr&auml;gt ist. Wird das Internet, als sozialer Raum und Tagebuch der Menschheit, eines Tages pr&auml;gender f&uuml;r unser Leben sein als die physische Realit&auml;t?
 --_-0.2,0.45,0,0,0.8,0.8,0.3
