@@ -23,7 +23,7 @@
 							</div>
                             <div class="col-xs-12 col-sm-3">
                                <a href="https://www.facebook.com/events/848272211983907/" target="_blank" title="Gärtnerplatz OpenAir bei Facebook aufrufen">
-                               		<img src="img/gaertnerplatzbadge.png" id="festival" class="img-responsive" alt="KOOPERATION Gärtnerplatz Festival 2016" />
+                               		<img src="img/gaertnerplatzbadge.png" id="festival" class="img-responsive" alt="Kooperation Gärtnerplatz Festival 2016" />
                                </a>
                             </div>
                             
