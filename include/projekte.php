@@ -28,7 +28,7 @@
                 </li>                    
                 <li>
                 	<a data-toggle="modal" data-target="#modalbasic" data-projekt-id="heinemann" title="Projektdetails öffnen">
-                    <img class="lazy" data-src="img/projekte/project_heinemann.jpg" alt="SENSEVEN Projekt von MichÃ¨le Heinemann" title="SENSEVEN Projekt von MichÃ¨le Heinemann"/><div><h3>MichÃ¨le Heinemann</h3></div></a>
+                    <img class="lazy" data-src="img/projekte/project_heinemann.jpg" alt="SENSEVEN Projekt von Michèle Heinemann" title="SENSEVEN Projekt von Michèle Heinemann"/><div><h3>Michèle Heinemann</h3></div></a>
                 </li>
                 <li>
                 	<a class="empty hidden-xs hidden-sm hidden-md hidden-lg visible-lgplus"><img class="lazy" data-src="img/projekte/project_empty.png" /></a>

@@ -1,0 +1,7413 @@
+# Webalizer V2.23-08 Incremental Data - 07/31/2016 22:30:35
+2016 7 31 22 30 35
+81367 74064 1780 150 86 666 2761280486 4163 2584 0
+45 69 11309 1 31
+1275 1134 45942485 40 38 33
+4851 3422 125904627 67 250 98
+1383 1279 41310347 62 76 38
+15249 12769 433478744 130 469 113
+3128 2938 112530857 111 132 76
+3136 2710 95326112 95 129 74
+3759 3693 116195371 315 265 231
+2893 2750 125416240 196 191 144
+1750 1542 64686457 103 166 116
+1037 889 35757619 88 167 109
+2899 2794 109138773 105 147 94
+3297 3208 147040118 122 179 111
+5894 5652 214174303 175 223 152
+8819 8482 326573948 198 292 179
+4262 3963 146811478 140 219 151
+2798 2679 94451821 122 168 110
+3109 2919 95222513 98 151 106
+1664 1579 50115358 76 86 59
+1396 1338 42753112 60 83 62
+643 597 19858197 62 68 54
+1362 1316 91781645 81 82 61
+1260 1178 34628703 59 75 55
+322 311 15155349 46 42 35
+145 117 2343048 39 30 29
+790 746 32377321 53 68 42
+1455 1423 44644458 66 82 49
+880 811 29450318 41 76 37
+686 658 22261927 62 68 51
+519 503 21671271 46 51 39
+306 278 12694261 54 53 46
+400 386 11583705 45 37 30
+1439 1364 39066798 115
+1035 946 32709473 65
+634 585 21173507 66
+606 567 21645650 50
+390 271 9111725 35
+236 225 11524140 29
+240 228 58029892 30
+1025 972 34113325 98
+2882 2781 100394993 134
+3727 3515 150378188 172
+4132 3944 161177607 209
+4699 4427 168627114 192
+4035 3755 145522802 187
+5218 4805 165050981 311
+4678 4065 134829723 261
+4916 4481 215959549 266
+4403 4031 158010868 214
+5674 4989 176643840 278
+3078 2927 97647769 212
+2940 2788 99956912 183
+4294 3614 131552871 206
+14017 12477 417378181 415
+4499 3876 124064614 289
+2570 2431 86709964 146
+0
+0
+0
+74064
+0
+0
+0
+0
+0
+590
+0
+882
+0
+0
+5454
+0
+0
+0
+0
+0
+3
+374
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/include/modals/kurbanova.txt
+0 110 0 56377 0 0
+/js/projector.min.js
+1 1263 0 3953710 0 0
+/downloads/witheredworld_heinemann.jpg
+1 5 0 10799524 0 0
+/include/modals/wang.txt
+0 75 0 36322 0 0
+/downloads/thumbnails/einbesonderesschachspiel_aurbach.jpg
+1 1167 0 35777728 0 0
+/img/sponsoren/LfA_Logo.jpg
+1 450 0 2977312 0 0
+/img/downloads/SENSEVEN.png
+1 7 0 178104 0 0
+/css/font-awesome.min.css
+1 1284 0 8229194 0 0
+/img/icons/favicon-152.png
+1 61 0 304451 0 0
+/js/jquery.min.js
+1 1276 0 43211694 0 0
+/img/glyph/glyphlines.png
+1 700 0 1447705 0 0
+/downloads/thumbnails/witheredworld_heinemann.jpg
+1 1169 0 34796752 0 0
+/sitemap.xml
+0 38 0 12614 0 0
+/downloads/thumbnails/againstthewall_scavuzzo.jpg
+1 1154 0 45114848 0 0
+/img/projekte/project_korbanka.jpg
+1 792 0 32970850 0 0
+/img/projekte/project_frohwein.jpg
+1 820 0 43594512 0 0
+/img/logo_seven.png
+1 1199 0 5286936 0 0
+/include/modals/rapp.txt
+0 76 0 18431 0 0
+/.
+0 1 0 66954 0 0
+/downloads/beauty(never)fades_bardosi.jpg
+1 5 0 27742200 0 0
+/downloads/lotus_rapp.jpg
+1 8 0 3265318 0 0
+/css/screen.min.css
+1 1287 0 6542844 0 0
+/js/jquery.unveil.js
+1 1270 0 427750 0 0
+/img/projekte/project_bardosi.jpg
+1 817 0 60269559 0 0
+/include/modals/schmidt.txt
+0 74 0 35458 0 0
+/img/fotos/scavuzzoPhoto.png
+1 67 0 1311190 0 0
+/img/projekte/project_dittrich.jpg
+1 811 0 44384928 0 0
+/downloads/dreamality_woods.jpg
+1 8 0 11647069 0 0
+/img/logo_font_w.png
+1 1217 0 1613040 0 0
+/img/sponsoren/praxiskom.png
+1 441 0 1188440 0 0
+/img/icons/favicon.png
+1 859 0 966108 0 0
+/downloads/einbesonderesschachspiel_aurbach.jpg
+1 6 0 957340 0 0
+/downloads/thumbnails/sia_kurbanova.jpg
+1 1180 0 37294114 0 0
+/include/modals/aurbach.txt
+0 72 0 35453 0 0
+/fonts/fontawesome-webfont.woff
+0 622 0 35968524 0 0
+/img/projekte/project_ponikowski.jpg
+1 797 0 199826804 0 0
+/include/modals/binder.txt
+0 74 0 63368 0 0
+/img/icons/favicon-57.png
+1 141 0 280840 0 0
+/js/bootstrap.min.js
+1 1271 0 13302037 0 0
+/downloads/thumbnails/dreamality_woods.jpg
+1 1143 0 39360080 0 0
+/downloads/thumbnails/acircuitlikeme_schmidt.jpg
+1 1149 0 33140225 0 0
+/img/fotos/wangPhoto.png
+1 72 0 1966608 0 0
+/fonts/fontawesome-webfont.eot
+0 94 0 3646020 0 0
+/downloads/thumbnails/beauty(never)fades_bardosi.jpg
+1 1183 0 30642031 0 0
+/include/modals/scavuzzo.txt
+0 74 0 37046 0 0
+/img/projekte/project_empty.png
+1 385 0 47215 0 0
+/img/gaertnerplatzbadge.png
+1 1200 0 6564468 0 0
+/include/modals/woods.txt
+0 105 0 51726 0 0
+/downloads/digitalspazierengehen_frohwein.jpg
+1 13 0 52735800 0 0
+/downloads/thumbnails/tamade_wang.jpg
+1 1168 0 28896483 0 0
+/img/fotos/biersackPhoto.png
+1 107 0 2585356 0 0
+/img/sponsoren/lmu.png
+1 441 0 2912085 0 0
+/img/downloads/SENSEVEN.eps
+0 21 0 94099640 0 0
+/downloads/thumbnails/aeos_binder.jpg
+1 1152 0 17515647 0 0
+/img/sponsoren/hypokulturstiftung.png
+1 271 0 632544 0 0
+/downloads/kubbist_ponikowski.jpg
+1 7 0 17071464 0 0
+/img/fotos/aurbachPhoto.png
+1 66 0 1837506 0 0
+/fonts/fontawesome-webfont.woff2
+0 751 0 26856940 0 0
+/include/namensliste.txt
+0 1526 0 474829 0 0
+/img/sponsoren/aip.png
+1 452 0 2862705 0 0
+/downloads/senseven_net.jpg
+1 9 0 3642248 0 0
+/img/icons/favicon-114.png
+1 8 0 42144 0 0
+/js/3d-lines-animation.min.js
+1 1077 0 1074240 0 0
+/downloads/againstthewall_scavuzzo.jpg
+1 6 0 2782475 0 0
+/downloads/thumbnails/tortuga_mittelmeier.jpg
+1 1188 0 34261179 0 0
+/img/sponsoren/BardosiTransporte_logo.png
+1 448 0 2156686 0 0
+/img/fotos/binderPhoto.png
+1 68 0 1994304 0 0
+/downloads/sia_kurbanova.jpg
+1 8 0 3370682 0 0
+/js/canvas-renderer.min.js
+1 1101 0 4050789 0 0
+/img/icons/favicon-120.png
+1 8 0 37728 0 0
+/downloads/zauberwuerfel_korbanka.jpg
+1 7 0 44658636 0 0
+/img/projekte/project_redeker.jpg
+1 811 0 46353968 0 0
+/img/projekte/project_biersack.jpg
+1 806 0 113259994 0 0
+/img/sponsoren/subseq.jpg
+1 442 0 5418648 0 0
+/downloads/xing_events_01.jpg
+1 39 0 1286564 0 0
+/downloads/thumbnails/zauberwuerfel_korbanka.jpg
+1 1159 0 31243897 0 0
+/img/sponsoren/hypokulturstifung.png
+1 185 0 378568 0 0
+/img/fotos/ponikowskiPhoto.png
+1 62 0 1911496 0 0
+/downloads/thumbnails/suessesodersalziges_biersack.jpg
+1 1196 0 67751284 0 0
+/img/glyph/glyphbeschrift1.png
+1 702 0 1136568 0 0
+/img/logo_senseven_fb.png
+1 470 0 7780380 0 0
+/img/icons/favicon-72.png
+1 8 0 21000 0 0
+/fonts/fontawesome-webfont.svg
+0 5 0 1566990 0 0
+/img/logo_senseven_700.jpg
+1 34 0 2415326 0 0
+/fonts/fontawesome-webfont.ttf
+0 104 0 10744096 0 0
+/include/modals/bardosi.txt
+0 134 0 59268 0 0
+/img/fotos/rappPhoto.png
+1 70 0 2015860 0 0
+/img/icons/favicon-144.png
+1 9 0 46776 0 0
+/downloads/tamade_wang.jpg
+1 5 0 2457304 0 0
+/img/fotos/kurbanovaPhoto.png
+1 94 0 2060574 0 0
+/img/sponsoren/harryklein.png
+1 447 0 2743096 0 0
+/include/modals/ponikowski.txt
+0 70 0 40504 0 0
+/downloads/aeos_binder.jpg
+1 9 0 21631990 0 0
+/css/bootstrap.min.css
+1 1288 0 33469320 0 0
+/img/projekte/project_heinemann.jpg
+1 816 0 35488800 0 0
+/img/projekte/project_schmidt.jpg
+1 776 0 45738692 0 0
+/downloads/thumbnails/digitalspazierengehen_frohwein.jpg
+1 1187 0 72299554 0 0
+/include/modals/heinemann.txt
+0 84 0 32210 0 0
+/include/modals/dittrich.txt
+0 79 0 42536 0 0
+/img/fotos/frohweinPhoto.png
+1 84 0 7571611 0 0
+/include/modals/frohwein.txt
+0 103 0 50530 0 0
+/js/three.min.js
+1 1269 0 139343808 0 0
+/downloads/suessesodersalziges_biersack.jpg
+1 11 0 33013570 0 0
+/img/projekte/project_scavuzzo.jpg
+1 790 0 49471553 0 0
+/downloads/thumbnails/kubbist_ponikowski.jpg
+1 1179 0 44215680 0 0
+/downloads/wereallstories_redeker.jpg
+1 12 0 4414762 0 0
+/img/sponsoren/ios.png
+1 444 0 2175870 0 0
+/img/projekte/project_wang.jpg
+1 794 0 69729535 0 0
+/img/logo_bg_blue.png
+1 1147 0 177375 0 0
+/img/projekte/project_binder.jpg
+1 792 0 43202622 0 0
+/include/modals/redeker.txt
+0 86 0 40428 0 0
+/img/logo_bg.png
+1 1110 0 17691053 0 0
+/include/modals/mittelm.txt
+0 106 0 42651 0 0
+/include/modals/biersack.txt
+0 115 0 89260 0 0
+/img/projekte/project_woods.jpg
+1 774 0 61428629 0 0
+/js/color.min.js
+1 1260 0 581725 0 0
+/
+0 3233 0 50973344 2503 1099
+/js/glyphGenerator/startOut.js
+1 513 0 1262781 0 0
+/js/initBackground.js
+1 1268 0 270776 0 0
+/img/projekte/project_kurbanova.jpg
+1 809 0 53942350 0 0
+/downloads/muse(e)um_dittrich.png
+1 10 0 26686665 0 0
+/downloads/thumbnails/senseven_net.jpg
+1 1146 0 15790841 0 0
+/img/fotos/dittrichPhoto.png
+1 74 0 1890404 0 0
+/img/projekte/project_rapp.jpg
+1 782 0 49846742 0 0
+/downloads/acircuitlikeme_schmidt.jpg
+1 9 0 3260412 0 0
+/img/fotos/woodsPhoto.png
+1 94 0 2962612 0 0
+/img/fotos/mittelmeierPhoto.png
+1 94 0 2902896 0 0
+/img/sponsoren/gaertnerplatz_openair.jpg
+1 435 0 7989268 0 0
+/include/modals/korbanka.txt
+0 57 0 26201 0 0
+/js/modalx.min.js
+1 1265 0 1084496 0 0
+/downloads/thumbnails/muffatwerk_besprechung_senseven.jpg
+1 2 0 40620 0 0
+/img/fotos/bardosiPhoto.png
+1 95 0 2648750 0 0
+/js/power.js
+1 1265 0 699939 0 0
+/downloads/thumbnails/wereallstories_redeker.jpg
+1 1174 0 42889947 0 0
+/js/glyphGenerator/startOut.min.js
+1 272 0 347339 0 0
+/img/fotos/redekerPhoto.png
+1 68 0 2501720 0 0
+/img/projekte/project_aurbach.jpg
+1 788 0 44326500 0 0
+/downloads/senseven2016_pressemitteilung.pdf
+0 64 0 4422722 0 0
+/img/sponsoren/mh.jpg
+1 450 0 3128751 0 0
+/img/sponsoren/mucbook.png
+1 447 0 1057604 0 0
+/img/fotos/schmidtPhoto.png
+1 70 0 2205000 0 0
+/img/downloads/pressemitteilung.jpg
+1 1184 0 5705636 0 0
+/downloads/thumbnails/muse(e)um_dittrich.jpg
+1 1177 0 18985159 0 0
+/downloads/tortuga_mittelmeier.jpg
+1 8 0 2086308 0 0
+/img/fotos/heinemannPhoto.png
+1 76 0 2239531 0 0
+/img/projekte/project_mittelm.jpg
+1 824 0 45712974 0 0
+/img/downloads/logo_300.png
+1 1184 0 6982812 0 0
+/img/fotos/korbankaPhoto.png
+1 55 0 1892110 0 0
+/js/glyphGenerator/phaser.min.js
+1 818 0 160666347 0 0
+/downloads/thumbnails/lotus_rapp.jpg
+1 1149 0 30644188 0 0
+# End Of Table - urls
+# -sites- (monthly)
+google-proxy-66-249-93-83.google.com
+0 9 3 34014 6 1467817095
+/
+jobqueue-listener.jobqueue.netcraft.com-u1d03105d5d98400b9adc5b0e27c5a207u-digitalocean-2gb
+0 2 1 67182 1 1468514270
+/
+p5b10f9fc.dip0.t-ipconnect.de
+0 49 47 1077696 1 1467563600
+/
+178-190-7-160.adsl.highway.telekom.at
+0 72 72 2517290 1 1467889759
+/
+dslb-178-010-115-168.178.010.pools.vodafone-ip.de
+0 1 1 1126 0 0
+-
+31.13.113.65
+0 1 1 16554 0 0
+-
+host73-2.natpool.mwn.de
+0 64 63 2305655 1 1468083621
+/
+svproxy2.msh.de
+0 64 64 16012696 1 1468317178
+/
+cm-staticip-85-152-222-145.telecable.es
+0 41 41 964470 1 1468938071
+/
+182.186.179.94
+0 1 0 22074 1 1469718642
+-
+baiduspider-123-125-71-57.crawl.baidu.com
+0 3 2 67562 1 1467675870
+/
+ppp-46-244-142-64.dynamic.mnet-online.de
+0 66 65 2493234 1 1468512745
+/
+104.209.188.207
+0 2 2 83508 1 1468777385
+/
+ipservice-092-209-099-063.092.209.pools.vodafone-ip.de
+0 1 1 11508 1 1467893563
+/
+aftr-88-217-181-179.dynamic.mnet-online.de
+0 17 17 358334 1 1468366247
+/
+206.16.134.18
+0 1 1 11508 1 1469414343
+/
+141.82.56.10
+0 91 91 2907675 1 1469096926
+/
+p5083c3fb.dip0.t-ipconnect.de
+0 79 78 2588114 1 1468571312
+/
+p5b2c2d5d.dip0.t-ipconnect.de
+0 154 154 5115102 1 1467906269
+/
+dragon269.startdedicated.com
+0 3 2 118346 1 1469450551
+/
+69.171.230.101
+0 2 2 33108 0 0
+-
+31.13.102.109
+0 14 13 149821 7 1468635976
+/
+69.171.230.97
+0 3 3 49662 0 0
+-
+p5b353b76.dip0.t-ipconnect.de
+0 69 68 2579801 1 1468514904
+/
+x4d04fc0f.dyn.telefonica.de
+0 72 71 2653163 1 1468755204
+/
+173.252.123.129
+0 2 2 87593 0 0
+-
+185.57.5.66
+0 1 1 11508 1 1468447614
+/
+dapr-vm04.datagnion.com
+0 1 1 0 1 1467897752
+/
+ipbcc17764.dynamic.kabel-deutschland.de
+0 67 66 2458745 1 1467587925
+/
+ec2-54-217-206-141.eu-west-1.compute.amazonaws.com
+0 74 74 2304143 1 1467668341
+/
+31.13.109.117
+0 1 1 11508 1 1468447429
+/
+78.183.51.89.dynamic.ttnet.com.tr
+0 1 1 11508 1 1467890003
+/
+178.115.131.55.wireless.dyn.drei.com
+0 41 41 964470 1 1469568374
+/
+spider-141-8-132-41.yandex.com
+0 1 0 190 1 1467410341
+-
+ip1f10f88e.dynamic.kabel-deutschland.de
+0 44 43 893669 1 1468580695
+/
+p5083c34b.dip0.t-ipconnect.de
+0 60 59 2232962 1 1468338720
+/
+tmo-103-135.customers.d1-online.com
+0 1 1 11508 1 1468704693
+/
+ppp-83-171-164-55.dynamic.mnet-online.de
+0 75 73 2580505 1 1468946296
+/
+p5dd7a899.dip0.t-ipconnect.de
+0 135 135 4724030 1 1468486238
+/
+ns4009583.ip-192-99-9.net
+0 2 1 11696 1 1469322214
+/
+newaldo.catatec.ch
+0 65 65 2469358 1 1467890277
+/
+196.186.242.19
+0 30 30 645331 1 1468668169
+/
+193.103.207.10
+0 89 85 3246911 1 1467983893
+-
+google-proxy-66-249-84-249.google.com
+0 2 2 12634 1 1468411196
+/
+176.4.90.12
+0 16 2 13514 1 1468727765
+/
+ip-109-43-3-224.web.vodafone.de
+0 37 37 845003 1 1467884341
+/
+p57adfe4b.dip0.t-ipconnect.de
+0 1 1 11508 1 1467927069
+/
+static-29.254.43.rackbank.com
+0 1 1 11508 1 1469055566
+/
+google-proxy-66-102-7-186.google.com
+0 4 4 14886 1 1468204793
+/
+krusty.w3.org
+0 9 8 91207 5 1468933828
+/
+baiduspider-123-125-71-17.crawl.baidu.com
+0 2 1 834 0 0
+-
+gateway.bsb-muenchen.de
+0 82 79 3058604 1 1468424017
+/
+173.252.90.229
+0 4 4 66216 0 0
+-
+wdsl-109-239-162-227.wcli.deg.net
+0 118 109 3081005 1 1468507468
+/
+msnbot-157-55-39-15.search.msn.com
+0 1 1 80302 0 0
+-
+83-245-238-123-nat-p.elisa-mobile.fi
+0 1 1 11508 1 1467909269
+/
+customer-189-217-229-47.cablevision.net.mx
+0 79 79 2657417 1 1467949146
+/
+p5ddf9e02.dip0.t-ipconnect.de
+0 62 61 2318221 1 1468486520
+/
+p3e9e0906.dip0.t-ipconnect.de
+0 61 60 2269763 1 1468674395
+/
+173.252.123.133
+0 3 3 44616 1 1469667548
+/
+baiduspider-123-125-71-54.crawl.baidu.com
+0 1 0 252 0 0
+-
+aftr-185-17-207-115.dynamic.mnet-online.de
+0 48 47 1078591 1 1468522987
+/
+n11-04-07.opera-mini.net
+0 87 86 12107567 1 1469101183
+/
+173.252.123.136
+0 2 2 87593 0 0
+-
+aftr-37-201-240-50.unity-media.net
+0 1 1 11508 1 1467888621
+/
+69.63.188.196
+0 2 2 33108 0 0
+-
+spider-6.lipperhey.com
+0 4 3 201090 1 1468746492
+/
+host-156.208.234.10-static.tedata.net
+0 23 23 468639 1 1469476858
+/
+176.6.118.60
+0 55 50 1364590 1 1468177589
+/
+google-proxy-66-102-7-152.google.com
+0 5 5 16012 1 1469991854
+/
+aftr-88-217-181-113.dynamic.mnet-online.de
+0 79 77 2621023 1 1467555050
+/
+x4e3627f6.dyn.telefonica.de
+0 1 1 11508 1 1467897476
+/
+aftr-88-217-180-27.dynamic.mnet-online.de
+0 1 1 34772 0 0
+-
+abts-kk-static-143.232.178.122.airtelbroadband.in
+0 1 0 22074 1 1469908376
+-
+p549f6b7d.dip0.t-ipconnect.de
+0 124 122 3568124 2 1468791719
+/
+google-proxy-66-249-85-231.google.com
+0 13 13 87312 7 1469067480
+/
+91.141.2.236.wireless.dyn.drei.com
+0 1 1 11508 1 1467932638
+/
+x55b502d3.dyn.telefonica.de
+0 71 71 2355158 1 1469621362
+/
+x4dbaaf5b.dyn.telefonica.de
+0 1 1 11508 1 1467891112
+/
+ip5f5be98d.dynamic.kabel-deutschland.de
+0 110 107 2830558 1 1468078463
+/
+66.220.146.24
+0 7 7 85602 6 1469999274
+/
+66.220.158.123
+0 1 1 16554 0 0
+-
+crawl-66-249-78-16.googlebot.com
+0 3 0 564 3 1469751539
+/
+google-proxy-66-102-6-156.google.com
+0 28 28 1522207 1 1467499184
+/
+bl14-101-253.dsl.telepac.pt
+0 1 1 11508 1 1467899829
+/
+host-181-16-5-34.telered.com.ar
+0 2 1 89028 1 1469986562
+/
+x4e31bc8c.dyn.telefonica.de
+0 77 77 2621508 1 1469111495
+/
+66.220.158.99
+0 1 1 16554 0 0
+-
+google-proxy-66-102-8-134.google.com
+0 18 18 470701 1 1467499247
+/
+x4e313afd.dyn.telefonica.de
+0 3 1 11508 1 1468395076
+/
+149.154.167.162
+0 1 1 25546 0 0
+-
+iis26.mobile.bf1.yahoo.com
+0 1 1 16554 0 0
+-
+x4d0ceef6.dyn.telefonica.de
+0 1 1 11508 1 1467901636
+/
+p4fe3eb69.dip0.t-ipconnect.de
+0 67 67 2485531 1 1468409634
+/
+69.171.230.115
+0 3 3 49662 0 0
+-
+rate-limited-proxy-66-249-91-231.google.com
+0 6 6 178914 1 1467994513
+/
+66.220.156.114
+0 1 1 71039 0 0
+-
+p5b312b9a.dip0.t-ipconnect.de
+0 65 60 2294685 2 1469099696
+/
+46-59-253-233.lsn8.wtnet.de
+0 1 1 34772 0 0
+-
+wlan-61-3.wlan.uni-wuppertal.de
+0 52 46 1092005 1 1468932041
+/
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 0 221 0 0
+-
+p54978d7c.dip0.t-ipconnect.de
+0 80 79 3808356 1 1468517246
+/
+ipbcc1653c.dynamic.kabel-deutschland.de
+0 70 69 2543625 1 1468520772
+/
+p5b3647c7.dip0.t-ipconnect.de
+0 1 1 11508 1 1467926193
+/
+x5ce1e49f.dyn.telefonica.de
+0 45 45 1089250 1 1469566588
+/
+173.252.120.96
+0 1 1 71039 0 0
+-
+p5083fd21.dip0.t-ipconnect.de
+0 1 1 11508 1 1467889912
+/
+x4e301df5.dyn.telefonica.de
+0 3 1 11508 1 1468413198
+/
+dsl.49.148.249.87.pldt.net
+0 2 1 89028 1 1470003560
+/
+66.220.146.27
+0 1 1 11508 1 1468423652
+/
+aftr-185-17-205-254.dynamic.mnet-online.de
+0 74 71 2529373 1 1468664146
+/
+webt-0.enviocorreto.com
+0 462 462 15181716 1 1467667368
+/
+31.13.110.123
+0 1 1 16554 0 0
+-
+p57a3b794.dip0.t-ipconnect.de
+0 44 44 935145 1 1468753079
+/
+ipbcc0b470.dynamic.kabel-deutschland.de
+0 71 70 2523274 1 1467705464
+/
+rate-limited-proxy-66-249-92-97.google.com
+0 1 0 188 1 1469675014
+/
+fulltextrobot-77-75-78-169.seznam.cz
+0 1 1 11508 1 1469996858
+/
+pd9e6096c.dip0.t-ipconnect.de
+0 79 78 2515986 1 1467647492
+/
+ip5f5bf938.dynamic.kabel-deutschland.de
+0 139 139 5024033 2 1469473188
+/
+host251-2.natpool.mwn.de
+0 79 78 2148132 2 1468682885
+/
+62.225.130.218
+0 75 75 2554808 1 1468425483
+/
+173.252.90.120
+0 1 1 16554 0 0
+-
+69.171.230.122
+0 4 4 66216 0 0
+-
+30.109.109.187.dynamic.ampernet.com.br
+0 30 30 660144 1 1469219511
+/
+74.91.28.19
+0 1 1 11508 1 1468076303
+/
+p4fc4acf5.dip0.t-ipconnect.de
+0 47 46 1092193 1 1468486505
+/
+crawl-66-249-66-187.googlebot.com
+0 13 9 5469888 3 1469357592
+/
+port-196-196.nextconnex.net
+0 1 1 859 0 0
+-
+216.163.188.222
+0 1 1 66954 1 1469221288
+/
+31.13.102.108
+0 23 21 242096 16 1469039690
+/
+194.113.41.2
+0 73 67 2186998 3 1468572782
+/
+p57a05af2.dip0.t-ipconnect.de
+0 1 1 11508 1 1467891728
+/
+crawl-66-249-66-160.googlebot.com
+0 10 8 1229740 6 1469349553
+/
+ip9234ec6b.dynamic.kabel-deutschland.de
+0 66 66 2482937 1 1467886342
+/
+31.13.102.119
+0 17 17 195636 13 1469129597
+/
+dslb-084-057-027-083.084.057.pools.vodafone-ip.de
+0 116 116 3579493 1 1468599372
+/
+aftr-88-217-181-249.dynamic.mnet-online.de
+0 67 66 2449657 1 1467797793
+/
+69.171.230.109
+0 4 4 120701 0 0
+-
+31.13.102.101
+0 13 12 138307 9 1469129599
+/
+crawl-66-249-66-131.googlebot.com
+0 7 0 1332 6 1469078298
+/
+p54a7647c.dip0.t-ipconnect.de
+0 65 64 2469413 1 1468459950
+/
+google-proxy-66-249-88-16.google.com
+0 10 10 63170 5 1469795057
+/
+ip5f5bfa28.dynamic.kabel-deutschland.de
+0 66 66 2487187 1 1470004231
+/
+ec2-54-227-207-225.compute-1.amazonaws.com
+0 1 1 66954 1 1469795204
+/
+p549885d3.dip0.t-ipconnect.de
+0 67 66 2489541 1 1468601359
+/
+217.7.162.150
+0 2342 2291 107656023 36 1469797539
+/
+aftr-185-17-204-255.dynamic.mnet-online.de
+0 76 76 2540213 1 1468461440
+/
+69.171.230.102
+0 3 3 49662 0 0
+-
+p50897791.dip0.t-ipconnect.de
+0 88 86 2688974 1 1468085585
+/
+85.98.246.193.dynamic.ttnet.com.tr
+0 1 1 11508 1 1468156640
+/
+aftr-185-17-205-70.dynamic.mnet-online.de
+0 77 77 2550315 1 1467549353
+/
+173.252.90.101
+0 2 2 33108 0 0
+-
+google-proxy-66-102-7-179.google.com
+0 4 4 35650 3 1468331742
+/
+66.220.158.103
+0 1 1 16554 0 0
+-
+ec2-79-125-15-87.eu-west-1.compute.amazonaws.com
+0 167 166 5285507 2 1469561495
+/
+ip5b40b01b.dynamic.kabel-deutschland.de
+0 56 55 1947626 1 1468010420
+/
+ip-109-43-1-90.web.vodafone.de
+0 44 41 912949 1 1468500563
+/
+ip5f5bfa1b.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1469275786
+/
+69.171.230.113
+0 3 3 49662 0 0
+-
+google-proxy-66-249-84-234.google.com
+0 5 5 36776 3 1468779127
+/
+msnbot-157-55-39-172.search.msn.com
+0 2 2 21780 2 1467459227
+/
+173.252.120.104
+0 1 1 16554 0 0
+-
+p4ff58dce.dip0.t-ipconnect.de
+0 64 63 2309610 1 1468684690
+/
+tmo-114-204.customers.d1-online.com
+0 45 32 1476037 1 1468091186
+/
+x4e35d96a.dyn.telefonica.de
+0 1 1 11508 1 1467924152
+/
+hsi-kbw-046-005-083-212.hsi8.kabel-badenwuerttemberg.de
+0 1 1 11508 1 1467977339
+/
+dslb-084-057-031-043.084.057.pools.vodafone-ip.de
+0 77 76 2541394 1 1468352359
+/
+pcitg1301.gwi.uni-muenchen.de
+0 97 95 2805572 1 1468517820
+/
+x4e31194a.dyn.telefonica.de
+0 3 1 11508 1 1467970496
+/
+89.204.139.238
+0 1 1 11508 1 1468538222
+/
+mail.goetzcastorph.de
+0 173 170 5393426 2 1468516479
+/
+ec2-54-198-46-232.compute-1.amazonaws.com
+0 2 1 11696 1 1468560501
+/
+51.149.3.85.dynamic.wline.res.cust.swisscom.ch
+0 1 1 11508 1 1467886185
+/
+191.33.138.247.dynamic.adsl.gvt.net.br
+0 39 39 898237 1 1469220642
+/
+82.113.113.82
+0 67 67 2501350 1 1468584775
+/
+ip5f5be9b5.dynamic.kabel-deutschland.de
+0 68 67 2556168 1 1468662130
+/
+host-212-114-196-5.customer.m-online.net
+0 77 77 2541339 1 1467901378
+/
+31.13.109.122
+0 1 1 100336 0 0
+-
+aftr-37-201-194-126.unity-media.net
+0 1 1 11508 1 1467914982
+/
+baiduspider-123-125-71-44.crawl.baidu.com
+0 1 0 228 1 1467675869
+/
+89.204.135.60
+0 78 78 2610129 2 1468624741
+/
+191-255-35-181.dsl.telesp.net.br
+0 41 41 964470 1 1469151146
+/
+176-123-26-77.alexhost.md
+0 1 0 5549 1 1468745058
+-
+69.63.188.119
+0 1 1 16554 0 0
+-
+173.252.123.140
+0 1 1 16554 0 0
+-
+p4ff95d73.dip0.t-ipconnect.de
+0 78 77 2541527 1 1468342912
+/
+41.227.222.208
+0 1 0 22074 1 1469883370
+-
+pd9525b80.dip0.t-ipconnect.de
+0 65 65 2455623 1 1468517250
+/
+31.13.110.103
+0 2 2 23016 2 1468135206
+/
+173.252.90.230
+0 3 3 49662 0 0
+-
+ppp-83-171-177-163.dynamic.mnet-online.de
+0 61 60 2269763 1 1467842695
+/
+aftr-88-217-181-136.dynamic.mnet-online.de
+0 64 64 2454497 1 1468812832
+/
+ip5f5ad15e.dynamic.kabel-deutschland.de
+0 66 66 2501217 1 1469747013
+/
+dr-riviera.w3.org
+0 7 6 68949 3 1467668471
+/
+89.253.128.188
+0 41 41 964470 1 1469800079
+/
+baiduspider-220-181-108-155.crawl.baidu.com
+0 3 1 11884 3 1468981346
+/
+109.68.50.26
+0 76 75 2544255 1 1468324141
+/
+x590f9efa.dyn.telefonica.de
+0 90 86 2661581 2 1467941806
+-
+msnbot-207-46-13-49.search.msn.com
+0 1 1 11508 1 1468823188
+/
+li727-239.members.linode.com
+0 77 76 2495970 1 1467642770
+/
+p5b342aa7.dip0.t-ipconnect.de
+0 74 74 2615900 1 1468702192
+/
+host202-2.natpool.mwn.de
+0 87 86 2757204 1 1468885461
+/
+p5dda25d8.dip0.t-ipconnect.de
+0 1 1 11508 1 1467901334
+/
+tmo-098-92.customers.d1-online.com
+0 1 1 11508 1 1468402486
+/
+89.204.137.184
+0 2 1 2006 0 0
+-
+31.13.113.79
+0 1 1 11508 1 1467883840
+/
+x5d8588f7.dyn.telefonica.de
+0 65 64 2454685 1 1468417963
+/
+h064.crawl.yahoo.net
+0 2 1 11696 1 1467923621
+/
+69.63.188.120
+0 1 1 16554 0 0
+-
+69.63.188.198
+0 1 1 16554 0 0
+-
+213.55.184.229
+0 1 1 11508 1 1467891368
+/
+89.204.138.44
+0 2 2 28062 1 1468522736
+/
+pd9fbed62.dip0.t-ipconnect.de
+0 1 1 34772 0 0
+-
+host189-2.natpool.mwn.de
+0 1 0 188 1 1468594501
+/
+aftr-185-17-207-156.dynamic.mnet-online.de
+0 65 64 2469413 1 1467911026
+/
+ip5f5bed3f.dynamic.kabel-deutschland.de
+0 96 95 2690335 1 1468770358
+/
+nat-service.aws.kontera.com
+0 2 0 11098 1 1468425004
+-
+188-176-48-254-static.dk.customer.tdc.net
+0 3 2 23204 2 1469887618
+/
+aftr-185-17-207-36.dynamic.mnet-online.de
+0 78 77 2556255 1 1467835711
+/
+173.252.120.119
+0 1 1 16554 0 0
+-
+69.171.230.110
+0 5 5 82770 0 0
+-
+x4e315ef2.dyn.telefonica.de
+0 1 1 34772 0 0
+-
+host52-2.natpool.mwn.de
+0 83 80 2602005 1 1468258872
+/
+31.13.100.113
+0 1 1 3055 0 0
+-
+x5d855097.dyn.telefonica.de
+0 148 145 5118323 2 1468495343
+/
+37-162-30-230.coucou-networks.fr
+0 34 33 1028536 1 1468757040
+/
+rate-limited-proxy-66-249-91-227.google.com
+0 4 4 117918 0 0
+-
+187-70-139-216.3g.claro.net.br
+0 41 41 964470 1 1469570498
+/
+bl15-43-106.dsl.telepac.pt
+0 1 1 11508 1 1467898588
+/
+p579447d7.dip0.t-ipconnect.de
+0 119 118 3155629 1 1468414804
+/
+69.63.188.202
+0 1 1 16554 0 0
+-
+host56-106-dynamic.13-79-r.retail.telecomitalia.it
+0 39 39 918735 1 1468151134
+/
+x4dbb71c0.dyn.telefonica.de
+0 77 76 2541394 1 1468395764
+/
+x2f7f73c.dyn.telefonica.de
+0 63 62 2282083 1 1467708527
+/
+baiduspider-180-76-15-143.crawl.baidu.com
+0 1 1 10890 1 1467369288
+/
+pd95583de.dip0.t-ipconnect.de
+0 62 62 2294522 1 1468723246
+/
+p5dcbfa72.dip0.t-ipconnect.de
+0 77 77 2541339 1 1468614830
+/
+93.118.24.196
+0 50 50 1439698 1 1468316838
+/
+p4fefd682.dip0.t-ipconnect.de
+0 2 2 23016 2 1468519689
+/
+ppp-82-135-87-209.dynamic.mnet-online.de
+0 108 106 3051680 1 1468759044
+/
+dslb-188-110-172-013.188.110.pools.vodafone-ip.de
+0 2 2 31391 1 1469362494
+/
+p5dcd6cc0.dip0.t-ipconnect.de
+0 82 81 2679209 1 1468664148
+/
+177.45.184.208
+0 41 41 964470 1 1468879815
+/
+66.220.156.97
+0 2 2 33108 0 0
+-
+89.204.130.115
+0 77 75 2543887 1 1468400431
+/
+google-proxy-66-102-6-67.google.com
+0 10 10 1001110 1 1467706795
+/
+static.111.94.76.144.clients.your-server.de
+0 2 2 67806 1 1467499144
+/
+dslb-088-076-230-205.088.076.pools.vodafone-ip.de
+0 89 87 3312682 2 1467743307
+/
+aftr-185-17-205-195.dynamic.mnet-online.de
+0 65 64 2454685 1 1468658352
+/
+69.63.188.212
+0 2 1 16742 1 1469261957
+/
+188.123.154.104.bc.googleusercontent.com
+0 2 1 80523 0 0
+-
+46.128.234.196.dynamic.cablesurf.de
+0 61 60 2259464 1 1467576790
+/
+ec2-52-67-78-210.sa-east-1.compute.amazonaws.com
+0 47 45 5635451 1 1467775520
+/
+176.4.132.130
+0 71 71 2369886 1 1467901008
+/
+wlan-187-95-0-228.clickrede.com.br
+0 14 14 191518 1 1468622516
+/
+177.18.35.196.static.host.gvt.net.br
+0 1 0 22074 1 1469922839
+-
+b2b-92-50-84-162.unitymedia.biz
+0 81 81 2857987 2 1467907234
+/
+31.13.109.116
+0 1 1 354 0 0
+-
+ip5f5bec31.dynamic.kabel-deutschland.de
+0 101 100 2869138 1 1467730855
+/
+89.204.135.249
+0 43 42 892543 1 1468487626
+/
+ip-109-43-2-154.web.vodafone.de
+0 44 42 907083 1 1468406460
+/
+88.226.244.201.dynamic.ttnet.com.tr
+0 41 41 964470 1 1469520624
+/
+ec2-52-19-191-224.eu-west-1.compute.amazonaws.com
+0 55 55 284906 0 0
+-
+host52-201.promobit.ru
+0 1 0 228 1 1467532796
+/
+crawl-66-249-76-63.googlebot.com
+0 7 2 22172 6 1469179615
+/
+69.63.188.127
+0 6 6 99324 0 0
+-
+x55b50c15.dyn.telefonica.de
+0 43 37 1366185 1 1467976099
+/
+msnbot-157-55-39-169.search.msn.com
+0 1 1 11508 1 1468371310
+/
+exit1.ipredator.se
+0 1 1 11508 1 1468481086
+/
+google-proxy-66-102-7-160.google.com
+0 11 11 74678 6 1469883283
+/
+173.252.90.236
+0 3 3 49662 0 0
+-
+aftr-37-201-195-123.unity-media.net
+0 1 1 11508 1 1467936308
+/
+dsl-189-249-67-109-dyn.prod-infinitum.com.mx
+0 2 1 89028 1 1469876804
+/
+google-proxy-66-249-93-124.google.com
+0 631 631 18282876 19 1468865641
+/
+69.63.188.221
+0 1 1 16554 0 0
+-
+baiduspider-220-181-108-161.crawl.baidu.com
+0 1 0 188 1 1468202380
+/
+dcc1.msgcenter.com
+0 1 1 66954 1 1468173649
+/
+crawl-66-249-69-219.googlebot.com
+0 2 0 403 0 0
+-
+dslb-188-104-101-234.188.104.pools.vodafone-ip.de
+0 107 107 3354692 2 1468400337
+/
+180.191.146.173
+0 1 0 22074 1 1469899630
+-
+ipb21b3928.dynamic.kabel-deutschland.de
+0 100 99 4292341 6 1469737553
+/
+p4ffa3237.dip0.t-ipconnect.de
+0 1 1 11508 1 1467886675
+/
+ip5b40480c.dynamic.kabel-deutschland.de
+0 203 203 6165511 2 1467934083
+/
+host109-148-133-162.range109-148.btcentralplus.com
+0 1 0 22074 1 1469732767
+-
+ai126197112021.18.access-internet.ne.jp
+0 75 75 2544067 1 1468841896
+/
+crawl-66-249-75-76.googlebot.com
+0 1 1 80302 0 0
+-
+31.13.110.111
+0 1 1 71039 0 0
+-
+168-228-88-6.goofiber.com.br
+0 20 20 797072 1 1468971015
+/
+173.252.120.120
+0 4 4 66216 0 0
+-
+wwwb-app19.us.archive.org
+0 2 1 59924 2 1467498410
+/
+173.252.120.115
+0 1 1 16554 0 0
+-
+190.119.250.33
+0 66 66 2498281 1 1467915195
+/
+dslb-178-007-214-048.178.007.pools.vodafone-ip.de
+0 2 2 23016 2 1467924236
+/
+thales.atelier.wirth-horn.de
+0 65 65 2454630 1 1468399753
+/
+crawl-5-102-173-71.mojeek.com
+0 1 1 11508 1 1468403396
+/
+154.127.130.201
+0 39 39 947031 1 1468841879
+/
+179.252.79.234
+0 41 41 964470 1 1469822667
+/
+173.252.90.247
+0 1 1 16554 0 0
+-
+187-254-143-62-cable.cybercable.net.mx
+0 35 35 846830 1 1469730650
+/
+aftr-88-217-180-216.dynamic.mnet-online.de
+0 67 65 2429064 1 1467627115
+/
+baiduspider-123-125-71-30.crawl.baidu.com
+0 2 1 37060 0 0
+-
+x5d844395.dyn.telefonica.de
+0 75 75 2554808 1 1468680713
+/
+bzq-79-179-63-29.red.bezeqint.net
+0 1 1 11508 1 1467900101
+/
+p57a97747.dip0.t-ipconnect.de
+0 1 1 66954 1 1469861585
+/
+dslb-188-098-220-068.188.098.pools.vodafone-ip.de
+0 66 66 2465262 1 1467457445
+/
+crawl-66-249-65-152.googlebot.com
+0 1 1 11508 1 1469100220
+/
+66.220.158.116
+0 1 1 16554 0 0
+-
+p5b2c3b05.dip0.t-ipconnect.de
+0 64 57 33564868 1 1467972956
+/
+195.49.224.20
+0 69 68 3799314 1 1468486317
+/
+ip5f5be8d3.dynamic.kabel-deutschland.de
+0 256 252 8454915 4 1468152118
+/
+aftr-185-17-205-172.dynamic.mnet-online.de
+0 25 15 456410 1 1468411580
+/
+89.204.137.171
+0 42 42 892355 1 1468693934
+/
+baiduspider-180-76-15-149.crawl.baidu.com
+0 1 1 4363 0 0
+-
+google-proxy-66-249-88-27.google.com
+0 17 17 122962 9 1469958978
+/
+x5ce1ef91.dyn.telefonica.de
+0 74 73 2402067 1 1468880511
+/
+static-212.214.229.27.addr.tdcsong.se
+0 3 2 134136 2 1468694319
+/
+google-proxy-66-249-84-220.google.com
+0 1 1 11508 1 1467903501
+/
+46.78.110.149
+0 58 58 2095570 1 1467836942
+/
+177-130-174-161.mcl-cb.mastercabo.com.com.br
+0 41 41 964470 1 1468502875
+/
+66.220.145.246
+0 32 32 666560 1 1468549642
+/
+a109-48-18-251.cpe.netcabo.pt
+0 1 1 11508 1 1467903774
+/
+p50802586.dip0.t-ipconnect.de
+0 1 1 11508 1 1469194634
+/
+dslb-088-067-141-229.088.067.pools.vodafone-ip.de
+0 1 1 11508 1 1467922740
+/
+167.195.178.107.gae.googleusercontent.com
+0 1 1 11564 1 1467498458
+/
+x4d04dfb5.dyn.telefonica.de
+0 89 86 2683017 1 1468079272
+/
+216.163.188.224
+0 1 1 66954 1 1468353064
+/
+a89-182-191-166.net-htp.de
+0 1 1 11508 1 1467891103
+/
+69.63.188.222
+0 2 2 33108 0 0
+-
+201-10-16-49.paemt704.dsl.brasiltelecom.net.br
+0 39 39 958259 1 1468434298
+/
+64.236.82.4
+0 1 1 66954 1 1467797170
+/
+x55b50c9b.dyn.telefonica.de
+0 127 127 3983821 3 1468716912
+/
+x4e305d82.dyn.telefonica.de
+0 77 77 2656158 1 1468762860
+/
+h229-097-175.95.ficolo.net
+0 1 1 10890 1 1467422997
+/
+132.33.55.179.isp.timbrasil.com.br
+0 41 41 964470 1 1469645897
+/
+tmo-103-147.customers.d1-online.com
+0 14 1 11508 1 1468757522
+/
+aftr-88-217-181-92.dynamic.mnet-online.de
+0 122 98 2293472 3 1468596437
+/
+baiduspider-180-76-15-161.crawl.baidu.com
+0 2 0 391 1 1469702770
+/
+ec2-52-207-252-97.compute-1.amazonaws.com
+0 5 3 34900 1 1468483131
+/
+x55b4f682.dyn.telefonica.de
+0 1 1 11508 1 1467890846
+/
+host106-2.natpool.mwn.de
+0 47 47 1078403 1 1468246144
+/
+66.220.146.22
+0 9 9 188333 3 1468792511
+/
+198-23-253-254-host.colocrossing.com
+0 383 382 12510779 1 1467667052
+/
+173.252.123.144
+0 1 1 71039 0 0
+-
+catv-178-48-148-83.catv.broadband.hu
+0 2 1 11696 1 1468067838
+/
+host58-2.natpool.mwn.de
+0 73 73 2573647 1 1468407612
+/
+200.60.60.94.rev.vodafone.pt
+0 1 1 11508 1 1467890825
+/
+62.134.245.158
+0 78 77 2636424 1 1468512195
+/
+178.135.82.240
+0 63 63 1494531 1 1467886053
+/
+baiduspider-180-76-15-6.crawl.baidu.com
+0 5 2 97768 3 1468335083
+/
+ppp-62-216-213-218.dynamic.mnet-online.de
+0 141 141 5127975 1 1468410517
+/
+xdsl-81-173-136-125.netcologne.de
+0 47 47 1078403 1 1468005121
+/
+sol-fttb.23.112.119.46.sovam.net.ua
+0 5 0 1142 1 1469405672
+-
+baiduspider-123-125-71-28.crawl.baidu.com
+0 2 2 20247 0 0
+-
+c9outbound230.ctmail.com
+0 1 1 66954 1 1468079932
+/
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 4 3 34712 3 1469395346
+/
+ec2-52-29-53-5.eu-central-1.compute.amazonaws.com
+0 2 1 11696 1 1468514388
+/
+173.252.120.100
+0 2 2 33108 0 0
+-
+google-proxy-66-102-6-70.google.com
+0 10 10 159625 0 0
+-
+tmo-104-206.customers.d1-online.com
+0 26 26 572207 1 1468354651
+/
+199.91.135.164
+0 1 1 67806 1 1467627700
+/
+x55b30f4a.dyn.telefonica.de
+0 132 73 2517428 2 1468635012
+/
+chello084114166238.1.15.vie.surfer.at
+0 1 0 22074 1 1469701999
+-
+aftr-185-17-204-177.dynamic.mnet-online.de
+0 68 66 2491929 1 1468371429
+/
+31.13.102.126
+0 14 12 138514 11 1469039710
+/
+pool-72-76-221-220.nwrknj.fios.verizon.net
+0 10 4 57882 1 1469729105
+/
+69.171.230.119
+0 1 1 16554 0 0
+-
+baiduspider-180-76-15-156.crawl.baidu.com
+0 2 2 44811 1 1469762464
+/
+77.47.82.112.dynamic.cablesurf.de
+0 2 2 18560 0 0
+-
+ipservice-092-217-051-046.092.217.pools.vodafone-ip.de
+0 85 83 2655920 1 1468501353
+/
+baiduspider-123-125-71-24.crawl.baidu.com
+0 2 0 376 2 1468643857
+/
+ip5f5beb49.dynamic.kabel-deutschland.de
+0 66 66 2494172 1 1468620390
+/
+p50886228.dip0.t-ipconnect.de
+0 148 146 5032377 2 1468536702
+/
+173.252.74.112
+0 1 1 16554 0 0
+-
+173.252.74.113
+0 1 1 16554 0 0
+-
+p5497903d.dip0.t-ipconnect.de
+0 97 97 6518152 1 1468163444
+/
+baiduspider-180-76-15-7.crawl.baidu.com
+0 2 2 90047 0 0
+-
+x5d87b1d3.dyn.telefonica.de
+0 44 44 898472 1 1468393922
+/
+173.252.120.102
+0 1 1 16554 0 0
+-
+ipb21b3828.dynamic.kabel-deutschland.de
+0 76 75 2412684 1 1467835122
+/
+unallocated.sta.lan.ua
+0 252 236 8056132 1 1468776304
+/
+aftr-185-17-207-229.dynamic.mnet-online.de
+0 64 64 2454497 1 1468361886
+/
+69.63.188.114
+0 1 1 16554 0 0
+-
+crawl-66-249-78-103.googlebot.com
+0 17 14 4871380 8 1469718453
+/
+177-37-6-140.vante.com.br
+0 37 37 1032142 1 1469801391
+/
+31.13.102.116
+0 14 14 161112 11 1468861438
+/
+66.220.146.20
+0 6 6 74094 5 1469641601
+/
+ppp-83-171-191-191.dynamic.mnet-online.de
+0 68 67 2485044 1 1468500183
+/
+ip-109-43-3-176.web.vodafone.de
+0 63 62 2332246 1 1467923895
+/
+x4e35172c.dyn.telefonica.de
+0 73 73 2646220 1 1468269465
+/
+p5085dced.dip0.t-ipconnect.de
+0 1 1 11508 1 1468527012
+/
+static.21.10.4.46.clients.your-server.de
+0 2 2 66954 1 1468003065
+/
+31.13.102.124
+0 11 8 92736 8 1469894667
+/
+tmo-099-152.customers.d1-online.com
+0 77 76 2515461 1 1467624699
+/
+crawl-66-249-65-108.googlebot.com
+0 5 2 161231 2 1467866800
+/
+rate-limited-proxy-66-249-92-103.google.com
+0 1 1 11508 1 1469674891
+/
+176.6.17.63
+0 1 1 11508 1 1468483789
+/
+154.67.160.157
+0 1 0 22074 1 1469915599
+-
+104.130.72.224
+0 109 109 3533226 1 1467676543
+/
+tmo-104-82.customers.d1-online.com
+0 42 42 907083 1 1468489315
+/
+109.125.84.76.dynamic.cablesurf.de
+0 77 76 2541394 1 1468354137
+/
+175.139.122.20
+0 22 22 259860 1 1468334836
+/
+89.15.239.178
+0 63 63 2375916 1 1469920133
+/
+ip-109-43-1-5.web.vodafone.de
+0 2 1 11696 1 1469435725
+/
+p4fc55c7f.dip0.t-ipconnect.de
+0 59 59 2283177 1 1468421191
+/
+ppp-62-216-210-96.dynamic.mnet-online.de
+0 47 47 1093131 1 1468599723
+/
+hsi-kbw-46-223-104-15.hsi.kabel-badenwuerttemberg.de
+0 1 1 11508 1 1467886909
+/
+69.63.188.216
+0 4 4 66216 0 0
+-
+187.59.16.226.static.host.gvt.net.br
+0 40 40 952962 1 1469855132
+/
+66.220.146.31
+0 4 4 51078 3 1469361405
+/
+p57ae9918.dip0.t-ipconnect.de
+0 61 61 2274566 1 1468522801
+/
+x590f45dc.dyn.telefonica.de
+0 45 44 898660 1 1468400040
+/
+x55b50bc3.dyn.telefonica.de
+0 129 128 4428143 2 1467730028
+/
+dino.felorix.com
+0 1 1 66954 1 1468835508
+/
+b18fca7b.virtua.com.br
+0 41 41 964470 1 1469209987
+/
+ppp-62-216-209-130.dynamic.mnet-online.de
+0 101 100 2981002 1 1468429589
+/
+tmo-103-159.customers.d1-online.com
+0 61 60 2269763 1 1467935891
+/
+x55b50797.dyn.telefonica.de
+0 113 69 2469928 1 1467544024
+/
+ipb21be5e0.dynamic.kabel-deutschland.de
+0 142 139 5023949 2 1467911083
+/
+x55b3aa4c.dyn.telefonica.de
+0 1 1 11508 1 1467962426
+/
+104.236.33.20
+0 2 1 11696 1 1469855776
+/
+host-82-135-49-133.customer.m-online.net
+0 218 215 7571003 3 1468948137
+/
+p54bc79f1.dip0.t-ipconnect.de
+0 1 1 11508 1 1467903161
+/
+wwwb-app0.us.archive.org
+0 1 1 56979 1 1467474589
+/
+69.63.188.105
+0 2 2 33108 0 0
+-
+pd9fd8998.dip0.t-ipconnect.de
+0 94 93 2851899 1 1469491278
+/
+89.204.137.106
+0 8 8 131794 1 1469059470
+/
+x5ce72c43.dyn.telefonica.de
+0 83 82 2802193 1 1468608224
+/
+baiduspider-180-76-15-134.crawl.baidu.com
+0 1 1 11508 1 1468098518
+/
+port-92-195-86-168.dynamic.qsc.de
+0 1 1 11508 1 1467928722
+/
+host-88-217-174-125.customer.m-online.net
+0 131 128 4919564 3 1468588171
+/
+p5b34063c.dip0.t-ipconnect.de
+0 66 65 2454818 1 1468518366
+/
+31.13.109.119
+0 1 1 9745 0 0
+-
+69.63.188.112
+0 2 2 33108 0 0
+-
+p57aa700f.dip0.t-ipconnect.de
+0 2 2 23016 1 1467888193
+/
+89.204.137.125
+0 3 2 13514 1 1468191324
+/
+a94-132-114-60.cpe.netcabo.pt
+0 1 1 11508 1 1467944656
+/
+dslb-088-067-063-086.088.067.pools.vodafone-ip.de
+0 77 76 2614566 1 1469121051
+/
+ipbcc0fc3c.dynamic.kabel-deutschland.de
+0 500 420 13851357 19 1469356229
+/
+p54a776df.dip0.t-ipconnect.de
+0 99 97 2878281 1 1468459852
+/
+tmo-102-120.customers.d1-online.com
+0 3 0 0 0 0
+-
+dslb-188-098-207-081.188.098.pools.vodafone-ip.de
+0 1 1 1126 0 0
+-
+pool8021x165-146.rz.hs-augsburg.de
+0 76 76 2541206 1 1469097737
+/
+212-60-165-159.adsl.highway.telekom.at
+0 1 0 22074 1 1469936026
+-
+a109-49-219-120.cpe.netcabo.pt
+0 1 1 11508 1 1467971408
+/
+tmo-103-132.customers.d1-online.com
+0 3 2 28062 1 1468587143
+/
+google-proxy-66-249-93-120.google.com
+0 568 568 15834548 16 1468149612
+/
+p50802d21.dip0.t-ipconnect.de
+0 78 77 2530297 1 1467761876
+/
+p4fcf9c0f.dip0.t-ipconnect.de
+0 60 59 2168089 1 1467845923
+/
+p5083cd61.dip0.t-ipconnect.de
+0 66 66 2477013 1 1468777733
+/
+187.58.167.77.static.host.gvt.net.br
+0 41 41 964470 1 1469203036
+/
+31.13.110.125
+0 1 1 16554 0 0
+-
+ppp-62-216-214-194.dynamic.mnet-online.de
+0 119 114 34464154 1 1468422256
+/
+173.252.90.92
+0 1 1 16554 0 0
+-
+aaiz36.neoplus.adsl.tpnet.pl
+0 2 1 89028 1 1469645742
+/
+x5ce39a74.dyn.telefonica.de
+0 65 63 2304792 1 1468759622
+/
+google-proxy-66-249-83-220.google.com
+0 41 41 1225385 6 1469756259
+/
+89.204.135.61
+0 63 63 2311943 1 1468537386
+/
+201-67-137-108.bnut3700.e.brasiltelecom.net.br
+0 79 78 2573386 1 1468450273
+/
+31.13.102.105
+0 19 16 184740 15 1469039732
+/
+ip5f5bffe0.dynamic.kabel-deutschland.de
+0 16 16 330005 1 1469995358
+/
+89.15.238.18
+0 84 84 1814166 1 1468614511
+/
+138-255-76-219.forestnet.net.br
+0 41 41 964470 1 1468855755
+/
+aftr-185-17-204-19.dynamic.mnet-online.de
+0 103 102 2981979 1 1468360937
+/
+ip-109-43-0-94.web.vodafone.de
+0 76 75 2418718 1 1467705630
+/
+ip5f5befb6.dynamic.kabel-deutschland.de
+0 85 81 2628762 1 1468685268
+/
+199.19.249.196
+0 30 27 985585 8 1468675551
+/
+89.204.135.23
+0 1 1 11508 1 1468516440
+/
+x5ce6498b.dyn.telefonica.de
+0 77 76 2541394 1 1468524013
+/
+host243-5-dynamic.180-80-r.retail.telecomitalia.it
+0 41 41 964470 1 1469961680
+/
+baiduspider-220-181-108-114.crawl.baidu.com
+0 1 1 11508 1 1467675863
+/
+crawl-66-249-75-215.googlebot.com
+0 1 0 188 1 1467641690
+/
+103.253.169.244
+0 1 0 22074 1 1469957173
+-
+crawl-66-249-75-135.googlebot.com
+0 3 0 585 3 1468020072
+/
+a79-169-20-248.cpe.netcabo.pt
+0 1 0 22074 1 1469923066
+-
+google-proxy-66-102-8-131.google.com
+0 1 1 11508 1 1468961931
+/
+dedi3928.your-server.de
+0 1 1 0 1 1467727202
+/
+ppp-188-174-6-155.dynamic.mnet-online.de
+0 134 130 4486646 1 1468785110
+/
+webscan2.verwaltung.uni-muenchen.de
+0 47 46 1081452 1 1468579845
+/
+host254-2.natpool.mwn.de
+0 14 1 11508 1 1468426962
+/
+89.204.130.48
+0 43 42 968165 1 1468695671
+/
+aftr-109-91-33-185.unity-media.net
+0 66 64 2454873 1 1469196692
+/
+75-171-241-45.hlrn.qwest.net
+0 1 1 11508 1 1467894356
+/
+89.204.139.134
+0 197 197 6234534 2 1468689040
+/
+baiduspider-180-76-15-15.crawl.baidu.com
+0 3 2 23204 3 1469413122
+/
+50.131.152.190.static.pichincha.andinanet.net
+0 1 1 11508 1 1467901508
+/
+baiduspider-180-76-15-30.crawl.baidu.com
+0 1 1 80302 0 0
+-
+xdsl-87-79-96-235.netcologne.de
+0 120 116 3436560 1 1468774252
+/
+aftr-185-17-205-244.dynamic.mnet-online.de
+0 1 1 4704982 0 0
+-
+x55b50c6c.dyn.telefonica.de
+0 43 38 872807 2 1467808711
+/
+ppp-88-217-57-170.dynamic.mnet-online.de
+0 51 51 1752207 1 1468578784
+/
+dmfw003.deutsches-museum.de
+0 81 79 2664048 1 1468484799
+/
+p54a774cd.dip0.t-ipconnect.de
+0 48 47 1093319 1 1469033830
+/
+baiduspider-123-125-71-47.crawl.baidu.com
+0 1 1 95992 0 0
+-
+wwwb-app36.us.archive.org
+0 1 0 228 1 1467499256
+/
+176.6.21.106
+0 66 65 2362045 1 1468523251
+/
+hsi-kbw-082-212-001-250.hsi.kabelbw.de
+0 111 66 2455822 1 1467798472
+/
+176.7.54.73
+0 2 2 16951 1 1468969826
+/
+aftr-185-17-205-69.dynamic.mnet-online.de
+0 41 34 703284 1 1467447658
+/
+port-92-194-252-81.dynamic.qsc.de
+0 67 66 2477201 1 1468005654
+/
+mail.windrose.od.ua
+0 4 2 156210 1 1468359795
+/
+p4fc5cdea.dip0.t-ipconnect.de
+0 2 2 4771936 1 1469383908
+/
+69.63.188.215
+0 1 1 16554 0 0
+-
+baiduspider-180-76-15-158.crawl.baidu.com
+0 2 1 11729 1 1469206549
+/
+ipservice-092-217-125-157.092.217.pools.vodafone-ip.de
+0 13 12 191012 1 1468260175
+/
+177.40.3.104.static.host.gvt.net.br
+0 36 36 767883 1 1468556974
+/
+82.113.121.83
+0 45 44 898660 1 1468339545
+/
+p5b2c564b.dip0.t-ipconnect.de
+0 85 85 2659455 1 1467843838
+/
+ns518183.ip-158-69-25.net
+0 1 1 11508 1 1467754081
+/
+p5796fe20.dip0.t-ipconnect.de
+0 1 1 11508 1 1467966536
+/
+google-proxy-66-249-88-5.google.com
+0 20 20 115958 9 1469858117
+/
+66.220.158.104
+0 1 1 16554 0 0
+-
+baiduspider-180-76-15-11.crawl.baidu.com
+0 2 2 12358 1 1469831133
+/
+x5ce2f3f1.dyn.telefonica.de
+0 90 86 2613114 1 1468418652
+/
+191-19-199-201.user.vivozap.com.br
+0 28 28 592949 1 1468541918
+/
+dslb-178-007-176-123.178.007.pools.vodafone-ip.de
+0 186 183 18860165 2 1468269402
+/
+88.214.163.53
+0 1 1 11508 1 1467926922
+/
+baiduspider-180-76-15-154.crawl.baidu.com
+0 2 2 15871 1 1469413122
+/
+crawl-66-249-64-229.googlebot.com
+0 1 0 188 1 1468144262
+/
+ip5f5beaa8.dynamic.kabel-deutschland.de
+0 2947 916 36301637 28 1468544705
+/
+p5dd7b379.dip0.t-ipconnect.de
+0 1 1 11508 1 1469284646
+/
+baiduspider-123-125-71-56.crawl.baidu.com
+0 2 0 504 0 0
+-
+173.252.74.104
+0 1 1 16554 0 0
+-
+173.252.123.146
+0 3 3 104147 0 0
+-
+31.13.97.123
+0 1 1 11508 1 1468290481
+/
+p549c9ea6.dip0.t-ipconnect.de
+0 1 1 11508 1 1467920557
+/
+baiduspider-180-76-15-145.crawl.baidu.com
+0 3 1 11961 1 1467579323
+/
+ip5f5be9e1.dynamic.kabel-deutschland.de
+0 147 146 5155909 2 1469201838
+/
+69.63.188.121
+0 1 1 16554 0 0
+-
+gw.bieringonline.de
+0 152 148 5381824 3 1469731511
+/
+69.171.230.100
+0 5 5 82770 0 0
+-
+p4fe59cf6.dip0.t-ipconnect.de
+0 64 64 2469225 1 1468540605
+/
+x5d859594.dyn.telefonica.de
+0 66 64 2302958 1 1467714883
+/
+172.56.29.90
+0 28 28 584003 1 1468982448
+/
+host-62-245-135-163.customer.m-online.net
+0 66 65 2454818 1 1469461756
+/
+39-225-13-177.skybandalarga.com.br
+0 41 41 964470 1 1468249846
+/
+host177-2.natpool.mwn.de
+0 46 45 1074710 1 1468671836
+/
+p5093e552.dip0.t-ipconnect.de
+0 100 91 2720950 3 1468506173
+/
+mail.sudoestetmn.com
+0 1 1 11508 1 1467887922
+/
+185.22.173.177
+0 1 1 11508 1 1468925324
+/
+static.184.234.251.148.clients.your-server.de
+0 1 0 228 1 1469071630
+/
+31.13.102.121
+0 20 18 212648 11 1469039702
+/
+58.221.42.153
+0 1 1 11508 1 1468363062
+/
+87.152.163.237
+0 86 85 2663508 1 1469608823
+/
+69.63.188.213
+0 2 2 33108 0 0
+-
+ip5f5ac2b0.dynamic.kabel-deutschland.de
+0 478 462 14137940 6 1468447379
+/
+dynamic-adsl-94-36-158-41.clienti.tiscali.it
+0 1 0 188 1 1468095938
+/
+google-proxy-66-249-83-249.google.com
+0 1 1 11508 1 1469467754
+/
+66.220.158.107
+0 1 1 16554 0 0
+-
+p4fe1d434.dip0.t-ipconnect.de
+0 65 64 2470293 1 1468419944
+/
+host243-2.natpool.mwn.de
+0 66 65 2454818 1 1468248441
+/
+pd9f49e6c.dip0.t-ipconnect.de
+0 1 1 66954 1 1469486150
+/
+69.63.188.122
+0 2 2 33108 0 0
+-
+crawl-66-249-78-110.googlebot.com
+0 23 19 273447 11 1469880382
+/
+217.111.27.2
+0 1 1 34772 0 0
+-
+219.248.9.245
+0 76 76 2609119 1 1468198628
+/
+static.88-198-230-150.clients.your-server.de
+0 2 2 66954 1 1467912117
+/
+hosted-by.leaseweb.com
+0 13 10 670224 7 1469811950
+/
+179.123.154.104.bc.googleusercontent.com
+0 2 1 80523 0 0
+-
+173.252.90.97
+0 1 1 16554 0 0
+-
+104.45.18.178
+0 2 2 83508 1 1468775548
+/
+176.4.28.22
+0 74 74 2394408 1 1467841112
+/
+187-78-98-155.user.veloxzone.com.br
+0 24 24 502692 1 1468502362
+/
+173.252.90.238
+0 3 3 49662 0 0
+-
+p57b4500a.dip0.t-ipconnect.de
+0 1 1 11508 1 1468478838
+/
+x5d86a752.dyn.telefonica.de
+0 84 81 2782655 1 1468580728
+/
+82.113.106.171
+0 63 63 2274302 1 1467756704
+/
+ns378676.ip-91-121-88.eu
+0 1 1 66954 1 1468466023
+/
+ip5f5bef86.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1468768897
+/
+8.28.16.254
+0 3 3 189787 1 1469148609
+/
+dslb-088-074-023-059.088.074.pools.vodafone-ip.de
+0 1 1 11508 1 1467886124
+/
+ip5f5bf9b6.dynamic.kabel-deutschland.de
+0 10 10 235817 1 1469228093
+/
+x5d857284.dyn.telefonica.de
+0 70 69 2515948 1 1468062783
+/
+static-89-42-81-147
+0 2 1 89028 1 1469873494
+/
+m5-240-7-193.cust.tele2.se
+0 1 1 11508 1 1468484042
+/
+69.171.230.107
+0 2 2 33108 0 0
+-
+173.252.90.241
+0 2 2 33108 0 0
+-
+173.252.90.81
+0 1 1 16554 0 0
+-
+google-proxy-66-102-6-224.google.com
+0 6 6 195823 0 0
+-
+x590f2902.dyn.telefonica.de
+0 11 9 59704 1 1468921804
+/
+p5dcbff18.dip0.t-ipconnect.de
+0 78 77 2541527 1 1468227850
+/
+mail.dpma.de
+0 66 65 2428023 1 1467399715
+/
+221.211.138.77.rev.sfr.net
+0 41 41 964470 1 1468526648
+/
+220.181.51.56
+0 1 1 24094 1 1468277463
+/
+173.252.120.103
+0 2 2 33108 0 0
+-
+x5ce64904.dyn.telefonica.de
+0 68 68 2525073 1 1467998005
+/
+b18e275c.virtua.com.br
+0 12 12 189639 1 1467909434
+/
+baiduspider-123-125-71-27.crawl.baidu.com
+0 1 0 239 0 0
+-
+new1.xml-sitemaps.com
+0 4 4 4807208 1 1467472415
+/
+150-70-173-49.trendmicro.com
+0 2 2 67694 1 1467961732
+/
+173.252.123.138
+0 2 2 142078 0 0
+-
+host87-178-dynamic.236-95-r.retail.telecomitalia.it
+0 1 0 22074 1 1469799169
+-
+165.225.72.61
+0 78 77 2541527 1 1468224451
+/
+69.63.188.108
+0 2 2 33108 0 0
+-
+p5b2445cc.dip0.t-ipconnect.de
+0 57 55 1397043 3 1469216754
+/
+5-14-210-182.residential.rdsnet.ro
+0 2 1 17135 1 1467655068
+-
+x55b50ca9.dyn.telefonica.de
+0 206 200 7449648 2 1469198084
+/
+ipbcc2c46b.dynamic.kabel-deutschland.de
+0 65 64 2326964 1 1468514789
+/
+31.13.102.104
+0 17 17 195636 13 1469039723
+/
+194.187.170.109
+0 1 1 11508 1 1468012221
+/
+187.113.161.189.static.host.gvt.net.br
+0 41 41 964470 1 1469716226
+/
+b1c2b336.virtua.com.br
+0 41 41 964470 1 1468098618
+/
+31.13.113.64
+0 1 1 11508 1 1467883840
+/
+tmo-114-63.customers.d1-online.com
+0 74 73 2336411 1 1467735148
+/
+31.13.102.120
+0 14 13 149835 9 1468602792
+/
+37.165.138.251
+0 72 71 2370074 1 1468681065
+/
+x5ce1fae7.dyn.telefonica.de
+0 185 141 4866159 2 1469180181
+/
+107-138-150-222.lightspeed.sntcca.sbcglobal.net
+0 19 19 335461 1 1469847188
+/
+x590e5846.dyn.telefonica.de
+0 1 1 11508 1 1467928878
+/
+89.204.153.137
+0 43 42 907271 1 1467972455
+/
+pool8021x163-69.rz.hs-augsburg.de
+0 78 78 2586160 1 1469092162
+/
+port-87-193-238-154.static.qsc.de
+0 78 78 2572107 1 1468415277
+/
+baiduspider-180-76-15-151.crawl.baidu.com
+0 2 1 4584 0 0
+-
+ec2-54-210-209-64.compute-1.amazonaws.com
+0 5 3 34900 1 1468280805
+/
+xd9baf310.dyn.telefonica.de
+0 1 1 11508 1 1467931801
+/
+78.164.163.88.dynamic.ttnet.com.tr
+0 1 1 11508 1 1467891847
+/
+ip5f5bd1c0.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467904951
+/
+p508bfac9.dip0.t-ipconnect.de
+0 1 1 11508 1 1467932325
+/
+x590f64ae.dyn.telefonica.de
+0 16 1 11508 1 1468235550
+/
+aftr-37-24-146-26.unity-media.net
+0 82 82 2640248 1 1467926971
+/
+69.171.230.117
+0 1 1 16554 0 0
+-
+msnbot-207-46-13-99.search.msn.com
+0 1 1 11508 1 1468242397
+/
+116.102.46.249
+0 40 40 964305 1 1469524541
+/
+google-proxy-66-249-85-234.google.com
+0 12 12 75804 6 1468972120
+/
+173.252.88.90
+0 4 4 66216 0 0
+-
+173.252.90.96
+0 1 1 16554 0 0
+-
+ipb21bc4ce.dynamic.kabel-deutschland.de
+0 67 67 2479577 1 1469092600
+/
+173.252.90.228
+0 1 1 16554 0 0
+-
+173.252.90.125
+0 3 3 49662 0 0
+-
+x5d859049.dyn.telefonica.de
+0 72 72 2567717 1 1468236935
+/
+150-70-173-42.trendmicro.com
+0 1 1 56780 0 0
+-
+ppp-62-216-213-73.dynamic.mnet-online.de
+0 88 88 5617031 1 1468352890
+/
+173.252.88.92
+0 3 3 49662 0 0
+-
+proxy7.prosiebensat1.net
+0 76 75 2544255 1 1468512396
+/
+crawl-66-249-69-132.googlebot.com
+0 10 10 14646534 4 1469834907
+/
+p578e6004.dip0.t-ipconnect.de
+0 65 64 2469413 1 1468438207
+/
+38.99.82.191
+0 21 18 369543 2 1467923467
+/
+173.252.90.84
+0 1 1 16554 0 0
+-
+38.100.21.78
+0 1 0 228 1 1468506430
+/
+crawl-66-249-66-47.googlebot.com
+0 2 1 11696 1 1469849383
+/
+google-proxy-66-102-6-232.google.com
+0 5 5 238551 0 0
+-
+aftr-88-217-180-12.dynamic.mnet-online.de
+0 111 110 3028124 1 1467750860
+/
+186-226-159-125.wbtinternet.com.br
+0 33 33 750540 1 1469751353
+/
+x55b53315.dyn.telefonica.de
+0 82 81 2583605 1 1467657060
+/
+host246-2.natpool.mwn.de
+0 64 63 2464726 1 1468682908
+/
+136-154-137-186.fibertel.com.ar
+0 48 47 1078591 1 1468786488
+/
+google-proxy-66-102-6-164.google.com
+0 30 30 1257978 1 1467499185
+/
+google-proxy-66-102-6-244.google.com
+0 1 1 1126 0 0
+-
+p5b16bca1.dip0.t-ipconnect.de
+0 74 73 2402764 1 1467828069
+/
+ppp-188-174-64-242.dynamic.mnet-online.de
+0 69 68 2527030 1 1468402407
+/
+173.252.120.116
+0 1 1 16554 0 0
+-
+p54bb9c67.dip0.t-ipconnect.de
+0 1 1 11508 1 1467933808
+/
+x590e5e34.dyn.telefonica.de
+0 1 1 11508 1 1467923284
+/
+ipb219e668.dynamic.kabel-deutschland.de
+0 194 188 5755347 2 1468482588
+/
+192.237.216.89
+0 1 1 10890 1 1467341854
+/
+187-57-104-246.dsl.telesp.net.br
+0 32 32 694715 1 1468283334
+/
+baiduspider-180-76-15-31.crawl.baidu.com
+0 2 2 160604 0 0
+-
+31.13.102.123
+0 24 20 230992 13 1468760884
+/
+mail.ultratronik.de
+0 77 76 2541394 1 1469549123
+/
+69.63.188.110
+0 1 1 16554 0 0
+-
+crawl-66-249-64-135.googlebot.com
+0 3 3 34524 3 1469454433
+/
+89.15.236.233
+0 37 33 1229151 1 1467980182
+/
+aftr-88-217-181-174.dynamic.mnet-online.de
+0 81 80 2567445 1 1467754213
+/
+62.169.104.64.rev.optimus.pt
+0 1 1 11508 1 1468248506
+/
+69.63.188.104
+0 3 3 49662 0 0
+-
+31.13.103.100
+0 2 1 11696 1 1468769486
+/
+baiduspider-123-125-71-50.crawl.baidu.com
+0 1 0 243 0 0
+-
+aftr-185-17-204-164.dynamic.mnet-online.de
+0 1 1 11508 1 1468774124
+/
+c003-j8-rz.muenchen.de
+0 123 97 3710496 1 1468257338
+-
+31.13.102.127
+0 22 20 230619 15 1469876017
+/
+baiduspider-123-125-71-82.crawl.baidu.com
+0 1 0 188 1 1469209344
+/
+baiduspider-180-76-15-140.crawl.baidu.com
+0 3 2 11921 2 1469067228
+/
+31.13.100.119
+0 4 4 13109 1 1467798550
+/
+ipservice-092-211-045-051.092.211.pools.vodafone-ip.de
+0 1 1 34772 0 0
+-
+151.70.138.77.rev.sfr.net
+0 32 32 1251965 1 1468619891
+/
+151.77.41.16
+0 41 41 964470 1 1468666398
+/
+186-210-222-172.xd-dynamic.ctbcnetsuper.com.br
+0 40 40 933799 1 1469567790
+/
+173.252.90.109
+0 1 1 16554 0 0
+-
+x5d859334.dyn.telefonica.de
+0 1 1 11508 1 1468795730
+/
+b1b752c9.virtua.com.br
+0 38 38 865910 1 1468601522
+/
+static.kpn.net
+0 1 1 11508 1 1467920814
+/
+crawl-66-249-79-189.googlebot.com
+0 3 3 21314 1 1468372022
+/
+eu212-87-118-107.adsl.euphonynet.be
+0 1 1 11508 1 1467894085
+/
+173.252.74.106
+0 3 3 49662 0 0
+-
+p57b8b64d.dip0.t-ipconnect.de
+0 64 64 2454497 1 1468149604
+/
+global-184-3.nat-1.net.cam.ac.uk
+0 68 67 2498274 1 1467346771
+/
+x4db38a3d.dyn.telefonica.de
+0 1 1 11508 1 1467972339
+/
+dr-colossus.w3.org
+0 8 8 465944 1 1467668519
+/
+45.32.130.173.vultr.com
+0 1 1 66954 1 1469077920
+/
+centro-39.grapeshot.co.uk
+0 1 1 11508 1 1468749332
+/
+p5dcb51c7.dip0.t-ipconnect.de
+0 1 1 11508 1 1467966372
+/
+pc.cit.hs-duesseldorf.de
+0 1 1 11508 1 1467916405
+/
+213.20.158.1
+0 68 67 2492195 1 1468582374
+/
+72.13.86.183
+0 1 1 66954 1 1468398719
+/
+219.128.23.198.host.nwnx.net
+0 455 452 14985233 1 1467667559
+/
+31.13.100.115
+0 3 3 103616 0 0
+-
+p5dd7a30b.dip0.t-ipconnect.de
+0 61 61 2315169 1 1468400269
+/
+crawl-66-249-75-212.googlebot.com
+0 2 2 23016 2 1468206467
+/
+tmo-109-156.customers.d1-online.com
+0 2 2 71716 1 1469484994
+/
+hsi-kbw-078-042-115-214.hsi3.kabel-badenwuerttemberg.de
+0 31 30 682861 1 1467891498
+/
+b2b-94-79-184-82.unitymedia.biz
+0 1 1 11508 1 1467976675
+/
+br-gate.brnet.de
+0 146 146 5095437 3 1468593965
+/
+baiduspider-123-125-71-46.crawl.baidu.com
+0 1 0 247 0 0
+-
+p5b3526b6.dip0.t-ipconnect.de
+0 15 13 98217 1 1468538944
+/
+119-46-90-100.static.asianet.co.th
+0 2 1 89028 1 1469776884
+/
+x55b50e74.dyn.telefonica.de
+0 37 37 1051559 1 1467398465
+/
+snyder.w3.org
+0 2 2 0 1 1467668517
+/
+tmo-104-17.customers.d1-online.com
+0 1 1 34772 0 0
+-
+x4e328196.dyn.telefonica.de
+0 151 145 4955478 4 1468697505
+/
+66.220.156.108
+0 1 1 16554 0 0
+-
+103.246.38.196
+0 5 4 196496 2 1468512398
+/
+66.220.145.245
+0 6 6 172612 0 0
+-
+69.171.230.114
+0 2 2 33108 0 0
+-
+x5ce6f191.dyn.telefonica.de
+0 77 76 2556122 1 1468760390
+/
+b110079.yse.yahoo.net
+0 11 8 87341 5 1467869746
+/
+178.248.222.114
+0 66 66 2480007 1 1469727729
+/
+x590f3c99.dyn.telefonica.de
+0 67 66 2555847 1 1468861108
+/
+ip-178-203-233-45.hsi10.unitymediagroup.de
+0 79 79 2582191 1 1468754168
+/
+90.174.4.87
+0 2 2 18560 0 0
+-
+host59-2.natpool.mwn.de
+0 120 120 3454406 2 1468418299
+/
+x4e315f8d.dyn.telefonica.de
+0 44 43 942043 1 1468367260
+/
+x4d0491e7.dyn.telefonica.de
+0 82 82 2631778 1 1468480765
+/
+ip5f5be901.dynamic.kabel-deutschland.de
+0 59 59 1165112 1 1468574571
+/
+dslb-092-075-029-121.092.075.pools.vodafone-ip.de
+0 64 64 2431412 1 1467934888
+/
+173.252.74.100
+0 1 1 16554 0 0
+-
+crawl-66-249-75-204.googlebot.com
+0 8 6 119243 3 1467961168
+/
+p5b24605f.dip0.t-ipconnect.de
+0 67 67 2526913 1 1467929981
+/
+89.204.139.47
+0 16 13 166437 1 1468013733
+/
+crawl-66-249-64-138.googlebot.com
+0 2 2 20254 0 0
+-
+aftr-88-217-181-4.dynamic.mnet-online.de
+0 48 46 1072727 1 1467573095
+/
+dr-marvin.w3.org
+0 6 4 46095 4 1467639419
+/
+173.252.90.90
+0 1 1 16554 0 0
+-
+p4fd622f3.dip0.t-ipconnect.de
+0 108 107 3479463 1 1468428941
+/
+ipb21b3c9a.dynamic.kabel-deutschland.de
+0 77 76 2612278 1 1468349775
+/
+pinspb.ru
+0 1 1 11508 1 1468145735
+/
+crawl-66-249-76-62.googlebot.com
+0 12 6 77432 8 1469207983
+/
+150-70-173-56.trendmicro.com
+0 1 1 67806 1 1467627196
+/
+216.163.188.239
+0 2 2 133908 2 1468539036
+/
+173.252.90.249
+0 5 5 82770 0 0
+-
+177-38-90-19.ipinfo.net.br
+0 35 35 705990 1 1469463231
+/
+p4fe3d4b3.dip0.t-ipconnect.de
+0 67 67 2485531 1 1468592840
+/
+sharedfw08context22.outside.spxs.net
+0 64 63 2457546 1 1468577989
+/
+89.204.137.167
+0 64 60 2211939 1 1467678804
+/
+dslb-146-060-055-009.146.060.pools.vodafone-ip.de
+0 1 1 11508 1 1467999230
+/
+ip5f5ac62c.dynamic.kabel-deutschland.de
+0 62 62 2323723 1 1469605078
+/
+x5ce02ea3.dyn.telefonica.de
+0 143 142 4974964 2 1467506770
+/
+ip-2-201-2-50.web.vodafone.de
+0 25 25 1062396 0 0
+-
+46.255.84.17
+0 1 1 11508 1 1467911043
+/
+62-210-249-185.rev.poneytelecom.eu
+0 1 1 66954 1 1469559734
+/
+ip-109-43-0-250.web.vodafone.de
+0 64 60 2280333 2 1468710288
+/
+78.58.33.3
+0 1 1 11508 1 1467899796
+/
+31.13.102.100
+0 16 15 182323 13 1468600255
+/
+c-50-162-243-228.hsd1.fl.comcast.net
+0 1 0 22074 1 1469992026
+-
+crawl-66-249-65-56.googlebot.com
+0 3 3 34524 3 1469085637
+/
+p5b247e3e.dip0.t-ipconnect.de
+0 17 17 622702 1 1469123527
+/
+p54acc465.dip0.t-ipconnect.de
+0 27 11 153074 1 1468446352
+/
+bfb656e2.virtua.com.br
+0 41 41 964470 1 1468459075
+/
+business-176-094-142-191.static.arcor-ip.net
+0 1 1 11508 1 1467921509
+/
+176.4.57.227
+0 14 3 12778 1 1468420137
+/
+31.13.97.106
+0 1 1 16554 0 0
+-
+baiduspider-180-76-15-5.crawl.baidu.com
+0 3 2 1022 0 0
+-
+150-70-173-14.trendmicro.com
+0 1 1 67806 1 1467627688
+/
+187-126-104-68.user.veloxzone.com.br
+0 38 38 938136 1 1468538508
+/
+173.252.88.188
+0 1 1 71039 0 0
+-
+69.63.188.101
+0 2 2 33108 0 0
+-
+x55b57af4.dyn.telefonica.de
+0 174 172 5389988 2 1468540712
+/
+dslb-088-071-187-244.088.071.pools.vodafone-ip.de
+0 1 1 11508 1 1467896282
+/
+i59f71616.versanet.de
+0 1 1 4704982 0 0
+-
+tmo-104-224.customers.d1-online.com
+0 13 10 287522 1 1469361489
+/
+196.56.76.188.dynamic.jazztel.es
+0 41 41 964470 1 1468300387
+/
+82.113.99.221
+0 4 2 13758 1 1467574315
+/
+x4db03794.dyn.telefonica.de
+0 65 65 2454630 1 1468030156
+/
+p50897395.dip0.t-ipconnect.de
+0 1 1 11508 1 1468455340
+/
+x4e315e4d.dyn.telefonica.de
+0 3 2 4012 0 0
+-
+173.252.123.142
+0 1 1 71039 0 0
+-
+173.252.90.235
+0 4 4 66216 0 0
+-
+crawl-66-249-69-179.googlebot.com
+0 3 0 564 3 1469265808
+/
+116.102.76.83.dynamic.wline.res.cust.swisscom.ch
+0 1 1 11508 1 1467886928
+/
+baiduspider-180-76-15-19.crawl.baidu.com
+0 3 2 23204 3 1469432168
+/
+baiduspider-220-181-108-142.crawl.baidu.com
+0 2 1 11696 2 1469709083
+/
+mail2.bharchitekten.de
+0 145 143 4860742 1 1468486987
+/
+46.166.136.162
+0 1 1 11508 1 1467916554
+/
+p4fc9453a.dip0.t-ipconnect.de
+0 374 90 2509414 1 1467666933
+/
+dslb-188-098-197-007.188.098.pools.vodafone-ip.de
+0 1 1 1126 0 0
+-
+69.63.188.204
+0 3 3 39570 1 1469261957
+/
+msnbot-157-55-39-162.search.msn.com
+0 1 0 221 0 0
+-
+google-proxy-66-102-8-140.google.com
+0 16 16 381781 0 0
+-
+194.187.170.119
+0 3 3 103318 2 1469480276
+/
+mj3.naefmarco.ch
+0 2 1 68034 1 1467540759
+/
+pd9524407.dip0.t-ipconnect.de
+0 81 78 2691684 1 1469132395
+/
+31.13.109.120
+0 2 2 33772 0 0
+-
+179.108.152.93
+0 37 37 835994 1 1469568205
+/
+193.101.220.55
+0 123 122 3644690 1 1467886640
+/
+websnapr.com
+0 47 47 1102674 1 1467589790
+/
+176.0.21.51
+0 65 61 2083106 2 1467730904
+/
+ip-94-114-242-22.unity-media.net
+0 2 1 89028 1 1469979774
+/
+hsi-kbw-046-005-000-094.hsi8.kabel-badenwuerttemberg.de
+0 63 63 2337112 1 1468958538
+/
+cato.cup.uni-muenchen.de
+0 67 66 2477201 1 1468505051
+/
+89.204.138.120
+0 42 42 892355 1 1468604243
+/
+google-proxy-66-102-9-5.google.com
+0 37 37 682532 8 1469756863
+/
+x4e34b195.dyn.telefonica.de
+0 77 77 2570306 1 1469639316
+/
+66.220.146.21
+0 2 2 28062 1 1468095424
+/
+ipb913c5dc.fixed.kabel-deutschland.de
+0 48 47 1093319 1 1468580476
+/
+ppp-46-244-164-232.dynamic.mnet-online.de
+0 5 3 43500 1 1468407289
+/
+177.134.20.112.dynamic.adsl.gvt.net.br
+0 42 42 1277868 1 1468588633
+/
+p3e9b8105.dip0.t-ipconnect.de
+0 1 1 11508 1 1468050087
+/
+82.113.113.80
+0 67 63 2327780 2 1468494045
+/
+p5b3410ca.dip0.t-ipconnect.de
+0 85 84 2655531 1 1468583805
+/
+baiduspider-180-76-15-24.crawl.baidu.com
+0 1 1 11508 1 1468626235
+/
+69.63.188.116
+0 1 1 16554 0 0
+-
+p57a3bbc9.dip0.t-ipconnect.de
+0 86 85 2630794 1 1467643135
+/
+195.chalmersinnovation.com
+0 2 1 11696 1 1468552728
+/
+ip-37-24-219-116.hsi14.unitymediagroup.de
+0 81 81 2599456 1 1467895118
+/
+aftr-185-17-207-77.dynamic.mnet-online.de
+0 111 107 3388192 3 1468367530
+/
+tmo-114-128.customers.d1-online.com
+0 42 42 907083 1 1469961137
+/
+ip5f5ac549.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467965487
+/
+ec2-54-186-189-120.us-west-2.compute.amazonaws.com
+0 1 0 214 1 1467831071
+-
+dslb-092-077-045-006.092.077.pools.vodafone-ip.de
+0 1 1 11508 1 1467888365
+/
+crawl-66-249-65-58.googlebot.com
+0 3 2 23204 3 1469085636
+/
+173.252.88.84
+0 3 3 49662 0 0
+-
+google-proxy-66-249-93-112.google.com
+0 203 203 3851444 27 1469983817
+/
+baiduspider-180-76-15-27.crawl.baidu.com
+0 3 1 11884 3 1468762168
+/
+173.252.90.127
+0 1 1 16554 0 0
+-
+ny-linux-3.browsershot.info
+0 425 425 14192010 1 1467667471
+/
+customer-201-141-202-59.cablevision.net.mx
+0 1 1 11508 1 1467937770
+/
+baiduspider-180-76-15-150.crawl.baidu.com
+0 2 2 85745 0 0
+-
+194.138.39.98
+0 63 63 2314751 1 1468503061
+/
+baiduspider-180-76-15-135.crawl.baidu.com
+0 3 1 80692 1 1467930582
+/
+baiduspider-220-181-108-85.crawl.baidu.com
+0 1 1 11564 1 1467506864
+/
+p508afba0.dip0.t-ipconnect.de
+0 60 59 2283365 1 1468662219
+/
+mail.sbs-gmbh.de
+0 93 92 3133901 2 1468857752
+/
+x5ce2f8bd.dyn.telefonica.de
+0 59 59 2312421 1 1467579135
+/
+173.252.90.242
+0 5 5 82770 0 0
+-
+246.26.157.77.rev.sfr.net
+0 1 1 11508 1 1467908898
+/
+173.252.120.121
+0 1 1 16554 0 0
+-
+dr-wolfe.w3.org
+0 5 4 45610 1 1467481201
+/
+ppp-58-8-152-121.revip2.asianet.co.th
+0 1 1 11508 1 1467902985
+/
+115.28.111.201
+0 1 1 11508 1 1469942047
+/
+baiduspider-180-76-15-17.crawl.baidu.com
+0 1 1 566 0 0
+-
+185.120.125.123
+0 70 68 2398298 1 1468439151
+/
+ip5f5be869.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467912641
+/
+173.252.123.141
+0 1 1 16554 0 0
+-
+dsl-46-7.bl26.telepac.pt
+0 1 1 11508 1 1467889716
+/
+aftr-185-17-207-17.dynamic.mnet-online.de
+0 63 60 2294873 2 1467829174
+/
+ip5f5821b8.dynamic.kabel-deutschland.de
+0 84 84 1814166 1 1467962540
+/
+195.200.70.43
+0 46 46 1081264 1 1469553431
+/
+31.13.102.117
+0 18 16 184547 12 1469129596
+/
+ppp-62-216-209-61.dynamic.mnet-online.de
+0 65 65 2454630 1 1468837912
+/
+baiduspider-180-76-15-12.crawl.baidu.com
+0 1 1 11508 1 1467997963
+/
+x590f5073.dyn.telefonica.de
+0 136 120 3422041 2 1467398882
+/
+194.187.170.103
+0 1 1 11508 1 1469541147
+/
+ip5f5be89e.dynamic.kabel-deutschland.de
+0 67 66 2485586 1 1468086722
+/
+ppp-62-216-208-31.dynamic.mnet-online.de
+0 3 1 1530 0 0
+-
+mwg47.bayern.de
+0 48 47 1078591 1 1468327380
+/
+mon75-h08-89-87-126-115.dsl.sta.abo.bbox.fr
+0 191 173 5135162 7 1469884389
+/
+82.113.121.201
+0 60 59 2283365 1 1468511725
+/
+aftr-185-17-205-194.dynamic.mnet-online.de
+0 1 1 11508 1 1468447262
+/
+ec2-79-125-19-177.eu-west-1.compute.amazonaws.com
+0 236 236 7654625 1 1467668505
+/
+net-188-216-15-213.cust.vodafonedsl.it
+0 1 1 11508 1 1467937733
+/
+host.colocrossing.com
+0 1116 1116 36505236 1 1467667936
+/
+173.252.90.83
+0 1 1 71039 0 0
+-
+b118806.yse.yahoo.net
+0 4 4 23758 2 1469725547
+/
+173.252.90.111
+0 1 1 16554 0 0
+-
+tmo-097-81.customers.d1-online.com
+0 61 61 2312233 1 1468591816
+/
+baiduspider-180-76-15-10.crawl.baidu.com
+0 1 1 11508 1 1469509446
+/
+ip5f5bed59.dynamic.kabel-deutschland.de
+0 168 164 4779900 3 1468866735
+/
+host-62-245-234-12.customer.m-online.net
+0 65 64 2469413 1 1468574422
+/
+dslb-188-108-091-186.188.108.pools.vodafone-ip.de
+0 1 1 11508 1 1467926356
+/
+66.220.156.118
+0 1 1 16554 0 0
+-
+216.163.188.237
+0 1 1 66954 1 1468229384
+/
+x4d0bbc7c.dyn.telefonica.de
+0 1 1 11508 1 1467937340
+/
+31.13.97.96
+0 1 1 11508 1 1468569856
+/
+bl12-121-152.dsl.telepac.pt
+0 2 2 23016 1 1467906192
+/
+ip5f5be982.dynamic.kabel-deutschland.de
+0 62 61 2320742 1 1468018701
+/
+ec2-54-227-142-39.compute-1.amazonaws.com
+0 1 1 61638 1 1467377162
+/
+190.234.105.68
+0 76 75 2431872 1 1468209362
+/
+xd5279b27.dyn.telefonica.de
+0 62 61 1579480 2 1467584558
+/
+host-82-135-44-74.customer.m-online.net
+0 112 111 3533088 2 1469451794
+/
+69.63.188.118
+0 2 2 33108 0 0
+-
+69.63.188.207
+0 3 3 49662 0 0
+-
+91.239.20.5
+0 52 50 11628473 1 1468326485
+/
+81.193.20.140
+0 41 41 964470 1 1469671340
+/
+crawl-66-249-64-132.googlebot.com
+0 5 5 44330 3 1469449118
+/
+p54988780.dip0.t-ipconnect.de
+0 48 47 1078591 1 1468709075
+/
+ip-109-43-3-190.web.vodafone.de
+0 63 63 2297082 1 1468446453
+/
+bl10-211-66.dsl.telepac.pt
+0 1 0 22074 1 1469965756
+-
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 0 247 0 0
+-
+ipbcc3b4f9.dynamic.kabel-deutschland.de
+0 91 83 2476211 1 1467732694
+/
+69.63.188.109
+0 3 3 49662 0 0
+-
+p5b226c6c.dip0.t-ipconnect.de
+0 127 126 3648986 1 1469096523
+/
+208.115.113.93
+0 1 0 228 1 1469055776
+/
+x4d03b930.dyn.telefonica.de
+0 1 1 11508 1 1467910810
+/
+crawl-66-249-79-137.googlebot.com
+0 2 0 409 1 1468433394
+/
+176.4.30.250
+0 1 1 11508 1 1467898615
+/
+173.252.88.94
+0 5 5 137255 0 0
+-
+google-proxy-66-249-83-224.google.com
+0 37 37 773053 9 1469958981
+/
+69.171.230.118
+0 1 1 16554 0 0
+-
+dslb-188-104-251-081.188.104.pools.vodafone-ip.de
+0 120 119 4511515 2 1467843894
+/
+google-proxy-66-102-8-128.google.com
+0 15 15 241647 1 1468900675
+/
+x5d868a65.dyn.telefonica.de
+0 62 61 2309489 1 1468798977
+/
+109-93-102-161.dynamic.isp.telekom.rs
+0 1 0 22074 1 1469920987
+-
+69.171.230.108
+0 3 3 49662 0 0
+-
+tmo-096-70.customers.d1-online.com
+0 46 46 1092005 1 1468522616
+/
+46.128.201.139.dynamic.cablesurf.de
+0 293 281 16389352 3 1469014896
+/
+p57873eec.dip0.t-ipconnect.de
+0 1 1 11508 1 1468168967
+/
+aftr-88-217-180-51.dynamic.mnet-online.de
+0 1 1 34772 0 0
+-
+x4e3342ac.dyn.telefonica.de
+0 1 1 11508 1 1467915120
+/
+p5799c498.dip0.t-ipconnect.de
+0 1 1 11508 1 1467932039
+/
+cable-89-216-25-24.static.sbb.rs
+0 1 1 11508 1 1467892547
+/
+46.246.227.135.dsl.dyn.forthnet.gr
+0 1 1 4687 0 0
+-
+mumm.psych.mpg.de
+0 82 80 2685047 1 1468262357
+/
+tmo-114-64.customers.d1-online.com
+0 56 56 2062390 1 1468590492
+/
+baiduspider-220-181-108-177.crawl.baidu.com
+0 1 1 11508 1 1467710745
+/
+66.220.145.243
+0 8 7 236116 1 1468549641
+/
+tmo-115-44.customers.d1-online.com
+0 1 1 34772 0 0
+-
+053db899.dynamic.tele-ag.de
+0 1 1 11508 1 1467905487
+/
+69.171.230.112
+0 2 2 33108 0 0
+-
+google-proxy-66-249-83-216.google.com
+0 34 34 898290 7 1469870388
+/
+66.220.146.28
+0 5 5 67632 3 1469728655
+/
+static.6.108.4.46.clients.your-server.de
+0 1078 1070 29305731 7 1468933826
+/
+gigcommunications.com
+0 1 0 210 1 1467613662
+-
+31.13.110.108
+0 1 1 11508 1 1468144858
+/
+pd9e2f9f2.dip0.t-ipconnect.de
+0 67 66 2477201 1 1468801343
+/
+ppp-88-217-50-179.dynamic.mnet-online.de
+0 4 4 53300 0 0
+-
+google-proxy-66-249-93-116.google.com
+0 111 111 2289038 14 1469910841
+/
+188.212.192.31
+0 2 1 89028 1 1469984949
+/
+200-97-193-176.user.veloxzone.com.br
+0 29 29 975789 1 1468294825
+/
+x5d87bc7f.dyn.telefonica.de
+0 64 63 2468287 1 1468533602
+/
+212-186-26-186.cable.dynamic.surfer.at
+0 1 1 11508 1 1467885766
+/
+ip5f5be946.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1468146299
+/
+46.128.44.137.dynamic.cablesurf.de
+0 1 1 11508 1 1468449762
+/
+crawl-66-249-66-152.googlebot.com
+0 16 14 3370623 10 1469353041
+-
+static.207.94.9.5.clients.your-server.de
+0 4 4 4905844 1 1468132977
+/
+ip-2-201-2-43.web.vodafone.de
+0 53 52 1578308 1 1468436820
+/
+x5ce2b1a3.dyn.telefonica.de
+0 1 1 11508 1 1467932113
+/
+173.252.123.128
+0 2 2 142078 0 0
+-
+69.58.178.57
+0 4 2 134364 1 1468644800
+/
+173.252.88.91
+0 1 1 16554 0 0
+-
+109.233.156.56
+0 1 1 11508 1 1467746207
+/
+194-166-145-63.adsl.highway.telekom.at
+0 77 76 2556122 1 1467845221
+/
+h-213.61.177.114.host.de.colt.net
+0 70 68 2567488 2 1468410614
+/
+xdsl-87-79-230-208.netcologne.de
+0 47 47 1078403 1 1468867750
+/
+aftr-88-217-181-232.dynamic.mnet-online.de
+0 61 60 2269763 1 1468783558
+/
+crawl-66-249-79-144.googlebot.com
+0 4 0 752 4 1468609912
+/
+aftr-37-201-243-226.unity-media.net
+0 1 1 11508 1 1467918639
+/
+78.90.162.45
+0 1 0 22074 1 1469833118
+-
+x4e37b3cd.dyn.telefonica.de
+0 1 1 11508 1 1467915566
+/
+31.13.97.107
+0 1 1 11508 1 1469498266
+/
+crawl-66-249-79-139.googlebot.com
+0 2 0 376 2 1468665225
+/
+p5b3c33f3.dip0.t-ipconnect.de
+0 155 150 4929648 1 1467489109
+/
+31.13.102.98
+0 17 16 189373 11 1469876061
+/
+aftr-95-222-29-220.unity-media.net
+0 1 1 11508 1 1467978047
+/
+dr-foster.w3.org
+0 9 8 465893 2 1467668519
+/
+31.13.102.97
+0 11 9 104027 9 1469554502
+/
+x590f8df9.dyn.telefonica.de
+0 81 76 2541394 1 1468074021
+/
+hsi-kbw-078-043-194-103.hsi4.kabel-badenwuerttemberg.de
+0 1 1 11508 1 1467889214
+/
+dslb-088-067-060-084.088.067.pools.vodafone-ip.de
+0 66 65 2369444 1 1468404528
+/
+ppp-62-216-211-124.dynamic.mnet-online.de
+0 83 80 2664815 1 1468010128
+/
+173.252.74.99
+0 1 1 16554 0 0
+-
+ppp-62-216-213-176.dynamic.mnet-online.de
+0 125 125 3687825 1 1467899103
+/
+198-46-157-246-host.colocrossing.com
+0 459 459 15063372 1 1467667388
+/
+123.206.65.114
+0 2 1 11696 1 1468041481
+/
+137.101.129.63
+0 1 1 11508 1 1467917148
+/
+69.171.230.98
+0 2 2 33108 0 0
+-
+x55b003ff.dyn.telefonica.de
+0 1 1 11508 1 1467899500
+/
+104.111.2.190.ros.express.com.ar
+0 1 1 11508 1 1467901712
+/
+ip-179.127.46.221.planaltonet.net.br
+0 1 1 11508 1 1469729817
+/
+baiduspider-220-181-108-153.crawl.baidu.com
+0 1 1 11508 1 1467992564
+/
+baiduspider-180-76-15-34.crawl.baidu.com
+0 2 2 91810 1 1467930583
+/
+baiduspider-180-76-15-33.crawl.baidu.com
+0 1 1 80302 0 0
+-
+31.13.102.118
+0 9 9 108618 8 1469039695
+/
+22.15.14.109.rev.sfr.net
+0 76 75 2554996 1 1468519762
+/
+x4e3138dc.dyn.telefonica.de
+0 816 305 8794068 3 1467675064
+/
+baiduspider-123-125-71-21.crawl.baidu.com
+0 1 1 1199 0 0
+-
+static.6.112.9.5.clients.your-server.de
+0 4 4 4905844 1 1468696761
+/
+host123-2.natpool.mwn.de
+0 204 150 5055987 2 1467640479
+/
+pennycandy.w3.org
+0 2 2 23370 1 1467668519
+/
+p5498eb75.dip0.t-ipconnect.de
+0 78 77 2541527 1 1468602837
+/
+103.212.159.134
+0 1 0 22074 1 1469891840
+-
+ip-84-203-86-19.broadband.digiweb.ie
+0 1 0 22074 1 1469985356
+-
+host-62-245-244-242.customer.m-online.net
+0 110 110 3109740 1 1468503120
+/
+crawl-66-249-78-23.googlebot.com
+0 12 0 2384 8 1469880382
+/
+crawl-66-249-75-143.googlebot.com
+0 2 0 428 1 1467995864
+-
+mx-ll-223.205.244-2.dynamic.3bb.co.th
+0 2 1 89028 1 1469863971
+/
+b1239c1a.virtua.com.br
+0 41 41 964470 1 1469318385
+/
+a109-49-38-100.cpe.netcabo.pt
+0 41 41 964470 1 1468970034
+/
+69.63.188.199
+0 1 1 16554 0 0
+-
+baiduspider-123-125-71-43.crawl.baidu.com
+0 2 2 133600 1 1468643857
+/
+pd9fe8e1b.dip0.t-ipconnect.de
+0 47 47 1078403 1 1468446428
+/
+alyon-256-1-140-94.w90-14.abo.wanadoo.fr
+0 1 1 11508 1 1467887752
+/
+89-78-212-231.dynamic.chello.pl
+0 1 1 11508 1 1467968574
+/
+ip4d17610e.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467886211
+/
+69.171.230.96
+0 1 1 16554 0 0
+-
+173.252.90.232
+0 1 1 16554 0 0
+-
+static.19.120.40.188.clients.your-server.de
+0 1 1 66954 1 1469071508
+/
+x55b5841f.dyn.telefonica.de
+0 1 1 11508 1 1468034330
+/
+69.63.188.219
+0 3 3 49662 0 0
+-
+xd5279cea.dyn.telefonica.de
+0 19 2 23016 2 1468625176
+/
+46.128.251.58.dynamic.cablesurf.de
+0 65 64 2454685 1 1468753082
+/
+p5792d7fe.dip0.t-ipconnect.de
+0 47 47 919617 1 1468455507
+/
+aftr-109-91-38-165.unity-media.net
+0 55 55 994918 1 1469003918
+/
+ppp-46-244-179-83.dynamic.mnet-online.de
+0 75 75 2598624 1 1468349117
+/
+190.123.101.73
+0 22 22 396624 1 1469404777
+/
+baiduspider-123-125-71-26.crawl.baidu.com
+0 1 1 9005 0 0
+-
+p5b22783f.dip0.t-ipconnect.de
+0 77 76 2541394 1 1468911812
+/
+dr-crab.w3.org
+0 4 4 232130 1 1467498419
+/
+7.3.127.75.host.nwnx.net
+0 463 462 15427392 1 1467667894
+/
+ec2-54-152-5-170.compute-1.amazonaws.com
+0 1 1 4687 0 0
+-
+89.204.135.45
+0 33 33 710469 1 1468516616
+/
+p4fcb4551.dip0.t-ipconnect.de
+0 68 66 2491874 1 1468045400
+/
+dslb-088-076-231-189.088.076.pools.vodafone-ip.de
+0 57 56 1858657 1 1468075576
+/
+ip5f5ad1cf.dynamic.kabel-deutschland.de
+0 67 67 2483070 1 1467949349
+/
+google-proxy-66-249-84-237.google.com
+0 5 5 26394 2 1468595491
+/
+webprx2.audi.de
+0 105 100 3193538 2 1468434896
+/
+dslb-188-110-175-100.188.110.pools.vodafone-ip.de
+0 68 67 2503437 1 1468440130
+/
+55d41328.access.ecotel.net
+0 77 76 2556122 1 1467898579
+/
+ec2-79-125-11-60.eu-west-1.compute.amazonaws.com
+0 55 55 1893327 1 1469562068
+/
+ip5f5ad137.dynamic.kabel-deutschland.de
+0 64 64 2454497 1 1468531974
+/
+pd9fa3ba8.dip0.t-ipconnect.de
+0 76 75 2383979 1 1468369897
+/
+31.13.97.120
+0 1 1 11508 1 1468290481
+/
+31.13.113.85
+0 1 1 11508 1 1467883827
+/
+baiduspider-180-76-15-138.crawl.baidu.com
+0 1 1 80302 0 0
+-
+173.252.90.244
+0 3 3 49662 0 0
+-
+1.32.77.118
+0 27 27 594489 1 1468380665
+/
+104.130.72.188
+0 47 47 1077483 1 1467676380
+/
+ec2-52-91-72-85.compute-1.amazonaws.com
+0 1 1 11508 1 1468432523
+/
+bl20-151-226.dsl.telepac.pt
+0 40 40 963060 1 1468418835
+/
+gw.mecom.cz
+0 1 1 11508 1 1467889145
+/
+p50896df0.dip0.t-ipconnect.de
+0 96 93 2835123 1 1468497892
+/
+ppp-62-216-213-13.dynamic.mnet-online.de
+0 71 71 2555992 1 1467827158
+/
+173.252.123.147
+0 2 1 16742 1 1469667548
+/
+212.77.163.110
+0 67 66 2482626 1 1468398495
+/
+ppp-82-135-76-168.dynamic.mnet-online.de
+0 82 82 2779720 1 1468057367
+/
+hsi-kbw-109-192-098-153.hsi6.kabel-badenwuerttemberg.de
+0 1 1 11508 1 1467953207
+/
+195.160.160.19
+0 65 64 2457679 1 1468675553
+/
+msnbot-157-56-2-202.search.msn.com
+0 1 1 11508 1 1468776142
+/
+43-186-103-86.dynamic.dsl.tng.de
+0 1 1 11508 1 1467902188
+/
+173.208.177.59
+0 8 4 62679 8 1469571474
+-
+google-proxy-66-102-9-96.google.com
+0 2 2 12634 1 1469857587
+/
+187.58.111.119.static.host.gvt.net.br
+0 28 28 584003 1 1469154861
+/
+ipbcc3aa5e.dynamic.kabel-deutschland.de
+0 50 47 938230 2 1468273545
+/
+baiduspider-123-125-71-53.crawl.baidu.com
+0 1 0 259 0 0
+-
+ip5f5ac01e.dynamic.kabel-deutschland.de
+0 110 109 4113245 1 1468622364
+/
+208.91.115.10
+0 18 18 266733 2 1467906188
+/
+ipbcc389b9.dynamic.kabel-deutschland.de
+0 45 44 1037943 1 1468704200
+/
+b1239888.virtua.com.br
+0 41 41 964470 1 1469663672
+/
+x590f88f2.dyn.telefonica.de
+0 6 2 23016 2 1468145178
+/
+ns352473.ovh.net
+0 1 1 11508 1 1467995667
+/
+p5b22611e.dip0.t-ipconnect.de
+0 48 37 2033246 1 1468459317
+/
+173.252.90.239
+0 3 3 49662 0 0
+-
+host47-2.natpool.mwn.de
+0 55 54 1877273 1 1468530657
+/
+202.46.54.138
+0 1 1 4363 0 0
+-
+baiduspider-180-76-15-141.crawl.baidu.com
+0 1 0 196 0 0
+-
+200151093230.userdial.telemar.net.br
+0 22 22 396624 1 1469021389
+/
+pd9f672f7.dip0.t-ipconnect.de
+0 1 1 11508 1 1467927613
+/
+66.220.156.123
+0 1 1 16554 0 0
+-
+ppp-62-216-210-70.dynamic.mnet-online.de
+0 19 18 376454 1 1468256717
+/
+c5-web2.1080.proio.com
+0 4 3 34880 1 1467589786
+/
+ppp-62-216-208-85.dynamic.mnet-online.de
+0 143 142 4035846 1 1468771587
+/
+dslb-088-064-068-097.088.064.pools.vodafone-ip.de
+0 66 65 2459676 1 1468520280
+/
+google-proxy-66-249-82-231.google.com
+0 1 1 11508 1 1468841938
+/
+wwwb-app4.us.archive.org
+0 3 2 104615 3 1467659595
+/
+host7-2.natpool.mwn.de
+0 73 72 2653311 1 1467839246
+/
+186.213.22.80.static.host.gvt.net.br
+0 58 58 1960904 1 1468494732
+/
+p5b298ca5.dip0.t-ipconnect.de
+0 76 76 2513606 1 1467420913
+/
+78-22-124-202.access.telenet.be
+0 1 1 11508 1 1467890692
+/
+baiduspider-220-181-108-78.crawl.baidu.com
+0 1 0 188 1 1469709082
+/
+crawl-66-249-78-9.googlebot.com
+0 5 0 940 5 1469725577
+/
+ruessel.stusta.mhn.de
+0 107 101 3145307 3 1468775533
+/
+wwwb-app10.us.archive.org
+0 1 1 59712 1 1467476029
+/
+aftr-185-17-204-90.dynamic.mnet-online.de
+0 83 81 2726945 1 1468514694
+/
+86.123.244.221
+0 31 15 3981187 1 1469602943
+-
+150-70-173-52.trendmicro.com
+0 1 0 215 0 0
+-
+svproxy1.msh.de
+0 67 67 2469524 1 1467730877
+/
+p54ba894e.dip0.t-ipconnect.de
+0 78 75 2510308 1 1468515271
+/
+b110139.yse.yahoo.net
+0 1 0 188 1 1468141782
+/
+ppp-62-216-208-142.dynamic.mnet-online.de
+0 80 79 5560531 1 1468341777
+/
+aftr-185-17-205-148.dynamic.mnet-online.de
+0 130 128 4773726 2 1468397922
+/
+lnx-sa-firefox1.sblo.ch
+0 298 298 9514711 1 1467667313
+/
+x4e307b85.dyn.telefonica.de
+0 78 78 2572107 1 1467836883
+/
+tmo-102-104.customers.d1-online.com
+0 93 90 2950356 3 1469211635
+/
+x4e330cc5.dyn.telefonica.de
+0 44 44 898472 1 1469398303
+/
+173.252.74.118
+0 2 2 33108 0 0
+-
+66.220.158.109
+0 1 1 16554 0 0
+-
+tmo-097-183.customers.d1-online.com
+0 6 3 39758 1 1468517077
+/
+crawl-66-249-64-181.googlebot.com
+0 3 0 564 3 1469450870
+/
+p5dcd6634.dip0.t-ipconnect.de
+0 104 103 3225304 2 1468946462
+/
+69.63.188.126
+0 2 2 33108 0 0
+-
+baiduspider-180-76-15-23.crawl.baidu.com
+0 2 1 4551 1 1468425316
+/
+212.184.82.18
+0 84 81 2677482 1 1468496224
+/
+x4dba1661.dyn.telefonica.de
+0 75 74 2436651 1 1469568859
+/
+dslb-178-008-164-144.178.008.pools.vodafone-ip.de
+0 1 1 11508 1 1467968276
+/
+aftr-88-217-181-57.dynamic.mnet-online.de
+0 2 2 18560 0 0
+-
+net-93-70-148-217.cust.vodafonedsl.it
+0 2 1 29896 0 0
+-
+baiduspider-180-76-15-22.crawl.baidu.com
+0 1 1 11508 1 1469702770
+/
+p5799fe8e.dip0.t-ipconnect.de
+0 67 67 2484436 1 1468414218
+/
+p5dcbf787.dip0.t-ipconnect.de
+0 51 48 1104827 1 1468226007
+/
+google-proxy-66-249-84-228.google.com
+0 17 17 102198 8 1469850818
+/
+bb439ac6.virtua.com.br
+0 29 29 620291 1 1468527213
+/
+ip-217-103-221-34.ip.prioritytelecom.net
+0 281 267 8422239 3 1469809478
+/
+ppp-62-216-214-66.dynamic.mnet-online.de
+0 48 47 1093319 1 1468339281
+/
+194.123.154.104.bc.googleusercontent.com
+0 2 1 80523 0 0
+-
+x4e301e26.dyn.telefonica.de
+0 8 1 11696 1 1468716936
+/
+crawl-66-249-75-66.googlebot.com
+0 1 0 188 1 1469231148
+/
+not.googlebot.com.clients.your-server.de
+0 1 1 11508 1 1468160844
+/
+198.101.238.203
+0 1 1 10890 1 1467345057
+/
+p5089530d.dip0.t-ipconnect.de
+0 66 65 2454818 1 1468520183
+/
+31.13.102.111
+0 25 22 253807 18 1469039713
+/
+x590f0b7d.dyn.telefonica.de
+0 107 106 3094403 1 1468766450
+/
+ip5f5beb5e.dynamic.kabel-deutschland.de
+0 85 84 2677744 1 1468418797
+/
+dslb-178-002-136-156.178.002.pools.vodafone-ip.de
+0 1 1 34772 0 0
+-
+pd9fbe81b.dip0.t-ipconnect.de
+0 85 78 2589896 1 1468611310
+/
+p50999983.dip0.t-ipconnect.de
+0 81 77 2538261 1 1467397612
+/
+ip5f59c92a.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467966604
+/
+69.63.188.220
+0 3 3 49662 0 0
+-
+p5b3522b9.dip0.t-ipconnect.de
+0 112 111 3383682 1 1468331755
+/
+baiduspider-123-125-71-84.crawl.baidu.com
+0 1 1 11508 1 1469498762
+/
+baiduspider-180-76-15-136.crawl.baidu.com
+0 2 1 20083 0 0
+-
+89.204.135.104
+0 60 60 2322616 1 1468525131
+/
+31.13.109.118
+0 3 3 4479 0 0
+-
+p5b3ff8e1.dip0.t-ipconnect.de
+0 77 76 2495970 1 1467647116
+/
+ppp-82-135-90-171.dynamic.mnet-online.de
+0 82 80 2864829 1 1468854471
+/
+baiduspider-123-125-71-58.crawl.baidu.com
+0 1 1 1038 0 0
+-
+host-212-114-217-170.customer.m-online.net
+0 59 59 1917041 1 1468487547
+/
+173.252.90.102
+0 1 1 16554 0 0
+-
+xdsl-195-14-207-56.netcologne.de
+0 77 77 2541339 1 1467975340
+/
+google-proxy-66-249-81-184.google.com
+0 9 9 77182 2 1469558959
+/
+server01.marcobeierer.com
+0 27 26 32886 1 1467472466
+/
+74.91.26.114
+0 2 1 11696 1 1467984835
+/
+xd527e669.dyn.telefonica.de
+0 3 1 11508 1 1468488395
+/
+dsl-201-153-226-7-dyn.prod-infinitum.com.mx
+0 41 41 964470 1 1468389468
+/
+crawl-66-249-75-56.googlebot.com
+0 1 0 188 1 1469241041
+/
+66.220.146.23
+0 3 3 39570 2 1469799466
+/
+x4e307f95.dyn.telefonica.de
+0 2 2 28062 1 1467913195
+/
+ec2-52-91-184-228.compute-1.amazonaws.com
+0 2 2 18560 0 0
+-
+173.252.74.119
+0 1 1 16554 0 0
+-
+ppp-62-216-211-21.dynamic.mnet-online.de
+0 175 173 5758324 2 1468368072
+/
+31.13.102.106
+0 16 16 184128 11 1469876047
+/
+194.187.170.115
+0 1 1 11508 1 1467925463
+/
+176.4.136.189
+0 101 101 3190260 2 1468535588
+/
+31.13.113.67
+0 1 1 11508 1 1467883840
+/
+89.204.139.68
+0 61 61 2274566 1 1468254191
+/
+wwwb-app16.us.archive.org
+0 1 1 21591 1 1467466025
+/
+p5499c6ae.dip0.t-ipconnect.de
+0 64 61 2274754 1 1468188186
+/
+ppp-46-244-214-88.dynamic.mnet-online.de
+0 120 81 2570767 1 1467715777
+/
+tmo-096-176.customers.d1-online.com
+0 82 77 2424356 1 1468966600
+/
+x5ce30e61.dyn.telefonica.de
+0 48 47 1078591 1 1468187037
+/
+173.252.88.181
+0 1 1 16554 0 0
+-
+x590fe66d.dyn.telefonica.de
+0 44 44 910215 1 1468447732
+/
+p5dcbca8b.dip0.t-ipconnect.de
+0 46 46 1874239 0 0
+-
+p54ba2833.dip0.t-ipconnect.de
+0 1 1 11508 1 1467928378
+/
+31.13.102.107
+0 15 15 172620 13 1469894670
+/
+p54a76907.dip0.t-ipconnect.de
+0 17 1 11696 1 1468694394
+/
+173.252.90.237
+0 8 8 132432 0 0
+-
+80-110-105-1.cgn.dynamic.surfer.at
+0 47 47 1093131 1 1468234152
+/
+ipb21b567c.dynamic.kabel-deutschland.de
+0 550 517 20298927 13 1468767829
+/
+p5b047daa.dip0.t-ipconnect.de
+0 84 83 2616241 1 1467633104
+/
+www.whois.sc
+0 2 1 11696 1 1468648247
+/
+194.187.170.110
+0 1 1 80302 0 0
+-
+x55b509b2.dyn.telefonica.de
+0 122 121 3647001 1 1469577522
+/
+173.252.74.111
+0 1 1 16554 0 0
+-
+66.220.158.114
+0 2 2 33108 0 0
+-
+google-proxy-66-249-93-78.google.com
+0 7 3 23658 6 1468525039
+/
+189-12-5-189.user.veloxzone.com.br
+0 38 38 916075 1 1469028578
+/
+66.220.158.117
+0 2 2 33108 0 0
+-
+0x667.crypt.gy
+0 1 1 66954 1 1468364591
+/
+p5798b010.dip0.t-ipconnect.de
+0 79 79 2567463 1 1469975148
+/
+31.13.102.102
+0 17 15 173078 12 1469039692
+/
+ool-ad02d1b4.dyn.optonline.net
+0 74 73 2398514 1 1467994457
+/
+msnbot-157-55-39-241.search.msn.com
+0 1 1 11321 1 1467476904
+/
+ec2-54-243-19-197.compute-1.amazonaws.com
+0 1 1 16554 0 0
+-
+213.226.167.187
+0 1 1 11508 1 1467901514
+/
+36.45.160.241
+0 8 8 632495 1 1469895302
+/
+h-213.61.76.250.host.de.colt.net
+0 65 64 2454685 1 1468430258
+/
+host86-187-170-5.range86-187.btcentralplus.com
+0 2 1 89028 1 1469722344
+/
+baiduspider-180-76-15-18.crawl.baidu.com
+0 2 1 11729 1 1469745577
+/
+173.252.90.246
+0 4 4 175186 0 0
+-
+ppp-82-135-64-241.dynamic.mnet-online.de
+0 80 79 7943321 1 1467726319
+/
+81-229-228-180-no79.tbcn.telia.com
+0 1 0 22074 1 1469662901
+-
+aftr-88-217-180-202.dynamic.mnet-online.de
+0 74 73 2399130 1 1468246218
+/
+69.63.188.123
+0 2 2 33108 0 0
+-
+173.252.88.88
+0 6 6 99324 0 0
+-
+x5ce3c54c.dyn.telefonica.de
+0 2 1 11696 1 1468615734
+/
+google-proxy-66-102-9-27.google.com
+0 52 52 1487409 12 1469997656
+/
+55d456a7.access.ecotel.net
+0 186 185 5719978 2 1468516874
+/
+hydrogen034.a.ahrefs.com
+0 1 0 188 1 1468707850
+/
+66.220.158.120
+0 1 1 16554 0 0
+-
+aftr-88-217-180-94.dynamic.mnet-online.de
+0 77 76 2531078 1 1467790310
+/
+pfsense.former03.de
+0 67 67 2492007 1 1468838376
+/
+aftr-185-17-206-159.dynamic.mnet-online.de
+0 10 8 155439 1 1468242654
+/
+ip-109-43-2-79.web.vodafone.de
+0 1 1 34772 0 0
+-
+31.13.97.108
+0 1 1 16554 0 0
+-
+ppp-46-244-164-204.dynamic.mnet-online.de
+0 80 79 2732430 1 1468583470
+/
+31.13.102.99
+0 12 10 115514 7 1468597965
+/
+ip5f5bef21.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1468151959
+/
+host201-2.natpool.mwn.de
+0 69 68 2458196 1 1468485659
+/
+ec2-54-152-142-210.compute-1.amazonaws.com
+0 10 6 69800 2 1468010539
+/
+ip-209-135-211-191.ragingwire.net
+0 1 0 228 1 1468233075
+/
+ipb21b1da6.dynamic.kabel-deutschland.de
+0 42 42 907083 1 1467889554
+/
+ip-2-201-2-106.web.vodafone.de
+0 272 184 5366572 5 1468536249
+/
+160-6-125-179.netvale.psi.br
+0 38 38 885127 1 1468372466
+/
+bl13-56-250.dsl.telepac.pt
+0 1 1 11508 1 1468448751
+/
+31.13.100.112
+0 3 3 10568 0 0
+-
+p57bd9bb0.dip0.t-ipconnect.de
+0 59 58 2221454 1 1468488729
+/
+p4febd4b1.dip0.t-ipconnect.de
+0 64 63 2453371 1 1469985546
+/
+ip-109-90-77-224.hsi11.unitymediagroup.de
+0 1 1 11508 1 1467889945
+/
+p5dd4d8a4.dip0.t-ipconnect.de
+0 76 75 2502325 1 1468533903
+/
+aftr-88-217-181-10.dynamic.mnet-online.de
+0 125 122 4117863 2 1468355086
+/
+173.252.90.245
+0 3 3 49662 0 0
+-
+ex-mail.hallhuber.de
+0 79 78 2514530 1 1467654522
+/
+x4e35176a.dyn.telefonica.de
+0 3 2 13514 1 1468056813
+/
+93-103-209-7.dynamic.t-2.net
+0 2677 2675 88355513 1 1467667934
+/
+p50802779.dip0.t-ipconnect.de
+0 65 64 2454685 1 1467916785
+/
+89.204.139.206
+0 41 40 867407 1 1468535475
+/
+crawl-66-249-79-203.googlebot.com
+0 3 3 34524 3 1468643714
+/
+atom-18.ip-projects.de
+0 1 1 10890 1 1467390290
+/
+89.204.153.69
+0 13 13 227890 1 1468663157
+/
+77.47.117.173.dynamic.cablesurf.de
+0 13 3 84927 2 1469563842
+/
+173.254.247.226.static.greencloudvps.com
+0 1 1 66954 1 1469740439
+/
+31.13.110.97
+0 1 1 16554 0 0
+-
+port-92-194-20-32.dynamic.qsc.de
+0 60 59 2283365 1 1468767554
+/
+google-proxy-66-102-6-64.google.com
+0 10 10 567702 0 0
+-
+krustofski.w3.org
+0 10 8 91035 5 1467668519
+/
+69.171.230.106
+0 1 1 16554 0 0
+-
+66.220.158.119
+0 2 2 33108 0 0
+-
+dslb-092-075-031-231.092.075.pools.vodafone-ip.de
+0 46 46 1091085 1 1467729805
+/
+ipb21b54d3.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1468034588
+/
+173.252.123.131
+0 2 2 87593 0 0
+-
+ppp-82-135-67-126.dynamic.mnet-online.de
+0 61 60 2269763 1 1468362082
+/
+gas45-1-82-232-223-37.fbx.proxad.net
+0 1 1 11508 1 1467907823
+/
+p3e9b96e1.dip0.t-ipconnect.de
+0 79 76 2407827 1 1468635125
+/
+lfbn-1-3315-127.w90-79.abo.wanadoo.fr
+0 1 1 11508 1 1467885974
+/
+141.84.8.57
+0 108 106 3277888 2 1468594719
+/
+baiduspider-180-76-15-139.crawl.baidu.com
+0 1 1 100336 0 0
+-
+tmo-096-251.customers.d1-online.com
+0 2 2 18560 0 0
+-
+pd954e1fb.dip0.t-ipconnect.de
+0 79 78 2572295 1 1468527361
+/
+66.184.90.146.dyn.plus.net
+0 1 1 66954 1 1469029613
+/
+catv-178-48-74-130.catv.broadband.hu
+0 2 1 11693 1 1467489724
+/
+194.187.170.113
+0 1 1 11508 1 1467897488
+/
+173.252.90.233
+0 7 7 170363 0 0
+-
+host57-2.natpool.mwn.de
+0 66 66 2480981 1 1467387342
+/
+seitenreport.de
+0 313 254 5229425 14 1469570514
+-
+192-69-218-234.static.webnx.com
+0 3 3 203784 2 1467676315
+/
+189-84-79-109.iconect.com.br
+0 16 16 208036 1 1469149600
+/
+msnbot-65-55-209-188.search.msn.com
+0 4 4 46032 1 1468776075
+/
+178.165.131.228.wireless.dyn.drei.com
+0 1 1 11508 1 1467896139
+/
+x590f8c6c.dyn.telefonica.de
+0 4 2 11386 1 1467338557
+/
+195.200.70.44
+0 218 183 24331315 2 1468595761
+/
+google-proxy-66-249-81-188.google.com
+0 14 14 150150 7 1469616482
+/
+ppp-62-216-213-46.dynamic.mnet-online.de
+0 1 0 202 0 0
+-
+ipb21b4561.dynamic.kabel-deutschland.de
+0 146 135 4026037 3 1468872431
+/
+178-191-60-181.adsl.highway.telekom.at
+0 1 1 11508 1 1467888698
+/
+p57a315ab.dip0.t-ipconnect.de
+0 80 79 2657605 1 1468319658
+/
+176.4.89.17
+0 9 9 112689 1 1468704338
+/
+66.220.156.105
+0 2 2 33108 0 0
+-
+88.234.226.110.dynamic.ttnet.com.tr
+0 1 1 11508 1 1467924064
+/
+ec2-52-201-245-203.compute-1.amazonaws.com
+0 47 45 5635580 1 1467501059
+/
+aftr-185-17-207-11.dynamic.mnet-online.de
+0 2 2 31391 1 1469402618
+/
+ipbcc35fb0.dynamic.kabel-deutschland.de
+0 1811 811 37774503 24 1469573868
+/
+crawl-66-249-75-244.googlebot.com
+0 1 1 11587 1 1467641691
+/
+81.196.243.251
+0 13 7 81684 2 1468691140
+/
+tmo-104-90.customers.d1-online.com
+0 1 1 34772 0 0
+-
+62.134.62.230
+0 280 278 11173812 2 1467883660
+/
+dslb-188-108-246-230.188.108.pools.vodafone-ip.de
+0 1 1 11508 1 1467963105
+/
+p5dd7b807.dip0.t-ipconnect.de
+0 136 133 4760704 1 1468432533
+/
+173.252.123.134
+0 1 1 71039 0 0
+-
+ip9234efac.dynamic.kabel-deutschland.de
+0 43 42 907271 1 1469023096
+/
+208-42-251-123.static.eng01.latisys.net
+0 2 2 23016 1 1468076866
+/
+200.80.226.10
+0 33 33 725210 1 1469148608
+/
+msnbot-157-55-39-253.search.msn.com
+0 1 1 11508 1 1469299084
+/
+p3e9b9396.dip0.t-ipconnect.de
+0 59 59 2283177 1 1468269832
+/
+179.182.167.2.dynamic.adsl.gvt.net.br
+0 39 39 947031 1 1468792791
+/
+wwwb-app7.us.archive.org
+0 2 1 66077 2 1467495233
+/
+194.187.170.105
+0 1 1 11508 1 1469641571
+/
+static.236.87.76.144.clients.your-server.de
+0 1473 1471 48269108 1 1467667715
+/
+ipbcc06a11.dynamic.kabel-deutschland.de
+0 25 25 485145 1 1467925856
+/
+69.171.230.104
+0 1 1 16554 0 0
+-
+173.252.88.85
+0 4 4 66216 0 0
+-
+69.63.188.103
+0 2 2 33108 0 0
+-
+pcoei00011.uni-regensburg.de
+0 67 66 2477201 1 1468362877
+/
+pd9fb0be5.dip0.t-ipconnect.de
+0 82 79 2570583 1 1468742650
+/
+pd95895f0.dip0.t-ipconnect.de
+0 208 201 6696589 3 1468278902
+/
+190.239.86.188
+0 63 61 2289294 1 1468459644
+/
+p54af7fba.dip0.t-ipconnect.de
+0 65 65 2503997 1 1467839908
+/
+google-proxy-66-102-9-16.google.com
+0 56 56 815878 16 1469953725
+/
+crawl-66-249-69-144.googlebot.com
+0 1 1 19883 0 0
+-
+ip-178-203-232-111.hsi10.unitymediagroup.de
+0 1 1 11508 1 1467890710
+/
+myhost05.chatforyou.info
+0 2 1 68034 1 1467542316
+/
+crawl-66-249-79-210.googlebot.com
+0 7 5 62573 5 1468653509
+/
+google-proxy-66-249-85-237.google.com
+0 13 13 76930 6 1468542412
+/
+176.0.124.91
+0 61 61 2274566 1 1468769678
+/
+crawl-66-249-66-190.googlebot.com
+0 13 6 25978 7 1469234489
+/
+baiduspider-123-125-71-19.crawl.baidu.com
+0 1 1 419938 0 0
+-
+tmo-103-129.customers.d1-online.com
+0 61 61 2314078 1 1468581878
+/
+69.171.230.103
+0 2 2 33108 0 0
+-
+baiduspider-123-125-71-20.crawl.baidu.com
+0 2 2 78462 2 1468532682
+/
+msnbot-207-46-13-189.search.msn.com
+0 1 0 188 1 1467915163
+/
+89.204.153.110
+0 1 1 11508 1 1467892681
+/
+rate-limited-proxy-66-249-91-72.google.com
+0 2 2 16251 1 1467635124
+/
+static.118.17.9.5.clients.your-server.de
+0 8 8 9811688 2 1469812310
+/
+dslb-094-218-049-073.094.218.pools.vodafone-ip.de
+0 67 67 2482983 1 1467838311
+/
+ppp-188-174-178-174.dynamic.mnet-online.de
+0 68 67 2451191 1 1467737400
+/
+baiduspider-220-181-108-77.crawl.baidu.com
+0 1 1 11508 1 1468266958
+/
+p54af42ce.dip0.t-ipconnect.de
+0 48 47 1078591 1 1467888999
+/
+crawl-66-249-79-131.googlebot.com
+0 1 0 188 1 1468458278
+/
+89.204.130.239
+0 3 0 0 0 0
+-
+c935fa8f.virtua.com.br
+0 41 41 964470 1 1468688284
+/
+x55b50125.dyn.telefonica.de
+0 3 3 27379 2 1468972118
+/
+tmo-098-144.customers.d1-online.com
+0 68 66 2162509 1 1468518184
+/
+baiduspider-220-181-108-185.crawl.baidu.com
+0 2 2 23016 2 1468202381
+/
+baiduspider-123-125-71-32.crawl.baidu.com
+0 1 1 23739 0 0
+-
+x590fa46d.dyn.telefonica.de
+0 178 135 5053971 2 1467768262
+/
+45.55.37.222
+0 2 1 11696 1 1468945020
+/
+176.4.21.241
+0 5 2 13702 1 1468675111
+/
+baiduspider-180-76-15-163.crawl.baidu.com
+0 1 0 221 0 0
+-
+31.13.100.114
+0 2 2 1716 0 0
+-
+schwifting.cip.ifi.lmu.de
+0 66 66 2455756 1 1468520576
+/
+p4fc8da56.dip0.t-ipconnect.de
+0 68 68 2495944 2 1469741762
+/
+x55b50bfc.dyn.telefonica.de
+0 1 1 11508 1 1469407711
+/
+no-reverse-dns-configured.com
+0 1 1 66954 1 1468667057
+/
+crawl-66-249-69-229.googlebot.com
+0 4 0 789 2 1468237015
+/
+b115456.yse.yahoo.net
+0 14 8 150435 3 1468285724
+/
+ip5f5bcbdb.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467929707
+/
+75-149-221-170-illinois.hfc.comcastbusiness.net
+0 1 1 66954 1 1468651159
+/
+82.113.99.249
+0 14 13 260971 1 1467634138
+/
+191-240-37-139.mal-wr.mastercabo.com
+0 41 41 964470 1 1468912994
+/
+31.13.110.99
+0 1 0 188 1 1468135204
+/
+66.220.158.100
+0 3 3 49662 0 0
+-
+dslb-088-073-123-184.088.073.pools.vodafone-ip.de
+0 1 1 11508 1 1467933399
+/
+dynamic-adsl-84-221-32-224.clienti.tiscali.it
+0 41 41 964470 1 1468311238
+/
+p5787cf56.dip0.t-ipconnect.de
+0 59 59 2283177 1 1468014380
+/
+host170-2.natpool.mwn.de
+0 1 1 11508 1 1469012606
+/
+109.125.105.51.dynamic.cablesurf.de
+0 93 92 3776862 1 1468526213
+/
+host-93-104-244-1.wireless.burda.com
+0 159 158 5146530 4 1468513426
+/
+ipb21a11f8.dynamic.kabel-deutschland.de
+0 74 73 2565706 1 1468588604
+/
+ipservice-047-068-058-027.pools.arcor-ip.net
+0 74 73 2553629 1 1468484970
+/
+chicago-linux-3.browsershot.info
+0 556 553 18172874 1 1467667351
+/
+66.220.156.113
+0 1 1 16554 0 0
+-
+host138-2.natpool.mwn.de
+0 482 477 15314716 7 1469132939
+/
+103.7.28.136
+0 2 1 4705200 0 0
+-
+66.220.146.25
+0 9 9 128802 3 1468792511
+/
+x5d82a99b.dyn.telefonica.de
+0 45 45 1073602 1 1467726872
+/
+crawl-66-249-69-135.googlebot.com
+0 6 6 7693327 3 1469271737
+/
+webprx1.audi.de
+0 135 109 3352623 5 1469461938
+-
+ip-109-43-3-174.web.vodafone.de
+0 81 81 2656104 1 1467929934
+/
+spool134-188.cable.tolna.net
+0 2 1 11696 1 1468003848
+/
+89.122.47.42
+0 71 71 2369886 1 1467886228
+/
+66.220.158.121
+0 1 1 16554 0 0
+-
+fw.suedostschweiz.ch
+0 76 76 2541206 1 1469195149
+/
+lapnavab10.informatik.tu-muenchen.de
+0 30 29 665834 1 1467974281
+/
+google-proxy-66-249-81-192.google.com
+0 9 9 77182 2 1469534346
+/
+ppp-188-174-190-20.dynamic.mnet-online.de
+0 33 32 688587 1 1469203136
+/
+bfb5b4b3.virtua.com.br
+0 41 41 964470 1 1469674761
+/
+188-143-82-124.pool.digikabel.hu
+0 2 1 11696 1 1469055929
+/
+77.47.80.17.dynamic.cablesurf.de
+0 313 200 6386730 7 1468360013
+/
+x5d8558c1.dyn.telefonica.de
+0 79 79 2563855 1 1467989837
+/
+host-80-81-12-92.static.customer.m-online.net
+0 65 64 2454685 1 1468523097
+/
+dslb-092-075-199-084.092.075.pools.vodafone-ip.de
+0 1 1 11508 1 1467963316
+/
+tmo-096-201.customers.d1-online.com
+0 20 15 309831 1 1469611513
+/
+de.metajob.de
+0 3 2 91998 2 1468546954
+/
+dslb-092-072-056-201.092.072.pools.vodafone-ip.de
+0 58 58 1178714 1 1467970543
+/
+89.204.130.11
+0 9 4 162346 1 1468483684
+/
+165-255-228-171.ip.adsl.co.za
+0 37 37 859429 1 1468915101
+/
+ip5f5beb7a.dynamic.kabel-deutschland.de
+0 13 4 65589 1 1468863125
+/
+crawl-66-249-79-217.googlebot.com
+0 10 9 179145 7 1468683694
+/
+x4d049ad0.dyn.telefonica.de
+0 42 42 907083 1 1467874113
+/
+cpe-72-180-172-192.rgv.res.rr.com
+0 40 40 930901 1 1469296739
+/
+p54a760f8.dip0.t-ipconnect.de
+0 77 76 2541394 1 1467990604
+/
+69.63.188.206
+0 1 1 16554 0 0
+-
+org.int.buhl-data.com
+0 82 82 2646788 1 1467889524
+/
+c-73-232-16-243.hsd1.tx.comcast.net
+0 1 1 11508 1 1467953741
+/
+p54acd633.dip0.t-ipconnect.de
+0 76 76 2541206 1 1467846254
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 80302 0 0
+-
+google-proxy-66-102-7-156.google.com
+0 10 10 73552 6 1469742990
+/
+p4ffbba47.dip0.t-ipconnect.de
+0 1 1 11508 1 1467933944
+/
+173.252.90.122
+0 1 1 16554 0 0
+-
+ipbcc3aa23.dynamic.kabel-deutschland.de
+0 85 84 2703121 1 1468168621
+/
+69.63.188.205
+0 1 1 16554 0 0
+-
+dslb-084-056-049-061.084.056.pools.vodafone-ip.de
+0 66 65 2469546 1 1468378350
+/
+baiduspider-123-125-71-15.crawl.baidu.com
+0 3 0 718 1 1467675869
+/
+208-115-111-74-reverse.wowrack.com
+0 1 1 66954 1 1469048974
+/
+ip-2-201-2-182.web.vodafone.de
+0 44 44 898472 1 1467900706
+/
+baiduspider-180-76-15-157.crawl.baidu.com
+0 2 1 11696 2 1468762168
+/
+69.63.188.107
+0 5 5 82770 0 0
+-
+x590ef364.dyn.telefonica.de
+0 16 1 11508 1 1468800154
+/
+x55b50dfb.dyn.telefonica.de
+0 98 97 2837271 1 1468345578
+/
+ppp-188-174-148-217.dynamic.mnet-online.de
+0 76 73 2418153 1 1467568086
+/
+cip-ws-130.cip.physik.uni-muenchen.de
+0 80 80 2595715 1 1468519067
+/
+104.131.147.112
+0 2 2 23016 2 1469885649
+/
+ec2-52-36-94-35.us-west-2.compute.amazonaws.com
+0 1 1 2006 0 0
+-
+h-213.61.92.18.host.de.colt.net
+0 1 1 34772 0 0
+-
+66.220.156.109
+0 1 1 71039 0 0
+-
+69.63.188.117
+0 3 3 49662 0 0
+-
+baiduspider-180-76-15-14.crawl.baidu.com
+0 3 1 3431 2 1469762464
+/
+bzq-82-80-230-228.cablep.bezeqint.net
+0 4 2 23392 2 1468849356
+/
+gurdian.slv.net.gpt.ru
+0 3 3 200862 3 1469114142
+/
+66.220.158.113
+0 1 1 16554 0 0
+-
+ip5f5bcbf4.dynamic.kabel-deutschland.de
+0 72 71 2370074 1 1467954546
+/
+ip5f5be9dd.dynamic.kabel-deutschland.de
+0 67 60 2347581 2 1468924958
+/
+109.175.30.237
+0 1 0 22074 1 1469728840
+-
+89.204.130.127
+0 1 1 34772 0 0
+-
+173.252.74.117
+0 1 1 16554 0 0
+-
+dslb-084-057-043-031.084.057.pools.vodafone-ip.de
+0 17 1 11696 1 1468759158
+/
+195.234.12.104
+0 77 76 2544388 1 1468403356
+/
+31.13.100.116
+0 3 3 112069 1 1468447116
+/
+pd9fb2bd2.dip0.t-ipconnect.de
+0 68 67 2477334 1 1468496432
+/
+83.149.126.98
+0 3 2 134136 1 1469204935
+/
+239.9.73.86.rev.sfr.net
+0 1 1 11508 1 1467985760
+/
+crawl-66-249-66-156.googlebot.com
+0 11 6 6144869 5 1469368966
+/
+aftr-185-17-205-178.dynamic.mnet-online.de
+0 68 67 2556168 1 1468410641
+/
+wwwb-app13.us.archive.org
+0 1 1 51164 1 1468933828
+/
+107-199-62-157.lightspeed.sntcca.sbcglobal.net
+0 212 198 7232599 4 1468763879
+/
+crawl-66-249-69-177.googlebot.com
+0 2 0 376 2 1469689946
+/
+179-197-131-100.user.veloxzone.com.br
+0 37 37 873373 1 1469311328
+/
+p5498edd7.dip0.t-ipconnect.de
+0 1 1 11508 1 1468923500
+/
+host184-2.natpool.mwn.de
+0 78 78 2530638 1 1467640424
+/
+bb03c7ee.virtua.com.br
+0 41 41 964470 1 1469316972
+/
+173.252.123.143
+0 1 1 71039 0 0
+-
+31.13.97.97
+0 1 1 11508 1 1468290482
+/
+221-253-191-85.cliente.brasilnet.net.br
+0 26 26 518818 1 1469911853
+/
+aftr-88-217-180-220.dynamic.mnet-online.de
+0 78 77 2541527 1 1467842276
+/
+cable-94-139-0-114.cust.telecolumbus.net
+0 65 65 2469358 1 1467889714
+/
+p4fefcc26.dip0.t-ipconnect.de
+0 1 1 11508 1 1467929969
+/
+catv-89-132-194-107.catv.broadband.hu
+0 1 1 11508 1 1467886641
+/
+msnbot-199-30-24-66.search.msn.com
+0 45 45 1131081 0 0
+-
+p5dd4c22b.dip0.t-ipconnect.de
+0 69 68 2542311 1 1468313019
+/
+p54adea82.dip0.t-ipconnect.de
+0 81 81 2500331 1 1467585446
+/
+p4ff833a2.dip0.t-ipconnect.de
+0 69 68 2521583 1 1468676691
+/
+173.252.123.130
+0 2 2 33108 0 0
+-
+79.106.209.200
+0 41 41 964470 1 1469181477
+/
+189.27.197.247.dynamic.adsl.gvt.net.br
+0 40 40 947443 1 1469911579
+/
+ip5f5bea23.dynamic.kabel-deutschland.de
+0 233 228 7658039 4 1468691622
+/
+aftr-88-217-181-234.dynamic.mnet-online.de
+0 89 86 2870147 1 1467829725
+/
+pd95f20ed.dip0.t-ipconnect.de
+0 56 55 1982938 1 1468766917
+/
+173.252.88.89
+0 4 4 66216 0 0
+-
+crawl-66-249-65-105.googlebot.com
+0 7 2 23563 3 1467880325
+/
+110.70.59.110
+0 1 1 11508 1 1467985425
+/
+simulabook.multimedia.hs-augsburg.de
+0 87 82 2615763 2 1469105061
+/
+p5b0a9d8b.dip0.t-ipconnect.de
+0 1 1 11508 1 1467928959
+/
+aftr-185-17-205-131.dynamic.mnet-online.de
+0 1 1 34772 0 0
+-
+h404.23-4.de
+0 6 5 11696 1 1468337553
+/
+google-proxy-66-102-6-228.google.com
+0 5 5 159710 0 0
+-
+p54af6f61.dip0.t-ipconnect.de
+0 39 38 920284 1 1468093873
+/
+69.63.188.210
+0 2 2 33108 0 0
+-
+ppp-82-135-70-21.dynamic.mnet-online.de
+0 14 14 143801 1 1468226561
+/
+p4fd62f91.dip0.t-ipconnect.de
+0 96 96 2868123 2 1468434185
+/
+pd95b3a98.dip0.t-ipconnect.de
+0 80 79 2646861 1 1468518511
+/
+173.252.120.106
+0 1 1 16554 0 0
+-
+p54857a3a.dip0.t-ipconnect.de
+0 71 69 2515950 1 1468410511
+/
+216.155.6.250.nni.net
+0 1 1 66954 1 1468322553
+/
+x590f3edf.dyn.telefonica.de
+0 56 54 1134226 2 1468346952
+/
+173.252.90.126
+0 1 1 16554 0 0
+-
+dsl-189-251-191-205-dyn.prod-infinitum.com.mx
+0 37 37 888080 1 1469037334
+/
+x4e307c0a.dyn.telefonica.de
+0 62 61 2274754 1 1468669853
+/
+aftr-185-17-207-26.dynamic.mnet-online.de
+0 1 1 34772 0 0
+-
+p5093c5a1.dip0.t-ipconnect.de
+0 63 62 2325774 2 1468514550
+/
+lumumba.torservers.net
+0 1 1 11508 1 1469999916
+/
+vps-949.fhnet.fr
+0 1 1 66954 1 1468957792
+/
+66.220.146.29
+0 5 5 67632 2 1468672359
+/
+x1-6-c0-ff-d4-81-22-f5.cpe.webspeed.dk
+0 1 1 11508 1 1467991939
+/
+rate-limited-proxy-66-249-91-66.google.com
+0 7 7 206659 0 0
+-
+x55b503a3.dyn.telefonica.de
+0 2 2 15871 1 1468106854
+/
+ip-109-43-1-190.web.vodafone.de
+0 12 12 86709 0 0
+-
+aftr-185-17-205-3.dynamic.mnet-online.de
+0 33 33 565533 1 1468395716
+/
+ipservice-092-211-045-120.092.211.pools.vodafone-ip.de
+0 80 78 2545454 1 1467499916
+/
+141.84.140.62
+0 71 68 2521591 1 1468496821
+/
+d108-180-183-144.bchsia.telus.net
+0 85 82 2605139 1 1467540816
+/
+173.252.88.87
+0 4 4 66216 0 0
+-
+msnbot-157-55-39-213.search.msn.com
+0 1 0 221 0 0
+-
+c94ab0fd.virtua.com.br
+0 7 7 84599 1 1468694891
+/
+186.213.4.157.static.host.gvt.net.br
+0 2 1 89028 1 1469803132
+/
+x55b509d0.dyn.telefonica.de
+0 43 43 1469762 2 1468467294
+/
+x590f151a.dyn.telefonica.de
+0 124 81 2599115 1 1467392595
+/
+p4ff71bca.dip0.t-ipconnect.de
+0 1 1 11508 1 1467913215
+/
+66.220.156.99
+0 1 1 16554 0 0
+-
+105.155.120.139
+0 1 0 22074 1 1469982617
+-
+x4e3487c6.dyn.telefonica.de
+0 108 108 15914623 1 1468096101
+/
+ec2-52-12-203-108.us-west-2.compute.amazonaws.com
+0 47 47 1078403 1 1468589459
+/
+dslb-084-056-062-026.084.056.pools.vodafone-ip.de
+0 194 193 7233084 3 1468158568
+/
+p4fe3da21.dip0.t-ipconnect.de
+0 73 70 2537791 1 1468584531
+/
+aftr-185-17-206-98.dynamic.mnet-online.de
+0 3 3 42899 1 1469196255
+/
+178.138.97.67
+0 48 47 1078591 1 1468155426
+/
+ppp-46-244-153-85.dynamic.mnet-online.de
+0 1 1 11508 1 1468014334
+/
+x5ce72acd.dyn.telefonica.de
+0 68 67 2477334 1 1468431783
+/
+69.63.188.214
+0 1 1 16554 0 0
+-
+fulltextrobot-77-75-76-163.seznam.cz
+0 1 0 188 1 1469744068
+/
+srv24.regensburg.de
+0 642 602 31046910 8 1468939604
+/
+173.252.88.190
+0 1 1 16554 0 0
+-
+31.13.102.96
+0 20 18 212644 12 1468861439
+/
+tmo-103-89.customers.d1-online.com
+0 55 52 1554856 2 1468798613
+/
+69.171.230.105
+0 2 2 87593 0 0
+-
+x5ce6f33c.dyn.telefonica.de
+0 39 39 968092 1 1468800181
+/
+173.252.120.107
+0 1 1 16554 0 0
+-
+hsi-kbw-5-10-131-178.hsi19.kabel-badenwuerttemberg.de
+0 104 104 3412384 2 1467970439
+/
+dslb-084-061-013-025.084.061.pools.vodafone-ip.de
+0 1 1 11508 1 1467928535
+/
+66.220.156.122
+0 1 1 71039 0 0
+-
+dslb-188-098-213-209.188.098.pools.vodafone-ip.de
+0 53 53 14857499 2 1469155661
+/
+p54b1823d.dip0.t-ipconnect.de
+0 69 69 2488363 1 1467388482
+/
+crawl-66-249-75-196.googlebot.com
+0 7 3 43051 3 1468020072
+/
+176.4.91.192
+0 1 1 11508 1 1467895433
+/
+host-181-177-178-157.supernet.com.bo
+0 41 41 964470 1 1468879464
+/
+host127-2.natpool.mwn.de
+0 76 76 2541206 1 1467984767
+/
+111-240-50-238.dynamic.hinet.net
+0 1 1 11508 1 1467887684
+/
+tmo-106-60.customers.d1-online.com
+0 25 25 606680 1 1467979430
+/
+chello084114179109.16.15.vie.surfer.at
+0 1 1 11508 1 1467965815
+/
+google-proxy-66-249-83-252.google.com
+0 1 1 1126 0 0
+-
+ip-109-43-2-71.web.vodafone.de
+0 62 61 2327255 1 1468687745
+/
+x55b5065f.dyn.telefonica.de
+0 87 82 3046733 2 1468583162
+/
+baiduspider-123-125-71-49.crawl.baidu.com
+0 1 1 122540 0 0
+-
+baiduspider-123-125-71-52.crawl.baidu.com
+0 1 1 11508 1 1468110214
+/
+ec2-52-49-232-148.eu-west-1.compute.amazonaws.com
+0 43 43 260834 0 0
+-
+crawl-66-249-76-61.googlebot.com
+0 23 14 157554 13 1469207984
+/
+173.252.74.105
+0 1 1 16554 0 0
+-
+baiduspider-180-76-15-16.crawl.baidu.com
+0 2 1 11729 1 1468429682
+/
+x55b58f69.dyn.telefonica.de
+0 64 63 2340397 1 1468489669
+/
+x4d04c625.dyn.telefonica.de
+0 3 0 564 1 1468081149
+/
+43.241.145.194
+0 1 1 11508 1 1467888498
+/
+static.75.32.4.46.clients.your-server.de
+0 2 1 67182 1 1467716244
+/
+dslb-088-076-225-220.088.076.pools.vodafone-ip.de
+0 139 136 4858124 2 1467665989
+/
+88.128.80.27
+0 42 42 907083 1 1469101822
+/
+p579e8eb1.dip0.t-ipconnect.de
+0 1 1 11508 1 1467887823
+/
+baiduspider-220-181-108-179.crawl.baidu.com
+0 1 1 11508 1 1468628566
+/
+badwlrz-cw34487.ws.lrz.de
+0 134 132 4909802 2 1468508375
+/
+dslb-178-002-132-188.178.002.pools.vodafone-ip.de
+0 1 1 1126 0 0
+-
+crawl-66-249-69-138.googlebot.com
+0 4 3 21532 1 1467628427
+/
+baiduspider-180-76-15-162.crawl.baidu.com
+0 1 1 4363 0 0
+-
+187-4-39-120.smace700.e.brasiltelecom.net.br
+0 34 34 772936 1 1468531379
+/
+23.101.61.176
+0 2 2 83508 1 1468256755
+/
+rate-limited-proxy-66-249-92-95.google.com
+0 5 5 67800 1 1467499475
+/
+ip5f5ac3f2.dynamic.kabel-deutschland.de
+0 62 61 2318221 1 1468484996
+/
+x55b50592.dyn.telefonica.de
+0 21 4 15191 1 1468441210
+/
+66.220.158.98
+0 1 1 71039 0 0
+-
+ipservice-092-217-124-181.092.217.pools.vodafone-ip.de
+0 46 46 1092005 1 1467850422
+/
+google-proxy-66-249-84-224.google.com
+0 12 12 65422 5 1468360316
+/
+tmo-114-70.customers.d1-online.com
+0 27 13 98405 1 1468600396
+/
+p5dcbf11b.dip0.t-ipconnect.de
+0 78 77 2541527 1 1468841408
+/
+ip5f5be933.dynamic.kabel-deutschland.de
+0 3 2 23204 2 1468025459
+/
+p54998cd7.dip0.t-ipconnect.de
+0 73 71 2537220 1 1468860462
+/
+69.63.188.111
+0 1 1 16554 0 0
+-
+host109-145-54-189.range109-145.btcentralplus.com
+0 1 0 22074 1 1469918254
+-
+dslb-084-058-230-168.084.058.pools.vodafone-ip.de
+0 44 44 898472 1 1468354895
+/
+ipservice-092-211-161-223.092.211.pools.vodafone-ip.de
+0 82 82 2648581 1 1469093224
+/
+crawl-66-249-79-135.googlebot.com
+0 5 0 940 5 1468668138
+/
+173.252.120.99
+0 2 2 33108 0 0
+-
+66.220.158.118
+0 1 1 16554 0 0
+-
+p5792d058.dip0.t-ipconnect.de
+0 51 51 1752207 1 1469029035
+/
+p5b215c61.dip0.t-ipconnect.de
+0 1 1 11508 1 1467998243
+/
+89.204.139.57
+0 37 28 1065611 2 1468486642
+/
+crawl-66-249-75-151.googlebot.com
+0 3 0 615 2 1467961168
+/
+173.252.90.234
+0 2 2 87593 0 0
+-
+173.252.90.100
+0 1 1 16554 0 0
+-
+31.13.100.118
+0 4 4 76705 0 0
+-
+ip5f5bfba7.dynamic.kabel-deutschland.de
+0 60 21 58458 4 1469660029
+/
+151.70.6.26
+0 1 1 11508 1 1467900309
+/
+h-213.61.109.114.host.de.colt.net
+0 80 77 2541527 1 1468505391
+/
+173.252.90.243
+0 5 5 82770 0 0
+-
+231-152-172-163.rev.cloud.scaleway.com
+0 1 1 10890 1 1467342882
+/
+port-92-192-113-249.dynamic.qsc.de
+0 47 47 1078403 1 1468595803
+/
+p579f3979.dip0.t-ipconnect.de
+0 64 61 2311176 1 1468537211
+/
+141.39.226.232
+0 1 1 11508 1 1467906904
+/
+tmo-103-161.customers.d1-online.com
+0 64 63 2331817 1 1468371487
+/
+66.220.146.30
+0 7 7 80556 7 1469975210
+/
+msnbot-157-55-39-187.search.msn.com
+0 2 2 25326 0 0
+-
+66.220.145.244
+0 2 2 3303 0 0
+-
+p4fd7276d.dip0.t-ipconnect.de
+0 6 6 68963 1 1469377408
+/
+189-82-244-113.user.veloxzone.com.br
+0 41 41 964470 1 1469499930
+/
+p508f7647.dip0.t-ipconnect.de
+0 66 66 2487187 1 1469732566
+/
+206.16.134.26
+0 1 1 11508 1 1468323249
+/
+116.202.34.120
+0 39 39 870917 1 1468200130
+/
+31.13.102.122
+0 22 20 230559 12 1469129607
+/
+baiduspider-180-76-15-25.crawl.baidu.com
+0 2 1 5631 1 1468626234
+/
+p5dca45b2.dip0.t-ipconnect.de
+0 67 66 2485586 1 1468147148
+/
+badef841.virtua.com.br
+0 41 41 964470 1 1468329158
+/
+ip5f5be923.dynamic.kabel-deutschland.de
+0 76 75 2394153 1 1467904983
+/
+x5f72d005.dyn.telefonica.de
+0 78 78 2573896 1 1468267517
+/
+crawl-66-249-69-129.googlebot.com
+0 9 8 10725033 4 1469633232
+/
+ip5f5beb67.dynamic.kabel-deutschland.de
+0 65 63 2438658 1 1468430057
+/
+40.78.146.128
+0 2 2 83508 1 1468262401
+/
+dr-steve.w3.org
+0 4 4 232972 1 1467668470
+/
+69.171.230.99
+0 2 2 87593 0 0
+-
+msnbot-157-55-39-142.search.msn.com
+0 1 1 11508 1 1467967685
+/
+furion.ifsc.usp.br
+0 41 41 964470 1 1468851628
+/
+x4d04e41d.dyn.telefonica.de
+0 133 128 3700153 3 1468798289
+/
+p4fc8589b.dip0.t-ipconnect.de
+0 59 59 2283177 1 1468411735
+/
+p578bf146.dip0.t-ipconnect.de
+0 77 76 2541394 1 1469553203
+/
+p5b2c4ad1.dip0.t-ipconnect.de
+0 95 95 2851054 2 1468267752
+/
+ec2-54-164-109-115.compute-1.amazonaws.com
+0 5 3 34900 1 1468153202
+/
+baiduspider-220-181-108-111.crawl.baidu.com
+0 1 0 188 1 1467675862
+/
+baiduspider-123-125-71-45.crawl.baidu.com
+0 2 0 497 0 0
+-
+110.53.183.61
+0 22 22 43667297 1 1468477165
+/
+31.13.102.103
+0 13 11 132025 10 1469129599
+/
+p54acdd8d.dip0.t-ipconnect.de
+0 68 67 2489674 1 1467879468
+/
+baiduspider-180-76-15-155.crawl.baidu.com
+0 1 1 11508 1 1467711880
+/
+173.252.120.112
+0 1 1 16554 0 0
+-
+95.155.11.37.dynamic.jazztel.es
+0 41 41 964470 1 1468450273
+/
+host-88-217-174-126.customer.m-online.net
+0 111 105 2286035 1 1468419475
+/
+mailserv.wengerwittmann.de
+0 64 63 2431613 1 1467621974
+/
+66.220.158.112
+0 1 1 71039 0 0
+-
+66.220.156.106
+0 2 2 33108 0 0
+-
+ip5f5ae679.dynamic.kabel-deutschland.de
+0 76 76 2541206 1 1468079811
+/
+p5b21d608.dip0.t-ipconnect.de
+0 66 65 2428860 1 1467733899
+/
+173.252.90.108
+0 1 1 16554 0 0
+-
+rrcs-74-87-163-142.west.biz.rr.com
+0 2 1 11696 1 1468148173
+/
+194.44.161.58
+0 1 1 10890 1 1467340103
+/
+p54979844.dip0.t-ipconnect.de
+0 64 64 2454497 1 1468838498
+/
+host191-2.natpool.mwn.de
+0 1 1 11508 1 1468491553
+/
+199.58.86.209
+0 1 1 66954 1 1469071966
+/
+ppp-62-216-213-211.dynamic.mnet-online.de
+0 2 1 1328 0 0
+-
+173.252.74.110
+0 1 1 16554 0 0
+-
+x5f74a6bb.dyn.telefonica.de
+0 1 1 11508 1 1467886414
+/
+x590fae8e.dyn.telefonica.de
+0 431 227 7836155 4 1467855344
+/
+x55b57870.dyn.telefonica.de
+0 1 0 188 1 1467736633
+/
+zz2012429177b6f8960f.userreverse.dion.ne.jp
+0 1 1 11508 1 1467960523
+/
+195.126.100.68
+0 76 76 2541206 1 1468317216
+/
+194.187.170.118
+0 2 1 17057 2 1468444688
+-
+baiduspider-180-76-15-153.crawl.baidu.com
+0 1 1 80241 0 0
+-
+p5498e040.dip0.t-ipconnect.de
+0 66 65 2454818 1 1468786123
+/
+x55b50178.dyn.telefonica.de
+0 20 18 341657 2 1468893426
+/
+extfw.zv.tum.de
+0 121 121 3426232 1 1468498567
+/
+49.124.34.40
+0 39 39 935935 1 1469550531
+/
+x55b5009f.dyn.telefonica.de
+0 19 19 264376 1 1468799930
+/
+140.190.36.191.vex.net.br
+0 22 22 396624 1 1469658015
+/
+p5dcf85ab.dip0.t-ipconnect.de
+0 1 1 11508 1 1467967161
+/
+x590f23bb.dyn.telefonica.de
+0 48 48 1113175 1 1468369100
+/
+ipbcc224c0.dynamic.kabel-deutschland.de
+0 64 63 2343866 1 1468751472
+/
+ipservice-092-211-042-084.092.211.pools.vodafone-ip.de
+0 83 81 2774321 1 1468756058
+/
+baiduspider-220-181-108-184.crawl.baidu.com
+0 2 1 11696 2 1469063232
+/
+google-proxy-66-102-6-240.google.com
+0 1 1 11508 1 1469530649
+/
+pc1011001209.uni-regensburg.de
+0 117 116 3706876 2 1467808125
+/
+95.85.16.170
+0 1 1 11508 1 1469295689
+/
+pa49-196-12-6.pa.vic.optusnet.com.au
+0 1 1 11508 1 1467894222
+/
+84.206.11.80
+0 48 47 1077671 1 1467736171
+/
+p5dc46c9f.dip0.t-ipconnect.de
+0 1 1 11508 1 1467979167
+/
+google-proxy-66-102-6-160.google.com
+0 28 28 1035307 0 0
+-
+1f2efe83.nat.pool.telekom.hu
+0 1 1 11508 1 1467885951
+/
+b110126.yse.yahoo.net
+0 6 1 11830 6 1467879506
+/
+69.63.188.100
+0 4 4 66216 0 0
+-
+173.252.120.98
+0 1 1 16554 0 0
+-
+dslb-094-223-017-024.094.223.pools.vodafone-ip.de
+0 1 1 11508 1 1467964148
+/
+ip5f5adcc2.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1468009748
+/
+189.115.55.181.static.gvt.net.br
+0 41 41 964470 1 1468859134
+/
+89.204.135.208
+0 44 43 918779 1 1468617290
+/
+p4fd11fe0.dip0.t-ipconnect.de
+0 72 71 2425045 1 1467468336
+/
+s-8d3a29aa.on.site.uni-stuttgart.de
+0 76 76 2541206 1 1468675776
+/
+173.252.88.93
+0 1 1 16554 0 0
+-
+69.63.188.125
+0 3 3 49662 0 0
+-
+crawl-66-249-78-117.googlebot.com
+0 12 11 178887 8 1469831905
+/
+173.252.88.95
+0 3 3 49662 0 0
+-
+ip5f5ac05e.dynamic.kabel-deutschland.de
+0 79 79 2591530 1 1468423807
+/
+x4e331722.dyn.telefonica.de
+0 1 1 11508 1 1467888471
+/
+ip5f5bea25.dynamic.kabel-deutschland.de
+0 1 0 188 1 1467564853
+/
+static.41.89.4.46.clients.your-server.de
+0 1 0 228 1 1467598933
+/
+aftr-37-24-144-241.unity-media.net
+0 1 1 11508 1 1467901044
+/
+dslb-092-072-149-248.092.072.pools.vodafone-ip.de
+0 1 1 11508 1 1467888467
+/
+201-15-138-197.paemt704.dsl.brasiltelecom.net.br
+0 41 41 964470 1 1468952234
+/
+google-proxy-66-249-84-231.google.com
+0 12 12 86186 7 1469940522
+/
+baiduspider-123-125-71-80.crawl.baidu.com
+0 1 1 11508 1 1469209345
+/
+port-92-194-31-118.dynamic.qsc.de
+0 77 76 2541394 1 1468410921
+/
+173.252.90.85
+0 2 2 33108 0 0
+-
+baiduspider-180-76-15-21.crawl.baidu.com
+0 4 3 103521 2 1469067229
+/
+x5d8666eb.dyn.telefonica.de
+0 167 159 5743517 2 1468584927
+/
+173.252.123.137
+0 1 1 71039 0 0
+-
+ec2-54-158-109-110.compute-1.amazonaws.com
+0 1 1 66954 1 1467970430
+/
+crawl-66-249-75-207.googlebot.com
+0 1 0 188 1 1467646028
+/
+69.171.230.123
+0 2 2 33108 0 0
+-
+93-44-84-159.ip96.fastwebnet.it
+0 1 1 11508 1 1467887295
+/
+crawl-66-249-65-131.googlebot.com
+0 1 0 188 1 1469100219
+/
+static.44.54.251.148.clients.your-server.de
+0 4 4 4902895 1 1467484485
+/
+31.13.97.112
+0 1 1 11508 1 1468489698
+/
+173.252.123.132
+0 2 2 33108 0 0
+-
+badce725.virtua.com.br
+0 27 27 537867 1 1468620162
+/
+173.252.90.231
+0 3 3 49662 0 0
+-
+82.220.95.136
+0 68 67 2522764 1 1467847983
+/
+p4fca6ffe.dip0.t-ipconnect.de
+0 59 59 2283177 1 1468608623
+/
+p54b55b9f.dip0.t-ipconnect.de
+0 106 98 3023219 1 1468420969
+/
+aftr-185-17-207-157.dynamic.mnet-online.de
+0 76 76 2540213 1 1469199875
+/
+38.99.82.192
+0 18 16 698298 1 1467932145
+-
+crawl-66-249-65-57.googlebot.com
+0 3 0 564 3 1469073537
+/
+ip4d14f8e5.dynamic.kabel-deutschland.de
+0 1 1 11508 1 1467932618
+/
+static.4.151.251.148.clients.your-server.de
+0 2 1 67182 1 1469071654
+/
+crawl-66-249-65-111.googlebot.com
+0 6 3 40470 3 1467913146
+/
+x4d0477de.dyn.telefonica.de
+0 77 76 2368903 1 1467664713
+/
+p5dcbf46b.dip0.t-ipconnect.de
+0 4 1 11696 1 1468313269
+/
+customer-187-210-247-49.uninet-ide.com.mx
+0 31 31 730847 1 1468524571
+/
+cable-89-16-147-151.cust.telecolumbus.net
+0 55 55 1609373 1 1467975824
+/
+173.252.90.116
+0 1 1 16554 0 0
+-
+66.220.158.106
+0 2 2 87593 0 0
+-
+190.233.151.222
+0 41 41 1155776 1 1469766637
+/
+69.63.188.201
+0 1 1 16554 0 0
+-
+x55b505d2.dyn.telefonica.de
+0 1 1 11508 1 1469493586
+/
+125.165.87.129
+0 1 0 22074 1 1469803796
+-
+google-proxy-66-249-93-73.google.com
+0 7 4 24596 5 1467639415
+/
+atom-8.ip-projects.de
+0 1 1 11508 1 1469680321
+/
+ec2-184-72-88-255.compute-1.amazonaws.com
+0 1 1 11508 1 1467923057
+/
+62.1.61.154.dsl.dyn.forthnet.gr
+0 1 1 11508 1 1467906479
+/
+host120-2.natpool.mwn.de
+0 80 80 2601707 1 1468597945
+/
+crawl-66-249-79-196.googlebot.com
+0 3 3 42899 2 1468397177
+/
+ip-109-43-0-6.web.vodafone.de
+0 30 29 540773 1 1467835605
+/
+194.187.170.122
+0 1 0 5549 1 1469761565
+-
+212-186-12-51.cable.dynamic.surfer.at
+0 69 69 2508047 1 1467843907
+/
+85.183.90.85
+0 143 143 3262331 3 1468537089
+/
+dslb-084-059-049-245.084.059.pools.vodafone-ip.de
+0 1 1 11508 1 1467886676
+/
+ec2-54-174-33-17.compute-1.amazonaws.com
+0 1 1 4097 1 1467654858
+/
+p5b2c246c.dip0.t-ipconnect.de
+0 123 123 4752402 2 1468675760
+/
+tmo-103-73.customers.d1-online.com
+0 74 73 2399880 1 1468270663
+/
+31.13.110.109
+0 1 1 16554 0 0
+-
+rate-limited-proxy-66-249-92-91.google.com
+0 4 4 56180 2 1467706810
+/
+ipservice-092-211-043-064.092.211.pools.vodafone-ip.de
+0 67 66 2478336 1 1467560802
+/
+x5ce3857c.dyn.telefonica.de
+0 75 74 2609478 1 1468519536
+/
+173.252.90.248
+0 3 3 49662 0 0
+-
+177.11.118-239.interneith.com.br
+0 1 1 11508 1 1469247397
+/
+dslb-094-217-073-115.094.217.pools.vodafone-ip.de
+0 1 1 11508 1 1468447140
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 0 5549 1 1468246783
+-
+ec2-54-229-7-71.eu-west-1.compute.amazonaws.com
+0 1 1 11508 1 1468727447
+/
+58.27.21.177.teletalk.net.br
+0 41 41 964470 1 1469993937
+/
+ol73-168.fibertel.com.ar
+0 1 1 11508 1 1467914950
+/
+msnbot-40-77-167-83.search.msn.com
+0 1 1 4332 0 0
+-
+66.220.146.26
+0 4 4 51078 3 1469198944
+/
+217.196.205.21
+0 1 1 11508 1 1467914725
+/
+ip5f5ac2a3.dynamic.kabel-deutschland.de
+0 60 59 2283365 1 1467899187
+/
+141.84.41.5
+0 70 67 2477334 1 1467992025
+/
+mwg48.bayern.de
+0 65 65 2483482 1 1468409279
+/
+78.61.218.28
+0 1 1 11508 1 1467927401
+/
+seorch.de
+0 188 158 1905807 7 1468933824
+/
+59.59.124.177.static.horizonstelecom.com.br
+0 41 41 964470 1 1469188514
+/
+a95-93-65-241.cpe.netcabo.pt
+0 41 41 964470 1 1469307812
+/
+ppp59-167-159-2.static.internode.on.net
+0 1 1 66954 1 1467803655
+/
+217.170.179.80
+0 144 140 4836843 2 1468248367
+/
+p4fd70921.dip0.t-ipconnect.de
+0 23 22 517250 1 1469268792
+/
+77-57-38-97.dclient.hispeed.ch
+0 1 1 11508 1 1467931543
+/
+p5dd7be3b.dip0.t-ipconnect.de
+0 97 93 2943853 1 1468762077
+/
+173.252.90.87
+0 1 1 16554 0 0
+-
+n24-05-02.opera-mini.net
+0 79 78 3008001 1 1468410862
+/
+x4e301ae9.dyn.telefonica.de
+0 3 1 11508 1 1468836554
+/
+173.252.123.139
+0 3 3 158632 0 0
+-
+31.13.113.91
+0 2 2 23016 2 1469003918
+/
+31.13.113.95
+0 1 1 11508 1 1467883840
+/
+31.13.110.120
+0 1 1 16554 0 0
+-
+194.187.170.104
+0 1 1 80302 0 0
+-
+217.217.41.190.dyn.user.ono.com
+0 1 1 11508 1 1467941550
+/
+crawl-66-249-75-236.googlebot.com
+0 1 1 11587 1 1467646029
+/
+p5dcbcdaa.dip0.t-ipconnect.de
+0 66 65 2433743 1 1467554506
+/
+dsl01.212.114.252.85.ip-pool.nefkom.net
+0 242 240 7837710 2 1468510329
+/
+aftr-88-217-181-118.dynamic.mnet-online.de
+0 41 40 1704605 1 1468523717
+/
+89.204.155.181
+0 72 72 2356284 1 1468268339
+/
+google-proxy-66-249-93-67.google.com
+0 702 702 17373404 31 1469940158
+/
+no.rdns-yet.ukservers.com
+0 1 1 66954 1 1468996642
+/
+ju022.jupiter.fastwebserver.de
+0 2 1 67182 1 1469517417
+/
+31.13.109.121
+0 1 1 225 0 0
+-
+b110004.yse.yahoo.net
+0 1 0 188 1 1469892334
+/
+69.63.188.217
+0 2 2 33108 0 0
+-
+189-69-130-250.dial-up.telesp.net.br
+0 35 35 794120 1 1468507712
+/
+p5080201f.dip0.t-ipconnect.de
+0 38 38 869554 1 1467467955
+/
+31.13.102.125
+0 18 18 207144 12 1469882698
+/
+modemcable028.27-80-70.mc.videotron.ca
+0 1 1 66954 1 1469277822
+/
+tmo-103-103.customers.d1-online.com
+0 1 1 11508 1 1468676192
+/
+dhcp180180.uni-regensburg.de
+0 59 58 2105667 1 1468487410
+/
+rate-limited-proxy-66-249-91-235.google.com
+0 2 2 56456 0 0
+-
+p54a770d0.dip0.t-ipconnect.de
+0 557 507 16789369 4 1468576103
+/
+176.4.56.60
+0 2 2 18560 0 0
+-
+194.187.170.106
+0 1 1 80302 0 0
+-
+x5ce0cab5.dyn.telefonica.de
+0 1 1 34772 0 0
+-
+baiduspider-180-76-15-20.crawl.baidu.com
+0 3 1 11886 3 1469100337
+/
+pd9ffadb4.dip0.t-ipconnect.de
+0 67 67 2498414 1 1468850495
+/
+host-212-196.wad.pl
+0 1 1 11508 1 1467935941
+/
+x55b54ee3.dyn.telefonica.de
+0 1 1 34772 0 0
+-
+ppp-62-216-210-162.dynamic.mnet-online.de
+0 1 1 34772 0 0
+-
+p578aca63.dip0.t-ipconnect.de
+0 1 1 11508 1 1467925784
+/
+216.155.9.4.nni.net
+0 4 2 67182 1 1468658458
+/
+195.37.188.146
+0 424 423 14602708 5 1468498913
+/
+173.252.74.102
+0 1 1 16554 0 0
+-
+mcconnell.w3.org
+0 2 2 23370 1 1467668519
+/
+rate-limited-proxy-66-249-91-69.google.com
+0 4 4 101786 0 0
+-
+131.161.116.2
+0 35 35 809373 1 1468264866
+/
+31.13.102.110
+0 18 17 195865 12 1469894667
+/
+104.236.196.115
+0 2 1 11696 1 1468075257
+/
+dynamic.libertypr.net
+0 59 59 2283177 1 1467894951
+/
+baiduspider-180-76-15-144.crawl.baidu.com
+0 3 3 103318 2 1469307369
+/
+infong878.kundenserver.de
+0 2 2 133908 1 1467910388
+/
+n24-06-04.opera-mini.net
+0 1 1 34772 0 0
+-
+76.30.223.87.dynamic.jazztel.es
+0 1 1 11508 1 1467889892
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+google-proxy-66-102-7-152.google.com
+0 2 2 12634 1 1469991854
+/
+66.220.146.24
+0 1 1 11508 1 1469999274
+/
+host-181-16-5-34.telered.com.ar
+0 2 1 89028 1 1469986562
+/
+dsl.49.148.249.87.pldt.net
+0 2 1 89028 1 1470003560
+/
+fulltextrobot-77-75-78-169.seznam.cz
+0 1 1 11508 1 1469996858
+/
+69.171.230.109
+0 1 1 16554 0 0
+-
+ip5f5bfa28.dynamic.kabel-deutschland.de
+0 66 66 2487187 1 1470004231
+/
+69.171.230.110
+0 1 1 16554 0 0
+-
+ec2-52-19-191-224.eu-west-1.compute.amazonaws.com
+0 2 2 4012 0 0
+-
+google-proxy-66-249-88-27.google.com
+0 3 3 24142 1 1469958978
+/
+69.63.188.105
+0 1 1 16554 0 0
+-
+212-60-165-159.adsl.highway.telekom.at
+0 1 0 22074 1 1469936026
+-
+google-proxy-66-249-83-220.google.com
+0 1 1 1126 0 0
+-
+ip5f5bffe0.dynamic.kabel-deutschland.de
+0 16 16 330005 1 1469995358
+/
+host243-5-dynamic.180-80-r.retail.telecomitalia.it
+0 41 41 964470 1 1469961680
+/
+103.253.169.244
+0 1 0 22074 1 1469957173
+-
+google-proxy-66-249-88-5.google.com
+0 1 1 1126 0 0
+-
+c003-j8-rz.muenchen.de
+0 1 0 0 0 0
+-
+c-50-162-243-228.hsd1.fl.comcast.net
+0 1 0 22074 1 1469992026
+-
+ip-94-114-242-22.unity-media.net
+0 2 1 89028 1 1469979774
+/
+tmo-114-128.customers.d1-online.com
+0 42 42 907083 1 1469961137
+/
+google-proxy-66-249-93-112.google.com
+0 1 1 11508 1 1469983817
+/
+173.252.120.121
+0 1 1 16554 0 0
+-
+115.28.111.201
+0 1 1 11508 1 1469942047
+/
+bl10-211-66.dsl.telepac.pt
+0 1 0 22074 1 1469965756
+-
+google-proxy-66-249-83-224.google.com
+0 1 1 11508 1 1469958981
+/
+google-proxy-66-249-93-116.google.com
+0 2 2 2252 0 0
+-
+188.212.192.31
+0 2 1 89028 1 1469984949
+/
+ip-84-203-86-19.broadband.digiweb.ie
+0 1 0 22074 1 1469985356
+-
+p5798b010.dip0.t-ipconnect.de
+0 79 79 2567463 1 1469975148
+/
+173.252.90.246
+0 2 2 33108 0 0
+-
+google-proxy-66-102-9-27.google.com
+0 2 2 12634 1 1469997656
+/
+p4febd4b1.dip0.t-ipconnect.de
+0 64 63 2453371 1 1469985546
+/
+google-proxy-66-102-9-16.google.com
+0 2 2 12634 1 1469953725
+/
+baiduspider-180-76-15-148.crawl.baidu.com
+0 1 1 80302 0 0
+-
+google-proxy-66-102-6-228.google.com
+0 1 1 16554 0 0
+-
+lumumba.torservers.net
+0 1 1 11508 1 1469999916
+/
+105.155.120.139
+0 1 0 22074 1 1469982617
+-
+173.252.120.99
+0 1 1 16554 0 0
+-
+173.252.90.243
+0 1 1 16554 0 0
+-
+66.220.146.30
+0 1 1 11508 1 1469975210
+/
+173.252.88.95
+0 1 1 16554 0 0
+-
+google-proxy-66-249-84-231.google.com
+0 2 2 12634 1 1469940522
+/
+58.27.21.177.teletalk.net.br
+0 41 41 964470 1 1469993937
+/
+google-proxy-66-249-93-67.google.com
+0 1 1 11508 1 1469940158
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://localhost/weareallstories/index.php
+0 2
+http://www.kunstwissenschaften.uni-muenchen.de/lehre-at-lmu/praxisbuero/lehre/ss16/pflueger/index.html
+0 6
+https://www.google.gr/
+0 1
+http://senseven.net
+1 1
+http://whois.domaintools.com/senseven.net
+1 2
+http://65.55.108.4/proxy.ashx
+0 15
+http://seorch.de/
+0 2
+http://senseven.net/Sensevents/welcome.aspx
+1 13
+http://hvd-store.com/
+0 1
+http://r.duckduckgo.com/
+0 1
+https://www.google.de
+0 26
+https://www.facebook.com
+0 55
+http://www.google.com/url
+0 3
+http://lm.facebook.com/l.php
+0 2
+http://localhost/storytelling/
+0 4
+http://senseven.net/index.ph
+1 18
+http://www.google.de/search
+0 4
+http://www.senseven.net/css/font-awesome.min.css
+1 18
+https://www.google.nl/
+0 1
+http://localhost/storytelling/index.php
+0 2
+http://precore.net/
+0 16
+http://www.google.com/search
+0 2
+http://heyevent.de/event/iohck6ohkr7ksa/senseven-ausstellung
+0 2
+http://senseven.net/ind
+1 1
+http://buttons-for-website.com
+0 19
+http://page-online.de/branche-karriere/werkschauen-im-juli-2016/
+0 13
+android-app://com.google.android.googlequicksearchbox
+0 1
+http://l.facebook.com/lsr.php
+0 3
+https://www.google.it/
+0 2
+http://l.instagram.com/
+0 24
+http://lm.facebook.com/lsr.php
+0 9
+http://r.search.yahoo.com/_ylt
+0 1
+http://www.kunstpaedagogik.uni-muenchen.de/meldungen/veranstaltungen/ausstellung--kumm-2016/index.html
+0 52
+https://www.facebook.com/
+0 106
+http://plus.url.google.com/url
+0 1
+- (Direct Request)
+0 5434
+http://senseven.net/downloads/senseven2016_pressemitteilung.pdf
+1 1
+https://www.facebook.com/check_tag
+0 1
+https://slack.com
+0 2
+http://checkpagerank.net/index.php
+0 1
+http://www.google.de/url
+0 4
+https://www.xing.com/
+0 1
+http://m.facebook.com
+0 59
+http://senseven.net/help
+1 3
+http://www.bing.com/search
+0 3
+http://senseven.net/css/font-awesome.min.css
+1 722
+http://www.senseven.net/
+1 985
+http://www.google.co.in/url
+0 1
+http://fix-website-errors.com/try.php
+0 2
+http://senseven.net/projekte
+1 47
+http://lnkd.in
+0 1
+http://m.facebook.com/
+0 204
+http://www.senseven.net/downloads/senseven2016_pressemitteilung.pdf
+1 4
+https://www.google.de/
+0 76
+http://senseven.net/
+1 72288
+http://kunstblog-muenchen.de/subVernissagen-in-München-vom-11.--17.-Juli-2016.html
+0 2
+http://images.google.de/url
+0 5
+http://www.senseven.net/css/screen.min.css
+1 12
+http://senseven.net/senseven/
+1 34
+http://burger-imperia.com/
+0 1
+https://www.bing.com/
+0 2
+http://www.senseven.net
+1 3
+http://seo-2-0.com/try.php
+0 78
+http://senseven.net/includes/modals/redeker.txt
+1 18
+http://translate.googleusercontent.com/translate_p
+0 1
+http://googleweblight.com/
+0 5
+http://senseven.net/index.html
+1 1
+https://www.google.com
+0 7
+http://www.mucbook.de/2016/07/08/ausstellungstipp-senseven-die-ausstellung-mit-dem-7-sinn/
+0 1
+http://senseven.net/wp-admin
+1 16
+http://senseven.net/css/screen.min.css
+1 598
+http://senseven.net/index.php
+1 73
+http://seorch.de/seo-check/www-senseven-net-2016-07-02-09-72-74.html
+0 3
+https://de-de.facebook.com
+0 2
+https://m.facebook.com
+0 3
+http://senseven.net/presse
+1 17
+http://senseven.net/Kunst und Multimedia 7
+1 14
+http://story.galaxiesanddust.de/index.php
+0 2
+https://outlook.live.com/
+0 1
+http://aleatoric.eu.pn/version21/appwrap1/
+0 1
+https://m.facebook.com/
+0 8
+http://www.muffatwerk.de/en/events/view/2892
+0 49
+http://l.facebook.com/l.php
+0 12
+http://images.google.de/imgres
+0 40
+http://www.muffatwerk.de/de/events/view/2892
+0 73
+http://www.kunstwissenschaften.uni-muenchen.de/lehre-at-lmu/praxisbuero/lehre/ss16/guminski-senseven/index.html
+0 14
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N8010 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+1 19
+Mozilla/5.0 (Linux; Android 4.4.2; GM Discovery II Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/41.0.2272.76 Chrome/41.0.2272.76 Safar
+0 72
+Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI Y550-L01 Build/HuaweiY550-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 107) AppleWebKit/534.48.3 (KHTML like Gecko) Version/5.1 Safari/534.48.3
+1 1
+Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (compatible; Windows; U; Windows NT 6.2; en-US; rv:12.0) Gecko/20120403211507 Firefox/12.0
+1 3
+Mozilla/5.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Saf
+0 103
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0
+1 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 146
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G935K Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 172
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+1 213
+Dillo/3.0.2
+0 60
+Mozilla/5.0 (compatible; Yahoo Link Preview; https://help.yahoo.com/kb/mail/yahoo-link-preview-SLN23615.html)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MMB29V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 2363
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+1 67
+Mozilla/5.0 (Linux; Android 5.1; PULP Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.8
+0 1
+Mozilla/5.0 (Linux; U; Android 5.1.1; de-de; D5503 Build/14.6.A.1.236) AppleWebKit/537.16 (KHTML, like Gecko) Version/4.0 Mob
+0 43
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.6.17 (KHTML, like Gecko)
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+1 158
+Go 1.1 package http
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; SM-T550 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0 Iceweasel/38.7.0
+1 77
+Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9500 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 C
+0 63
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 208
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
+1 75
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11
+1 1
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 62
+ZXing (Android)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+1 77
+Slack/223000 CFNetwork/758.4.3 Darwin/15.5.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+1 74
+Mozilla/5.0 (Android 4.4.2; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0
+1 102
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.270
+0 1
+Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chr
+0 366
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9195I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1041.0 Safari/535.21
+1 41
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 670
+FeedValidator/1.3
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 373
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 67
+WhatsApp/2.16.64 WP7/8.10.12400.0 Device/TREKSTOR-WP_4.7-H1.1.1.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+1 1
+Mozilla/5.0 (compatible; GrapeshotCrawler/2.0; +http://www.grapeshot.co.uk/crawler.php)
+0 1
+Spider: Googlebot
+2 483
+Mozilla/5.0 (Linux; Android 5.0.2; P01W Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704
+0 61
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0) Gecko/20100101 Firefox/9.0
+1 72
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.15 Safari/535.2
+1 76
+Mozilla/5.0 (compatible; WebHistoryBot/1.2.1 IS NOT SE bot like Googlebot,yahoobot or bingbot)
+1 1
+YahooCacheSystem; YahooWebServiceClient
+0 1
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 344
+Mozilla/5.0 (Linux; Android 4.4.4; SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile S
+0 55
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G850F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.
+0 1
+W3C_Validator/1.3
+0 15
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 61
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+1 73
+Mozilla/5.0 (Linux; U; Android 4.4.2; de-de; LG-D955 Build/KOT49I.D95520b) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 62
+Mozilla/5.0 (Linux; Android 4.05; Galaxy Nexus Build/IMM76B) AppleWebKit/535.25 (KHTML, like Gecko) Chrome/17.0.1025.133 Mobi
+0 1
+Mozilla/5.0 (Linux; Android 6.0; PLK-L01 Build/HONORPLK-L01; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+1 44
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+1 65
+Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+1 77
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.12.6.2 zlib/1.2.3 libidn/1.18 libssh2/1.2.2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/7.1.8 Safari/537.85.17
+1 167
+Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI CRR-L09 Build/HUAWEICRR-L09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:47.0) Gecko/20100101 Firefox/47.0
+1 167
+SafeDNSBot (https://www.safedns.com/searchbot)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.105
+1 141
+Mozilla/5.0 (Linux; Android 6.0.1; D6503 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 1
+Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chr
+0 65
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G903F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 [FBAN/FBIOS;FB
+0 25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+1 80
+Mozilla/5.0 (X11; Linux x86_64; rv:39.0) Gecko/20100101 Firefox/39.0
+1 34
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T310 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 S
+0 1
+Mozilla/5.0 (Linux; Android 5.0; SM-G900I Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.27
+0 1
+Mozilla/5.0 (Linux; Android 6.0; HUAWEI VNS-L31 Build/HUAWEIVNS-L31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.
+0 25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:47.0) Gecko/20100101 Firefox/47.0
+1 535
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E238 Sa
+0 68
+Mozilla/5.0 (Windows NT 5.1; rv:47.0) Gecko/20100101 Firefox/47.0
+1 134
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; E6653 Build/32.2.A.0.224; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; de; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+1 15
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 77
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MTC19V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; A0001 Build/MHC19Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.270
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.4
+1 68
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D955 Build/KOT49I.D95520b) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG SM-T520 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 Ch
+0 83
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0) Gecko/20100101 Firefox/10.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.27 Safari/537.36
+1 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 264
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0
+1 103
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 77
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+1 77
+Browsershots
+0 3
+Mozilla/5.0 (Android 4.2.1; Mobile; rv:43.0) Gecko/43.0 Firefox/43.0
+1 58
+Mozilla/5.0 (X11; Linux x86_64; rv:34.0) Gecko/20100101 Firefox/34.0
+1 72
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+1 2
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
+1 76
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 45
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.8 Safari/537.36
+1 77
+Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.5.24 Version/10.53
+1 53
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Saf
+0 4432
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 91
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google (+https://dev
+1 49
+Slack-ImgProxy 1.138 (+https://api.slack.com/robots)
+0 99
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+1 1875
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:39.0) Gecko/20100101 Firefox/39.0
+1 101
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 67
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/23.0.1251.2 Safari/537.8
+1 56
+Mozilla/5.0 (compatible; Qwantify/2.2w; +https://www.qwant.com/)/*
+0 14
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 233
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12
+1 82
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0
+1 77
+Java/1.6.0_04
+0 31
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+1 283
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 108
+Mozilla/5.0 (Linux; Android 4.1.2; LG-P710 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile S
+0 240
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.1; de-de; HUAWEI G510-0100 Build/HuaweiG510-0100) AppleWebKit/534.30 (KHTML, like Gecko) V
+0 131
+facebookexternalhit/1.1
+0 32
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 118
+Mozilla/5.0 (Linux; Android 5.0.1; HTC One_M8 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile
+0 63
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
+1 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; en-us; FP1U Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safa
+0 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:12.0) Gecko/20100101 Firefox/12.0
+1 77
+Mozilla/5.0 (X11; Linux x86_64; rv:32.0) Gecko/20100101 Firefox/32.0
+1 75
+Mozilla/5.0 (Linux; Android 5.0; HUAWEI GRA-UL00 Build/HUAWEIGRA-UL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chr
+0 61
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+1 1
+Mozilla/5.0 (compatible; XML Sitemaps Generator; https://www.xml-sitemaps.com) Gecko XML-Sitemaps/1.0
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/534.34 (KHTML, like Gecko) Websnapr/3.0 Safari/534.34
+1 47
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 (.NET CLR 3.5.30729)
+1 2
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:17.0) Gecko/17.0 Firefox/17.0
+1 75
+Mozilla/5.0 (Linux; Android 4.4.2; K01E Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safa
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 494
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/537.86.6
+1 322
+panscient.com
+0 10
+Mozilla/5.0 (X11; Linux i686; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+1 77
+Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.575) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 295
+Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.10.229 Version/11.64
+1 72
+Validator.nu/LV http://validator.w3.org/services
+0 34
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+1 64
+python-requests/2.9.1
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.16 (Chromium Portable 9.2)
+0 77
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+1 32
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 [FBAN/MessengerF
+0 81
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+1 190
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Firefox/11.0
+1 1
+Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.1.264) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 64
+Mozilla/5.0 (Android 5.0.2; Tablet; rv:47.0) Gecko/47.0 Firefox/47.0
+1 79
+bot.wsowner.com/1.0.0 (+http://wsowner.com/)
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 385
+Mozilla/5.0 (compatible; MojeekBot/0.6; +https://www.mojeek.com/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
+1 109
+Browser: MSIE
+2 136
+Mozilla/5.0 (compatible) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.73 Safari/537.36 collection@infegy.com
+1 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.48 Safari/537.36 Vivaldi/1.3.534.3
+1 66
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+1 77
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12F70 Safari
+1 62
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0
+1 76
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/19.0
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5
+1 65
+Mozilla/5.0 (Android; Mobile; rv:34.0) Gecko/34.0 Firefox/34.0
+1 14
+Mozilla/5.0 (Linux; Android 5.1.1; ONE E1003 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; A0001 Build/MHC19Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safa
+0 74
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0.12) Gecko/20130119 Firefox/10.0.11esrpre Iceape/2.7.12
+1 77
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G935F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 61
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+1 77
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+1 431
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 78
+Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+0 3
+Browser: Firefox
+2 21995
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.
+0 60
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G850F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D802 Build/KOT49I.D80220h) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30
+0 61
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0
+1 159
+Mozilla/5.0 (Linux; Android 5.0.2; SM-T550 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 15
+Drupal (+http://drupal.org/)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+1 2
+Mozilla/5.0 (X11; Linux i686; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+1 77
+Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [
+1 10
+Mozilla/5.0 (Android 4.1.2; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0
+1 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+1 2
+MobileSafari/601.1 CFNetwork/758.4.3 Darwin/15.5.0
+1 16
+Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0
+1 71
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 68
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)
+0 158
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.26 Safari/537.4
+1 22
+Mozilla/5.0 (Linux; Android 6.0.1; ONEPLUS A3003 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 1
+MB-SiteCrawler
+0 26
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.18 Safari/537.36
+1 7
+Mozilla/5.0 (compatible; Cliqzbot/1.0 +http://cliqz.com/company/cliqzbot)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US; rv:2.0.4) Gecko/20120718 AskTbAVR-IDW/3.12.5.17700 Firefox/14.0.1
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+1 60
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+1 77
+Mozilla/5.0 (Linux; U; Android 4.3; cs-cz; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 1
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G920F Build/MMB29K)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:42.0) Gecko/20100101 Firefox/42.0
+1 130
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:44.0) Gecko/20100101 Firefox/44.0
+1 1
+trainspottr.fm service
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+1 30
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+0 64
+Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 142
+Mozilla/5.0 (Linux; Android 6.0; LG-H815 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.270
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+1 103
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; SM-T110 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/5
+1 1
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I8190N Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile 
+0 76
+Mozilla/5.0 (X11; Linux x86_64; rv:37.0) Gecko/20100101 Firefox/37.0
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/537.86.4
+1 66
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 [FBAN/MessengerFo
+0 51
+python-requests/2.7.0 CPython/2.7.10 Linux/4.2.0-16-generic
+0 2
+Go-http-client/1.1
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+1 77
+Java/1.8.0_45
+0 1
+Links (2.8; Linux 4.5.4-std-1 x86_64; GNU C 4.9.1; text)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G925F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; TREKSTOR; WP 4.7) like Gecko
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+1 76
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 148
+Mozilla/5.0 (Windows NT 6.1; rv:47.0) Gecko/20100101 Firefox/47.0
+1 411
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0) Gecko/20100101 Firefox/4.0
+1 75
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 176
+datagnionbot (+http://www.datagnion.com/bot.html)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 79
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 241
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.58.2 (KHTML, like Gecko) Version/5.1.8 Safari/534.58.2
+1 2
+Jigsaw/2.3.0-beta2
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; D5803 Build/23.4.A.1.264; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.22+ (KHTML, like Gecko) Chromium/17.0.963.56 Chrome/17.0.963.56 Safari/535.22
+1 76
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko,gzip(gfe)
+0 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+1 76
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; X9 Build/KOT49H)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0
+1 77
+Microsoft Office Mobile/15.0
+0 2
+Mozilla/5.0 (Linux; Android 5.0; E2303 Build/26.1.A.3.111; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/49.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 744
+Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; GT-I8200N Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 60
+Mozilla/5.0 (compatible; linkdexbot/2.2; +http://www.linkdex.com/bots/)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET 
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:27.0) Gecko/20100101 Firefox/27.0
+1 4
+Dalvik/1.6.0 (Linux; U; Android 4.1.1; HUAWEI G510-0100 Build/HuaweiG510-0100)
+0 1
+PocketParser/2.0 (+https://getpocket.com/pocketparser_ua)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; ONE A2003 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0
+0 61
+Safari/10601.6.17 CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+1 2
+Mozilla/5.0 (Linux; Android 6.0.1; D6503 Build/23.5.A.0.575) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 76
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0
+1 65
+Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.570; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 1
+Pinterest/0.2 (+http://www.pinterest.com/)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Saf
+0 61
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); de; rv:1.9.2.27) Gecko/20120216 Firefox/3.6.27
+1 72
+Mozilla/4.0 (compatible;)
+0 112
+Mozilla/5.0 (Linux; U; Android 4.4.2; de-de; GT-P5210 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+1 65
+Googlebot-Image/1.0
+1 25
+python-requests/2.10.0
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 1
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I8200N Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 105
+Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A3500-F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Sa
+0 74
+Jigsaw/2.3.0 W3C_CSS_Validator_JFouffa/2.0 (See 
+0 81
+Mozilla/5.0 (Linux; U; Android 4.4.2; de-de; HTC_One_mini Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 88
+Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 47
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:11.0) Gecko/20120312 Firefox/11.0 SeaMonkey/2.8
+1 77
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+1 6
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0
+1 81
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0
+1 1
+Mozilla/5.0 (Linux; Android 4.4.2; Cynus T8 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920P Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
+0 42
+Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 107
+Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00ED Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0
+1 77
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 63
+Mozilla/5.0 (iPad; CPU OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Safari/600.1
+1 75
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+1 154
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 55
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/537.86.5
+1 152
+Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 523
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0
+1 66
+Mozilla/5.0 (Linux; Android 4.4.4; D2206 Build/18.5.C.0.25) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.
+0 1
+Mozilla/5.0 (Linux; Android 5.1; XT1032 Build/LPBS23.13-56-2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/5
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 [FBAN/FBIOS;FBAV/
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/8.0.8 Safari/600.8.9
+1 77
+Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A3500-FL Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; HTC One Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/Messenger
+0 96
+Mozilla/5.0 (Windows NT 4.0; rv:43.0) Gecko/20100101 Firefox/43.0
+1 65
+AdobeUxTechC4-Async/3.0.12 (win32)
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:22.0) Gecko/20100101 Firefox/22.0
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 565
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500FN Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+1 75
+Googlebot/2.1 (+http://www.google.com/bot.html)
+1 1
+Mozilla/5.0 (Linux; Android 5.0; E2303 Build/26.1.A.3.111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile 
+0 91
+Mozilla/5.0 (compatible; um-LN/1.0; mailto: techinfo@ubermetrics-technologies.com)
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; SGP621 Build/23.4.A.1.264; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/5
+0 1
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; TREKSTOR; WP 4.7; TrekStor) like Gecko
+0 84
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 2169
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+1 74
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 270
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P7-L10 Build/HuaweiP7-L10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 137
+Mozilla/5.0 (X11; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0
+1 77
+Mozilla/5.0 (X11; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0
+1 61
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; D5803 Build/23.5.A.0.575)
+0 1
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 67
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G920F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 197
+Mozilla/5.0 (Linux; Android 4.3; Nexus 7 Build/JSS15R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Safari/537.
+1 77
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 73
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/FBIOS;FBAV/59.0.0.
+0 201
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 276
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:31.0) Gecko/20100101 Firefox/31.0
+1 77
+Mozilla/5.0 (Linux; Android 4.4.4; SM-E500F Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+1 173
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) Chrome/27.0.1453 Safari/53
+1 1338
+Mozilla/5.0 (Linux; Android 6.0; LG-D855 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.270
+0 1
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G360F Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 2913
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+1 1
+Mozilla/5.0 (Linux; Android 4.4.2; ZTE Blade Vec Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/10.0.612.1 Safari/534.15
+1 31
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+1 222
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:18.0) Gecko/18.0 Firefox/18.0
+1 70
+Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.575) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobil
+0 56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17
+1 355
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6 - James BOT - WebCrawler http://co
+1 4
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile 
+0 87
+Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 42
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G903F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+1 1004
+Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G930F Build/MMB29K)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1
+1 1270
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+1 1545
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+1 23
+Mozilla/5.0 (compatible; archive.org_bot; Wayback Machine Live Record; +http://archive.org/details/archive.org_bot)
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+1 78
+Safari/11601.6.17 CFNetwork/760.5.1 Darwin/15.5.0 (x86_64)
+1 4
+Mozilla/5.0 (compatible; GigablastOpenSource/1.0)
+0 3
+Mozilla/5.0 (Linux; Android 4.3; ME302C Build/JSS15Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Safari/537.3
+1 83
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.13+ (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 148
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.99 Safari/537.36
+1 2
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+1 317
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.15 Safari/535.1
+1 77
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9195I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.94 Mobile 
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1
+1 565
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A
+0 60
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+1 4
+Mozilla/5.0 (Linux; Android 4.4.2; S208 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safa
+0 44
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTR
+1 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:6.0.1) Gecko/20100101 Firefox/6.0.1
+1 77
+Mozilla/4.0 (Windows; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+1 4
+Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
+1 16
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.34 Safari/534.24
+1 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 68
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17
+1 267
+Lynx/2.8.8rel.1 libwww-FM/2.14FM
+0 2
+Mozilla/5.0 (Windows NT 6.1; rv:43.0) Gecko/20100101 Firefox/43.0
+1 2342
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile 
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; de-de; SonyST27i Build/6.2.A.1.100) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 
+0 13
+Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI GRA-L09 Build/HUAWEIGRA-L09C02B194) AppleWebKit/537.36 (KHTML, like Gecko) Version/
+0 1
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.8.4 (like Gecko) Konqueror/4.8
+0 158
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 948
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko Firefox/11.0
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+1 38
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36
+1 210
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.71 Safari/537.36
+1 5
+Mozilla/5.0 (X11; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0
+1 77
+Spider: Yahoo
+2 37
+WhatsApp/2.16.133 A
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; Lenovo A7600-F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.40 (KHTML, like Gecko) Version/10.0 Mobile/14A5309d 
+0 71
+Mozilla/5.0 (Linux; Android 6.0.1; D6603 Build/23.5.A.0.575; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 3
+Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.27
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.154 Safari/537.36
+1 66
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.0 Safari/537.36
+1 153
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+1 125
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+1 47
+Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 
+0 79
+Mozilla/5.0 (X11; Linux x86_64; rv:42.0) Gecko/20100101 Firefox/42.0
+1 2
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925F/G925FXXS3DPF6 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Samsun
+0 123
+Mozilla/5.0 (Linux; Android 6.0.1; ONE A2003 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile 
+0 64
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/FBIOS;FBA
+0 1282
+Mozilla/5.0 (Linux; Android 4.4.2; InFocus M2_3G Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; de-at; ST10216-3 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+1 3
+HTTPing v1.5.8
+0 70
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G925F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.21 (KHTML, like Gecko) rekonq/2.4.2 Safari/537.21
+1 29
+Java/1.6.0_30
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.97 Safari/537.36
+1 151
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 417
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20140205 Firefox/24.0 Iceweasel/24.3.0
+1 77
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MOB30M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 114
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 46
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 196
+Mozilla/5.0 (Linux; Android 6.0.1; SM-N910F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0
+1 77
+Mozilla/5.0 (X11; Linux x86_64) KHTML/4.13.3 (like Gecko) Konqueror/4.13
+0 35
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko; Google Page Speed Insights) 
+0 575
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G800F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.
+0 1
+Mozilla/5.0 (compatible) Feedfetcher-Google;(+http://www.google.com/feedfetcher.html)
+0 2
+Mozilla/5.0 (Windows NT 10.0; rv:47.0) Gecko/20100101 Firefox/47.0
+1 141
+Feosey Mohk Crawler
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+1 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0
+1 74
+Python-urllib/2.7
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 (FlipboardProxy/1.6; +http://flipboard.com/
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:28.0) Gecko/20100101 Firefox/28.0 (FlipboardProxy/1.1; +http://flipboard.com/
+1 26
+Slack/227000 CFNetwork/758.4.3 Darwin/15.5.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:45.0) Gecko/20100101 Firefox/45.0
+1 48
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+1 75
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.45 Safari/537.22
+1 72
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+1 79
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+1 2
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:16.0) Gecko/16.0 Firefox/16.0
+1 76
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+1 37
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:20.0) Gecko/20130214 Firefox/20.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0
+1 2
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+1 24
+W3C_I18n-Checker/1.0 (http://validator.w3.org/services)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.152 Safari/537.36
+1 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:19.0) Gecko/19.0 Firefox/19.0
+1 68
+Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T530 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.2 Ch
+0 66
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.108 Safari/537.36
+1 47
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/601.4.4 (KHTML, like Gecko) Version/9.0.3 Safari/601.4.4
+1 1217
+Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.0 Safari/534.34
+1 88
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0) Gecko/20100101 Firefox/7.0
+1 77
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+1 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.48 Safari/537.36 Viva
+1 69
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36
+1 1
+Mozilla/5.0 (X11; Linux x86_64; rv:27.0) Gecko/20100101 Firefox/27.0
+1 77
+Mozilla/5.0 (Linux; Android 5.1.1; E6653 Build/32.0.A.6.200) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 64
+Mozilla/5.0 (Linux; U; Android 4.3; de-de; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 75
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Safari/537.36
+1 146
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+1 31
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+1 47
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (compatible; spbot/5.0.2; +http://OpenLinkProfiler.org/bot )
+0 6
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safar
+0 106
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G361F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 2
+Mozilla/5.0 (Linux; Android 5.1; HUAWEI RIO-L01 Build/HuaweiRIO-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 1
+Mozilla/5.0 (X11; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
+1 77
+Mozilla/5.0 (compatible; Gluten Free Crawler/1.0; +http://glutenfreepleasure.com/)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+1 5
+Dalvik/2.1.0 (Linux; U; Android 5.1.1; D5503 Build/14.6.A.1.236)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+1 113
+Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~css-validator-emoti
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+1 65
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17
+1 3217
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N7100 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Arora/0.11.0 Safari/534.34
+1 76
+Mozilla/5.0 (X11; Linux x86_64; rv:44.0) Gecko/20100101 Firefox/44.0
+1 1
+WhatsApp/2.16.6/i
+0 14
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; MASBJS; rv:11.0) like Gecko
+0 51
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 [FBAN/FBIOS;FBAV
+0 13
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; de-de; MediaPad M1 8.0 Build/HuaweiMediaPad) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; D5803 Build/23.5.A.0.575) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 48
+W3C_Unicorn/1.0 (http://validator.w3.org/services)
+0 2
+XING-contenttabreceiver/2.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+1 67
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+1 77
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 3990
+Mozilla/5.0 (compatible; SEOdiver/1.0; +http://www.seodiver.com/bot)
+0 6
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 38
+Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Saf
+0 135
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+1 1
+Mozilla/5.0 (X11; Linux i686; rv:10.0.2) Gecko/20120216 Firefox/10.0.2 SeaMonkey/2.7.2
+1 77
+Mozilla/5.0 (Linux; Android 6.0; UMI TOUCH Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Sa
+0 44
+Mozilla/5.0 (Linux; Android 5.0; LG-D855 Build/LRX21R.A1445306351; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chr
+0 3
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:47.0) Gecko/47.0 Firefox/47.0
+1 325
+Mozilla/5.0 (X11; Linux i686; rv:34.0) Gecko/20100101 Firefox/34.0
+1 77
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X; c) AppleWebKit/535+ (KHTML, like Gecko) Version/5.0 Safari/535.22+ Midori/0.4
+1 76
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+1 104
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301Q Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+1 155
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+1 77
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+1 29
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.19 (Chromium Portable 6.0)
+0 52
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+1 85
+Mozilla/5.0 (Linux; Android 5.1.1; SM-T330 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 2
+Mozilla/5.0 (Linux; Android 6.0; MotoG3 Build/MPI24.65-33; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 281
+Mozilla/5.0 (Linux; Android 5.1.1; ONE E1003 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile 
+0 291
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+1 66
+curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:47.0) Gecko/20100101 Firefox/47.0
+1 155
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+1 156
+Lynx/2.8.9dev.1 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.3.8
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; HTC One mini 2 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+1 17
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+1 215
+Mozilla/5.0 (Linux; Android 4.4.4; T1-A21w Build/HuaweiMediaPad) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 S
+0 81
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G903F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.
+0 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:36.0) Gecko/20100101 Firefox/36.0 SeaMonkey/2.33.1
+1 77
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13E233 Safa
+0 403
+Lynx/2.8.8pre.4 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/2.12.23
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.270
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+1 64
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36
+1 44
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 1
+Mozilla/5.0 (Windows NT 6.2; WOW64)
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.15 Safari/535.7
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.109 Safari/537.36
+1 1
+Mozilla/5.0 (Linux; Android 4.4.2; bq Aquaris 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; LENNY Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+1 470
+Mozilla/5.0 (Linux; Android 4.4.2; Funker R504 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+1 784
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+1 217
+Mozilla/5.0 (Linux; Android 5.1.1; C6903 Build/14.6.A.1.236; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobil
+0 63
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+1 2
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:22.0) Gecko/20100101 Firefox/22.0
+1 77
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+1 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G900T Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.4.8 (KHTML, like Gecko) Version/8.0.3 Safari/600.4.8
+1 145
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Saf
+0 74
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+1 11
+WordPress/4.5.3; http://www.mucbook.de
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+1 2
+Mozilla/5.0 (Linux; Android 5.1; X110/3G Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.235
+0 107
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:12.0) Gecko/20120429 Firefox/12.0 SeaMonkey/2.9.1
+1 77
+Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.6.30 Version/10.60
+1 28
+Browser: Safari
+2 36256
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG-SM-G900A Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Qt/4.7.1 Safari/533.3
+1 38
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A3
+0 76
+Mozilla/5.0 (compatible; Dataprovider/6.92; +https://www.dataprovider.com/)
+0 3
+Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+1 2
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A500FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+1 47
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 72
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+1 675
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Safari/53
+1 96
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 [FBAN/FBIOS;FBAV/
+0 71
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5
+1 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.38 (KHTML, like Gecko) Version/10.0 Mobile/14A5297c 
+0 59
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 120
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+1 121
+Mozilla/5.0 (X11; Linux x86_64; rv:23.0) Gecko/20100101 Firefox/23.0
+1 77
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.
+1 321
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 15
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; de-de) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 43
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 1943
+Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+1 57
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/MessengerForiOS;FB
+0 76
+Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0
+1 77
+Mozilla/5.0 (Linux; Android 4.4.2; HTC Desire 610 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+1 66
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/18.0 Firefox/18.0
+1 73
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0
+1 74
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile S
+0 439
+SpeedySpider - http://www.entireweb.com
+0 3
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) rekonq/1.1 Safari/534.34
+1 57
+Mozilla/5.0 (X11; Linux i686; rv:2.0.0) Gecko/20100101
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 973
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:48.0) Gecko/20100101 Firefox/48.0
+1 64
+Mozilla/5.0 (Linux; Android 5.1.1; SM-A310F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6
+1 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5
+0 8
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9192 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+1 1
+Mozilla/5.0 (Linux; U; Android 4.4.2; de-de; HTC Desire 526G dual sim Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Ve
+0 1
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Gecko Firefox/11.0
+1 1
+Spider: MJ12bot
+2 23
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+1 77
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MTC19V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.44 Safari/537.36
+1 77
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+1 762
+Mozilla/5.0 (Linux; Android 5.1; FP2 Build/FP2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mo
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 120
+Mozilla/5.0 (Linux; Android 6.0.1; ONEPLUS A3003 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mob
+0 44
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 194
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+1 14
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:13.0) Gecko/20100101 Firefox/13.0
+1 76
+Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+1 77
+Mozilla/5.0 (compatible; MetaJobBot; http://www.metajob.de/crawler)
+0 3
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/16.0.124986583 Mobile/13F69 Safari
+1 116
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G800F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 C
+0 130
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Safari/537.36
+1 64
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.60 Safari/537.36
+1 79
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+1 82
+Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101 Firefox/28.0
+1 77
+Mozilla/5.0 (Linux; Android 4.4.2; HTC One mini Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 2
+Browser: Opera
+2 234
+Mozilla/5.0 (Linux; Android 6.0.1; SM-T810 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Safari/53
+1 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69
+0 70
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+1 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.132 Safari/537.36
+1 1
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.58 Safari/537.31
+1 1
+Mozilla-1.1
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.21 Safari/534.30
+1 77
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+1 2
+Mozilla/5.0 (Linux; Android 5.0.1; SM-N910F Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:15.0) Gecko/20100101 Firefox/15.0
+1 73
+Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16
+1 81
+Mozilla/5.0 (Linux; Android 5.1.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+1 31
+Mozilla/5.0 (Linux; Android 5.0; K013 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.8
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 [FBAN/FBIOS;FBAV/58.0.0.
+0 68
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/12.0.68608 Mobile/13F69 S
+0 43
+Mozilla/5.0 (Linux; U; Android 5.0.2; zh-CN; ALE-UL00 Build/HuaweiALE-UL00) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.
+0 1
+okhttp/2.5.0
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:44.0) Gecko/20100101 Firefox/44.0
+1 80
+Mozilla/5.0 (Windows NT 6.1; de;rv:12.0) Gecko/20120403211507 Firefox/12.0
+1 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+1 1720
+Jakarta Commons-HttpClient/3.1-rc1
+0 1
+Mozilla/5.0 (Android; Mobile; rv:1.1.1) Gecko/1.1.1 Firefox/1.1.1
+1 1
+Mozilla/5.0 (Linux; Android 5.0.2; MI 2 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490
+0 1
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-N5100 Build/KOT49H)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BOIE9;DEDE)
+1 81
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0
+1 10
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0
+1 2141
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.33 Safari/535.19
+1 76
+Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; SM-T560 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 S
+0 1
+Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20100101 Firefox/14.0.1
+1 1
+Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
+0 75
+Mozilla/5.0 (Linux; Android 5.0.2; XT1032 Build/LXB22.46-28.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mob
+0 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:48.0) Gecko/20100101 Firefox/48.0
+1 47
+Mozilla/5.0 (Linux; Android 4.4.4; X9 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile
+0 127
+Mozilla/5.0 (Linux; Android 6.0; XT1068 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0
+0 1
+com.apple.WebKit.WebContent/10600.4.8 CFNetwork/720.2.5 Darwin/14.1.1 (x86_64)
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/5.1; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; MotoG3 Build/MPI24.107-55) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobi
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+1 131
+W3C_Validator/1.3 http://validator.w3.org/services
+0 3
+WhatsApp/2.16.95 A
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; F5121 Build/34.0.A.1.277; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+1 77
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.45 Safari/537.36 OPR/15.0.1147.72
+1 77
+Mozilla/5.0 (Android; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0
+1 60
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+1 71
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G930F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 3
+Mozilla/5.0 (compatible; WBSearchBot/1.1; +http://www.warebay.com/bot.html)
+0 4
+Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+1 77
+Mozilla/5.0 (x86_64) AppleWebKit/537.6+ (KHTML, like Gecko) WebKitGTK+/1.10.2 luakit/039e319
+0 36
+Mozilla/5.0 (X11; Linux x86_64; rv:43.0) Gecko/20100101 Firefox/43.0
+1 12
+# End Of Table - agents
+# -search strings- 
+senseven.net
+1
+senseven ausstellung
+2
+senseven münchen ausstellung
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,11 +1,25 @@
 <div class="content-bg">
     <div class="container">
         <div class="row">
-            <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1 text-center">
-                <h2>Die Ausstellung mit dem 7. Sinn</h2>
+            <div class="col-lg-12 text-center">
+                <h2>Senseven &middot Die Ausstellung mit dem 7. Sinn</h2>
                 <h5>Eine Veranstaltung des Bachelorstudiengangs Kunst und Multimedia <br/>
 					<span  class="xs-small-font">LMU &middot; Department Kunstwissenschaften &middot; Institut für Kunstpädagogik</span>
                 </h5>
+                <span class="underline-white"></span>
+ 				<div class="row margin-top"> 
+                    <div class="col-lg-offset-1 col-lg-10 col-lg-offset-1"> <br/>
+                        <div class="elastic-video-wrapper"><div class="elastic-video">
+                        	<iframe width="853" height="480" src="https://www.youtube.com/embed/AAsZaWhdAtY?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div></div>
+                        <p><span class="margin-top"><br/>
+                        Vielen Dank an Annika Mittelmeier für den wunderbaren Film und natürlich auch an alle Besucher und Helfer, die SENSEVEN für uns 
+                        zum Erfolg gemacht haben! Fotos zur Ausstellung findet ihr auf <a href="https://www.facebook.com/senseven2016/" target="_blank" 
+                        title="Facebook-Profil aufrufen">facebook</a> oder 
+                        <a href="https://www.instagram.com/senseven2016/" target="_blank" title="Instagram-Profil aufrufen">Instagram</a>.<br/><br/>
+                        </span></p>
+                    </div>
+                </div>
                 <span class="underline-white"></span>
                 <h2><span class="margin-top">15. Juli - 17. Juli 2016</span></h2>
                 <div id="canvasMain">
